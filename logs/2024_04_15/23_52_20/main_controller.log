@@ -1,0 +1,5 @@
+[ 2024-04-15 23:52:20,786 ] 97 main_controller - ERROR - Account is None, choose a random account: Username: giathanh010101@gmail.com, Password: aichi@5921
+[ 2024-04-15 23:52:23,263 ] 97 main_controller - INFO - Browser opened
+[ 2024-04-15 23:52:32,237 ] 97 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_15\23_52_20\screenshot_giathanh010101@gmail.com.png
+[ 2024-04-15 23:52:42,239 ] 97 main_controller - INFO - Closing browser
+[ 2024-04-15 23:52:44,482 ] 97 main_controller - INFO - Browser closed

@@ -1,0 +1,1392 @@
+[ 2024-04-16 04:30:50,038 ] 94 luthien5921 - INFO - Opened login page
+[ 2024-04-16 04:30:50,038 ] 94 luthien5921 - INFO - Opened login page
+[ 2024-04-16 04:30:50,038 ] 94 luthien5921 - INFO - Opened login page
+[ 2024-04-16 04:30:54,080 ] 94 luthien5921 - INFO - Logging in
+[ 2024-04-16 04:30:54,080 ] 94 luthien5921 - INFO - Logging in
+[ 2024-04-16 04:30:54,080 ] 94 luthien5921 - INFO - Logging in
+[ 2024-04-16 04:30:54,083 ] 94 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 04:30:54,083 ] 94 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 04:30:54,083 ] 94 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 04:30:54,398 ] 94 luthien5921 - INFO - Logged in finished
+[ 2024-04-16 04:30:54,398 ] 94 luthien5921 - INFO - Logged in finished
+[ 2024-04-16 04:30:54,398 ] 94 luthien5921 - INFO - Logged in finished
+[ 2024-04-16 04:30:54,701 ] 94 luthien5921 - INFO - On main page
+[ 2024-04-16 04:30:54,701 ] 94 luthien5921 - INFO - On main page
+[ 2024-04-16 04:30:54,701 ] 94 luthien5921 - INFO - On main page
+[ 2024-04-16 04:30:56,593 ] 94 luthien5921 - INFO - Search submitted
+[ 2024-04-16 04:30:56,593 ] 94 luthien5921 - INFO - Search submitted
+[ 2024-04-16 04:30:56,593 ] 94 luthien5921 - INFO - Search submitted
+[ 2024-04-16 04:30:56,613 ] 94 luthien5921 - INFO - Collected 4 forms
+[ 2024-04-16 04:30:56,613 ] 94 luthien5921 - INFO - Collected 4 forms
+[ 2024-04-16 04:30:56,613 ] 94 luthien5921 - INFO - Collected 4 forms
+[ 2024-04-16 04:30:56,657 ] 94 luthien5921 - INFO - Parsed data: title: 【04月30日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月30日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 90551
+[ 2024-04-16 04:30:56,657 ] 94 luthien5921 - INFO - Parsed data: title: 【04月30日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月30日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 90551
+[ 2024-04-16 04:30:56,657 ] 94 luthien5921 - INFO - Parsed data: title: 【04月30日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月30日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 90551
+[ 2024-04-16 04:30:56,659 ] 94 luthien5921 - INFO - Parsed data: title: 【04月30日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月30日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 90551
+[ 2024-04-16 04:30:56,659 ] 94 luthien5921 - INFO - Parsed data: title: 【04月30日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月30日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 90551
+[ 2024-04-16 04:30:56,659 ] 94 luthien5921 - INFO - Parsed data: title: 【04月30日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月30日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 90551
+[ 2024-04-16 04:30:56,694 ] 94 luthien5921 - INFO - Parsed data: title: 【04月25日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月25日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 90550
+[ 2024-04-16 04:30:56,694 ] 94 luthien5921 - INFO - Parsed data: title: 【04月25日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月25日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 90550
+[ 2024-04-16 04:30:56,694 ] 94 luthien5921 - INFO - Parsed data: title: 【04月25日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月25日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 90550
+[ 2024-04-16 04:30:56,696 ] 94 luthien5921 - INFO - Parsed data: title: 【04月25日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月25日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 90550
+[ 2024-04-16 04:30:56,696 ] 94 luthien5921 - INFO - Parsed data: title: 【04月25日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月25日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 90550
+[ 2024-04-16 04:30:56,696 ] 94 luthien5921 - INFO - Parsed data: title: 【04月25日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月25日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 90550
+[ 2024-04-16 04:30:56,738 ] 94 luthien5921 - INFO - Parsed data: title: 【04月23日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月23日 07時30分, end_date: 2024年04月19日 12時00分, template_seq: 90549
+[ 2024-04-16 04:30:56,738 ] 94 luthien5921 - INFO - Parsed data: title: 【04月23日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月23日 07時30分, end_date: 2024年04月19日 12時00分, template_seq: 90549
+[ 2024-04-16 04:30:56,738 ] 94 luthien5921 - INFO - Parsed data: title: 【04月23日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月23日 07時30分, end_date: 2024年04月19日 12時00分, template_seq: 90549
+[ 2024-04-16 04:30:56,740 ] 94 luthien5921 - INFO - Parsed data: title: 【04月23日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月23日 07時30分, end_date: 2024年04月19日 12時00分, template_seq: 90549
+[ 2024-04-16 04:30:56,740 ] 94 luthien5921 - INFO - Parsed data: title: 【04月23日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月23日 07時30分, end_date: 2024年04月19日 12時00分, template_seq: 90549
+[ 2024-04-16 04:30:56,740 ] 94 luthien5921 - INFO - Parsed data: title: 【04月23日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月23日 07時30分, end_date: 2024年04月19日 12時00分, template_seq: 90549
+[ 2024-04-16 04:30:56,779 ] 94 luthien5921 - INFO - Parsed data: title: 【04月18日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: None, start_date: 2024年03月18日 07時30分, end_date: 2024年04月16日 12時00分, template_seq: 90548
+[ 2024-04-16 04:30:56,779 ] 94 luthien5921 - INFO - Parsed data: title: 【04月18日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: None, start_date: 2024年03月18日 07時30分, end_date: 2024年04月16日 12時00分, template_seq: 90548
+[ 2024-04-16 04:30:56,779 ] 94 luthien5921 - INFO - Parsed data: title: 【04月18日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: None, start_date: 2024年03月18日 07時30分, end_date: 2024年04月16日 12時00分, template_seq: 90548
+[ 2024-04-16 04:30:56,781 ] 94 luthien5921 - INFO - Parsed data: title: 【04月18日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: None, start_date: 2024年03月18日 07時30分, end_date: 2024年04月16日 12時00分, template_seq: 90548
+[ 2024-04-16 04:30:56,781 ] 94 luthien5921 - INFO - Parsed data: title: 【04月18日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: None, start_date: 2024年03月18日 07時30分, end_date: 2024年04月16日 12時00分, template_seq: 90548
+[ 2024-04-16 04:30:56,781 ] 94 luthien5921 - INFO - Parsed data: title: 【04月18日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: None, start_date: 2024年03月18日 07時30分, end_date: 2024年04月16日 12時00分, template_seq: 90548
+[ 2024-04-16 04:30:56,782 ] 94 luthien5921 - INFO - Number of filtered forms left is: 4 form(s)
+[ 2024-04-16 04:30:56,782 ] 94 luthien5921 - INFO - Number of filtered forms left is: 4 form(s)
+[ 2024-04-16 04:30:56,782 ] 94 luthien5921 - INFO - Number of filtered forms left is: 4 form(s)
+[ 2024-04-16 04:30:56,785 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90548
+[ 2024-04-16 04:30:56,785 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90548
+[ 2024-04-16 04:30:56,785 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90548
+[ 2024-04-16 04:30:56,785 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90548
+[ 2024-04-16 04:30:56,785 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90548
+[ 2024-04-16 04:30:56,785 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90548
+[ 2024-04-16 04:31:02,286 ] 94 luthien5921 - INFO - Form message: 大変申し訳ございません。申込数が上限に達した為、締め切らせていただきました。
+[ 2024-04-16 04:31:02,286 ] 94 luthien5921 - INFO - Form message: 大変申し訳ございません。申込数が上限に達した為、締め切らせていただきました。
+[ 2024-04-16 04:31:02,286 ] 94 luthien5921 - INFO - Form message: 大変申し訳ございません。申込数が上限に達した為、締め切らせていただきました。
+[ 2024-04-16 04:31:02,287 ] 94 luthien5921 - INFO - Form is closed, template sequence: 90548
+[ 2024-04-16 04:31:02,287 ] 94 luthien5921 - INFO - Form is closed, template sequence: 90548
+[ 2024-04-16 04:31:02,287 ] 94 luthien5921 - INFO - Form is closed, template sequence: 90548
+[ 2024-04-16 04:31:02,287 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90550
+[ 2024-04-16 04:31:02,287 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90550
+[ 2024-04-16 04:31:02,287 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90550
+[ 2024-04-16 04:31:02,288 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90550
+[ 2024-04-16 04:31:02,288 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90550
+[ 2024-04-16 04:31:02,288 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90550
+[ 2024-04-16 04:31:07,810 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:07,810 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:07,810 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:07,814 ] 94 luthien5921 - INFO - Form is available, template sequence: 90550
+[ 2024-04-16 04:31:07,814 ] 94 luthien5921 - INFO - Form is available, template sequence: 90550
+[ 2024-04-16 04:31:07,814 ] 94 luthien5921 - INFO - Form is available, template sequence: 90550
+[ 2024-04-16 04:31:07,814 ] 94 luthien5921 - INFO - Filling form, template sequence: 90550
+[ 2024-04-16 04:31:07,814 ] 94 luthien5921 - INFO - Filling form, template sequence: 90550
+[ 2024-04-16 04:31:07,814 ] 94 luthien5921 - INFO - Filling form, template sequence: 90550
+[ 2024-04-16 04:31:09,538 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:09,538 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:09,538 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:09,613 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Duy
+[ 2024-04-16 04:31:09,613 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Duy
+[ 2024-04-16 04:31:09,613 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Duy
+[ 2024-04-16 04:31:09,740 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Vo
+[ 2024-04-16 04:31:09,740 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Vo
+[ 2024-04-16 04:31:09,740 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Vo
+[ 2024-04-16 04:31:09,826 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 19950719
+[ 2024-04-16 04:31:09,826 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 19950719
+[ 2024-04-16 04:31:09,826 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 19950719
+[ 2024-04-16 04:31:09,900 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0801234567
+[ 2024-04-16 04:31:09,900 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0801234567
+[ 2024-04-16 04:31:09,900 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0801234567
+[ 2024-04-16 04:31:09,956 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Katana
+[ 2024-04-16 04:31:09,956 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Katana
+[ 2024-04-16 04:31:09,956 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Katana
+[ 2024-04-16 04:31:10,038 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:10,038 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:10,038 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:13,484 ] 82 luthien5921 - ERROR - Failed to check end message: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 89, in fill
+    page_src = browser.page_source
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 448, in page_source
+    return self.execute(Command.GET_PAGE_SOURCE)["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 228, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:13,484 ] 82 luthien5921 - ERROR - Failed to check end message: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 89, in fill
+    page_src = browser.page_source
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 448, in page_source
+    return self.execute(Command.GET_PAGE_SOURCE)["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 228, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:13,484 ] 82 luthien5921 - ERROR - Failed to check end message: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 89, in fill
+    page_src = browser.page_source
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 448, in page_source
+    return self.execute(Command.GET_PAGE_SOURCE)["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 228, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:13,489 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90551
+[ 2024-04-16 04:31:13,489 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90551
+[ 2024-04-16 04:31:13,489 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90551
+[ 2024-04-16 04:31:13,490 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90551
+[ 2024-04-16 04:31:13,490 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90551
+[ 2024-04-16 04:31:13,490 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90551
+[ 2024-04-16 04:31:19,080 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:19,080 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:19,080 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:19,081 ] 94 luthien5921 - INFO - Form is available, template sequence: 90551
+[ 2024-04-16 04:31:19,081 ] 94 luthien5921 - INFO - Form is available, template sequence: 90551
+[ 2024-04-16 04:31:19,081 ] 94 luthien5921 - INFO - Form is available, template sequence: 90551
+[ 2024-04-16 04:31:19,081 ] 94 luthien5921 - INFO - Filling form, template sequence: 90551
+[ 2024-04-16 04:31:19,081 ] 94 luthien5921 - INFO - Filling form, template sequence: 90551
+[ 2024-04-16 04:31:19,081 ] 94 luthien5921 - INFO - Filling form, template sequence: 90551
+[ 2024-04-16 04:31:21,178 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:21,178 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:21,178 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:21,241 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Phong
+[ 2024-04-16 04:31:21,241 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Phong
+[ 2024-04-16 04:31:21,241 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Phong
+[ 2024-04-16 04:31:21,308 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Phan
+[ 2024-04-16 04:31:21,308 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Phan
+[ 2024-04-16 04:31:21,308 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Phan
+[ 2024-04-16 04:31:21,389 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 20010905
+[ 2024-04-16 04:31:21,389 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 20010905
+[ 2024-04-16 04:31:21,389 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 20010905
+[ 2024-04-16 04:31:21,459 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0802468135
+[ 2024-04-16 04:31:21,459 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0802468135
+[ 2024-04-16 04:31:21,459 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0802468135
+[ 2024-04-16 04:31:21,524 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Shogun
+[ 2024-04-16 04:31:21,524 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Shogun
+[ 2024-04-16 04:31:21,524 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Shogun
+[ 2024-04-16 04:31:21,567 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:21,567 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:21,567 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:24,036 ] 82 luthien5921 - ERROR - Failed to check end message: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 89, in fill
+    page_src = browser.page_source
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 448, in page_source
+    return self.execute(Command.GET_PAGE_SOURCE)["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 228, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:24,036 ] 82 luthien5921 - ERROR - Failed to check end message: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 89, in fill
+    page_src = browser.page_source
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 448, in page_source
+    return self.execute(Command.GET_PAGE_SOURCE)["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 228, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:24,036 ] 82 luthien5921 - ERROR - Failed to check end message: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 89, in fill
+    page_src = browser.page_source
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 448, in page_source
+    return self.execute(Command.GET_PAGE_SOURCE)["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 228, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:24,040 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90549
+[ 2024-04-16 04:31:24,040 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90549
+[ 2024-04-16 04:31:24,040 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90549
+[ 2024-04-16 04:31:24,040 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90549
+[ 2024-04-16 04:31:24,040 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90549
+[ 2024-04-16 04:31:24,040 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90549
+[ 2024-04-16 04:31:29,626 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:29,626 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:29,626 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:29,627 ] 94 luthien5921 - INFO - Form is available, template sequence: 90549
+[ 2024-04-16 04:31:29,627 ] 94 luthien5921 - INFO - Form is available, template sequence: 90549
+[ 2024-04-16 04:31:29,627 ] 94 luthien5921 - INFO - Form is available, template sequence: 90549
+[ 2024-04-16 04:31:29,627 ] 94 luthien5921 - INFO - Filling form, template sequence: 90549
+[ 2024-04-16 04:31:29,627 ] 94 luthien5921 - INFO - Filling form, template sequence: 90549
+[ 2024-04-16 04:31:29,627 ] 94 luthien5921 - INFO - Filling form, template sequence: 90549
+[ 2024-04-16 04:31:31,554 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:31,554 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:31,554 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:31,608 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Minh
+[ 2024-04-16 04:31:31,608 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Minh
+[ 2024-04-16 04:31:31,608 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Minh
+[ 2024-04-16 04:31:31,674 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Trinh
+[ 2024-04-16 04:31:31,674 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Trinh
+[ 2024-04-16 04:31:31,674 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Trinh
+[ 2024-04-16 04:31:31,737 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 19970224
+[ 2024-04-16 04:31:31,737 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 19970224
+[ 2024-04-16 04:31:31,737 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 19970224
+[ 2024-04-16 04:31:31,796 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0802468135
+[ 2024-04-16 04:31:31,796 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0802468135
+[ 2024-04-16 04:31:31,796 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0802468135
+[ 2024-04-16 04:31:31,854 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Shinsengumi
+[ 2024-04-16 04:31:31,854 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Shinsengumi
+[ 2024-04-16 04:31:31,854 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Shinsengumi
+[ 2024-04-16 04:31:31,880 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:31,880 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:31,880 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:34,850 ] 82 luthien5921 - ERROR - Failed to check end message: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 89, in fill
+    page_src = browser.page_source
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 448, in page_source
+    return self.execute(Command.GET_PAGE_SOURCE)["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 228, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:34,850 ] 82 luthien5921 - ERROR - Failed to check end message: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 89, in fill
+    page_src = browser.page_source
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 448, in page_source
+    return self.execute(Command.GET_PAGE_SOURCE)["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 228, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:34,850 ] 82 luthien5921 - ERROR - Failed to check end message: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 89, in fill
+    page_src = browser.page_source
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 448, in page_source
+    return self.execute(Command.GET_PAGE_SOURCE)["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 228, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。
+Message: unexpected alert open: {Alert text : 整理番号・パスワードをメモなどにお控えいただくか、
+当ページをファイルに保存、または印刷して保管してください。
+整理番号・パスワードを紛失すると
+申込内容を照会できなくなる可能性がございます。}
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770C13B70]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:34,852 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90550
+[ 2024-04-16 04:31:34,852 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90550
+[ 2024-04-16 04:31:34,852 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90550
+[ 2024-04-16 04:31:34,853 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90550
+[ 2024-04-16 04:31:34,853 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90550
+[ 2024-04-16 04:31:34,853 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90550
+[ 2024-04-16 04:31:40,397 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:40,397 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:40,397 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:40,397 ] 94 luthien5921 - INFO - Form is available, template sequence: 90550
+[ 2024-04-16 04:31:40,397 ] 94 luthien5921 - INFO - Form is available, template sequence: 90550
+[ 2024-04-16 04:31:40,397 ] 94 luthien5921 - INFO - Form is available, template sequence: 90550
+[ 2024-04-16 04:31:40,397 ] 94 luthien5921 - INFO - Filling form, template sequence: 90550
+[ 2024-04-16 04:31:40,397 ] 94 luthien5921 - INFO - Filling form, template sequence: 90550
+[ 2024-04-16 04:31:40,397 ] 94 luthien5921 - INFO - Filling form, template sequence: 90550
+[ 2024-04-16 04:31:43,018 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:43,018 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:43,018 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:43,076 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Quang
+[ 2024-04-16 04:31:43,076 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Quang
+[ 2024-04-16 04:31:43,076 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Quang
+[ 2024-04-16 04:31:43,194 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Le
+[ 2024-04-16 04:31:43,194 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Le
+[ 2024-04-16 04:31:43,194 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Le
+[ 2024-04-16 04:31:43,279 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 20011209
+[ 2024-04-16 04:31:43,279 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 20011209
+[ 2024-04-16 04:31:43,279 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 20011209
+[ 2024-04-16 04:31:43,413 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0802468135
+[ 2024-04-16 04:31:43,413 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0802468135
+[ 2024-04-16 04:31:43,413 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0802468135
+[ 2024-04-16 04:31:43,490 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Katana
+[ 2024-04-16 04:31:43,490 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Katana
+[ 2024-04-16 04:31:43,490 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Katana
+[ 2024-04-16 04:31:43,545 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:43,545 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:43,545 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:46,591 ] 94 luthien5921 - INFO - Get page source successfully
+[ 2024-04-16 04:31:46,591 ] 94 luthien5921 - INFO - Get page source successfully
+[ 2024-04-16 04:31:46,591 ] 94 luthien5921 - INFO - Get page source successfully
+[ 2024-04-16 04:31:46,591 ] 94 luthien5921 - ERROR - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:31:46,591 ] 94 luthien5921 - ERROR - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:31:46,591 ] 94 luthien5921 - ERROR - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:31:46,592 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90551
+[ 2024-04-16 04:31:46,592 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90551
+[ 2024-04-16 04:31:46,592 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90551
+[ 2024-04-16 04:31:46,592 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90551
+[ 2024-04-16 04:31:46,592 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90551
+[ 2024-04-16 04:31:46,592 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90551
+[ 2024-04-16 04:31:52,169 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:52,169 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:52,169 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 105, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:31:52,172 ] 94 luthien5921 - INFO - Form is available, template sequence: 90551
+[ 2024-04-16 04:31:52,172 ] 94 luthien5921 - INFO - Form is available, template sequence: 90551
+[ 2024-04-16 04:31:52,172 ] 94 luthien5921 - INFO - Form is available, template sequence: 90551
+[ 2024-04-16 04:31:52,173 ] 94 luthien5921 - INFO - Filling form, template sequence: 90551
+[ 2024-04-16 04:31:52,173 ] 94 luthien5921 - INFO - Filling form, template sequence: 90551
+[ 2024-04-16 04:31:52,173 ] 94 luthien5921 - INFO - Filling form, template sequence: 90551
+[ 2024-04-16 04:31:53,525 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:53,525 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:53,525 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:31:53,568 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Duy
+[ 2024-04-16 04:31:53,568 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Duy
+[ 2024-04-16 04:31:53,568 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Duy
+[ 2024-04-16 04:31:53,644 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Dang
+[ 2024-04-16 04:31:53,644 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Dang
+[ 2024-04-16 04:31:53,644 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Dang
+[ 2024-04-16 04:31:53,727 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 19950409
+[ 2024-04-16 04:31:53,727 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 19950409
+[ 2024-04-16 04:31:53,727 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 19950409
+[ 2024-04-16 04:31:53,800 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0809998888
+[ 2024-04-16 04:31:53,800 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0809998888
+[ 2024-04-16 04:31:53,800 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0809998888
+[ 2024-04-16 04:31:53,853 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Shinsengumi
+[ 2024-04-16 04:31:53,853 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Shinsengumi
+[ 2024-04-16 04:31:53,853 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Shinsengumi
+[ 2024-04-16 04:31:53,891 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:53,891 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:53,891 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:31:55,767 ] 94 luthien5921 - INFO - Get page source successfully
+[ 2024-04-16 04:31:55,767 ] 94 luthien5921 - INFO - Get page source successfully
+[ 2024-04-16 04:31:55,767 ] 94 luthien5921 - INFO - Get page source successfully
+[ 2024-04-16 04:31:55,768 ] 94 luthien5921 - ERROR - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:31:55,768 ] 94 luthien5921 - ERROR - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:31:55,768 ] 94 luthien5921 - ERROR - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:31:55,768 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90549
+[ 2024-04-16 04:31:55,768 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90549
+[ 2024-04-16 04:31:55,768 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90549
+[ 2024-04-16 04:31:55,768 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90549
+[ 2024-04-16 04:31:55,768 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90549
+[ 2024-04-16 04:31:55,768 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90549

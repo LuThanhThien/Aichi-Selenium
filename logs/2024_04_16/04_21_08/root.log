@@ -1,0 +1,313 @@
+[ 2024-04-16 04:21:09,268 ] 94 root - INFO - Starting all threads
+[ 2024-04-16 04:21:09,268 ] 94 root - INFO - Starting all threads
+[ 2024-04-16 04:21:09,268 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'gen', 'test_mode': True, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_hash': '080-1583-0891', 'uc': True, 'headless': False, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-16 04:21:09,268 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'gen', 'test_mode': True, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_hash': '080-1583-0891', 'uc': True, 'headless': False, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-16 04:21:09,269 ] 94 root - INFO - Number of dev accounts: 1
+[ 2024-04-16 04:21:09,269 ] 94 root - INFO - Number of dev accounts: 1
+[ 2024-04-16 04:21:09,272 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-16 04:21:11,276 ] 94 root - INFO - Thread 0 started
+[ 2024-04-16 04:21:11,276 ] 94 root - INFO - Thread 0 started
+[ 2024-04-16 04:21:12,346 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-16 04:21:18,099 ] 94 luthien5921 - INFO - Opened login page
+[ 2024-04-16 04:21:21,815 ] 94 luthien5921 - INFO - Logging in
+[ 2024-04-16 04:21:21,822 ] 94 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 04:21:22,132 ] 94 luthien5921 - INFO - Logged in finished
+[ 2024-04-16 04:21:22,132 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-16 04:21:22,370 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_16\04_21_08\screenshot_luthien5921.png
+[ 2024-04-16 04:21:22,371 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-16 04:21:22,375 ] 94 luthien5921 - INFO - On main page
+[ 2024-04-16 04:21:24,148 ] 94 luthien5921 - INFO - Search submitted
+[ 2024-04-16 04:21:24,172 ] 94 luthien5921 - INFO - Collected 4 forms
+[ 2024-04-16 04:21:24,208 ] 94 luthien5921 - INFO - Parsed data: title: 【04月30日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月30日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 90551
+[ 2024-04-16 04:21:24,210 ] 94 luthien5921 - INFO - Parsed data: title: 【04月30日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月30日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 90551
+[ 2024-04-16 04:21:24,232 ] 94 luthien5921 - INFO - Parsed data: title: 【04月25日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月25日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 90550
+[ 2024-04-16 04:21:24,233 ] 94 luthien5921 - INFO - Parsed data: title: 【04月25日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月25日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 90550
+[ 2024-04-16 04:21:24,258 ] 94 luthien5921 - INFO - Parsed data: title: 【04月23日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月23日 07時30分, end_date: 2024年04月19日 12時00分, template_seq: 90549
+[ 2024-04-16 04:21:24,259 ] 94 luthien5921 - INFO - Parsed data: title: 【04月23日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月23日 07時30分, end_date: 2024年04月19日 12時00分, template_seq: 90549
+[ 2024-04-16 04:21:24,281 ] 94 luthien5921 - INFO - Parsed data: title: 【04月18日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: None, start_date: 2024年03月18日 07時30分, end_date: 2024年04月16日 12時00分, template_seq: 90548
+[ 2024-04-16 04:21:24,282 ] 94 luthien5921 - INFO - Parsed data: title: 【04月18日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: None, start_date: 2024年03月18日 07時30分, end_date: 2024年04月16日 12時00分, template_seq: 90548
+[ 2024-04-16 04:21:24,282 ] 94 luthien5921 - INFO - Number of filtered forms left is: 4 form(s)
+[ 2024-04-16 04:21:24,282 ] 94 main_controller - INFO - Found 4 form(s)
+[ 2024-04-16 04:21:24,283 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90548
+[ 2024-04-16 04:21:24,283 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90548
+[ 2024-04-16 04:21:30,152 ] 94 luthien5921 - INFO - Form message: 大変申し訳ございません。申込数が上限に達した為、締め切らせていただきました。
+[ 2024-04-16 04:21:30,153 ] 94 luthien5921 - INFO - Form is closed, template sequence: 90548
+[ 2024-04-16 04:21:30,153 ] 94 main_controller - INFO - Form is closed, template sequence: 90548
+[ 2024-04-16 04:21:30,153 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90550
+[ 2024-04-16 04:21:30,153 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90550
+[ 2024-04-16 04:21:35,748 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 104, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:21:35,751 ] 94 luthien5921 - INFO - Form is available, template sequence: 90550
+[ 2024-04-16 04:21:35,751 ] 94 luthien5921 - INFO - Filling form, template sequence: 90550
+[ 2024-04-16 04:21:37,368 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:21:37,428 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Hao
+[ 2024-04-16 04:21:37,479 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Chu
+[ 2024-04-16 04:21:37,550 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 19950409
+[ 2024-04-16 04:21:37,613 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0802468135
+[ 2024-04-16 04:21:37,693 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Ninja
+[ 2024-04-16 04:21:37,733 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:21:38,903 ] 82 luthien5921 - ERROR - Failed to click confirm button: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/main/div/div[3]/div[2]/div/div[2]/button"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 81, in fill
+    browser.find_element(By.XPATH, "/html/body/form/main/div/div[3]/div[2]/div/div[2]/button").click()
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/main/div/div[3]/div[2]/div/div[2]/button"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:21:38,904 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:21:38,905 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90551
+[ 2024-04-16 04:21:38,905 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90551
+
+[ 2024-04-16 04:22:41,366 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 104, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:22:41,368 ] 94 luthien5921 - INFO - Form is available, template sequence: 90551
+[ 2024-04-16 04:22:41,369 ] 94 luthien5921 - INFO - Filling form, template sequence: 90551
+[ 2024-04-16 04:22:41,445 ] 82 luthien5921 - ERROR - Failed to click continue button: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ok"]"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 52, in fill
+    continue_button = browser.find_element(By.XPATH, r'//*[@id="ok"]')
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ok"]"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:22:41,447 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:22:41,448 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90549
+[ 2024-04-16 04:22:41,448 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90549
+[ 2024-04-16 04:22:47,764 ] 82 main_controller - ERROR - Caught exception: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C03CD2]
+	(No symbol) [0x00007FF770BF6FA0]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 75, in subprocess
+    filler.fill(browser, form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 20, in fill
+    browser.get(form_info.url)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 3739, in <lambda>
+    driver.get = lambda url: uc_special_open_if_cf(
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 364, in uc_special_open_if_cf
+    driver.close()
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 458, in close
+    self.execute(Command.CLOSE)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.107)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C03CD2]
+	(No symbol) [0x00007FF770BF6FA0]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:22:47,768 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-16 04:22:50,018 ] 94 main_controller - INFO - Browser closed

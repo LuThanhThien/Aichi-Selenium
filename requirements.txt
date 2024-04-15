@@ -1,0 +1,6 @@
+requests
+selenium
+pyyaml
+pytz
+undetected_chromedriver 
+seleniumbase

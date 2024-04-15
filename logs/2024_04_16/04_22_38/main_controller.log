@@ -1,0 +1,23 @@
+[ 2024-04-16 04:22:38,828 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-16 04:22:41,425 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-16 04:22:58,696 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-16 04:22:58,967 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_16\04_22_38\screenshot_luthien5921.png
+[ 2024-04-16 04:22:58,967 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-16 04:23:01,161 ] 94 main_controller - INFO - Found 4 form(s)
+[ 2024-04-16 04:23:06,659 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:23:18,147 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:23:29,294 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:23:40,204 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90548
+[ 2024-04-16 04:23:45,824 ] 94 main_controller - INFO - Form is closed, template sequence: 90551
+[ 2024-04-16 04:23:56,231 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:24:06,858 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:24:16,282 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90548
+[ 2024-04-16 04:24:21,844 ] 94 main_controller - INFO - Form is closed, template sequence: 90550
+[ 2024-04-16 04:24:30,577 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:24:40,220 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90548
+[ 2024-04-16 04:24:45,748 ] 94 main_controller - INFO - Form is closed, template sequence: 90549
+[ 2024-04-16 04:24:55,926 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90548
+[ 2024-04-16 04:25:01,526 ] 94 main_controller - INFO - Form is closed, template sequence: 90548
+[ 2024-04-16 04:25:01,527 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-16 04:25:11,541 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-16 04:25:13,841 ] 94 main_controller - INFO - Browser closed

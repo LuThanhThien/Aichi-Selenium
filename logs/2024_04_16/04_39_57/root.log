@@ -1,0 +1,143 @@
+[ 2024-04-16 04:39:57,873 ] 94 root - INFO - Starting all threads
+[ 2024-04-16 04:39:57,873 ] 94 root - INFO - Starting all threads
+[ 2024-04-16 04:39:57,873 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'gen', 'test_mode': True, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_hash': '080-1583-0891', 'uc': True, 'headless': False, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-16 04:39:57,873 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'gen', 'test_mode': True, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_hash': '080-1583-0891', 'uc': True, 'headless': False, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-16 04:39:57,874 ] 94 root - INFO - Number of dev accounts: 1
+[ 2024-04-16 04:39:57,874 ] 94 root - INFO - Number of dev accounts: 1
+[ 2024-04-16 04:39:57,876 ] 94 main_controller - INFO - Subprocess 0 started
+[ 2024-04-16 04:39:57,877 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-16 04:39:59,836 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-16 04:39:59,890 ] 94 root - INFO - Thread 0 started
+[ 2024-04-16 04:39:59,890 ] 94 root - INFO - Thread 0 started
+[ 2024-04-16 04:40:05,671 ] 94 luthien5921 - INFO - Opened login page
+[ 2024-04-16 04:40:12,403 ] 94 luthien5921 - INFO - Logging in
+[ 2024-04-16 04:40:12,409 ] 94 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 04:40:12,723 ] 94 luthien5921 - INFO - Logged in finished
+[ 2024-04-16 04:40:12,724 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-16 04:40:12,963 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_16\04_39_57\screenshot_luthien5921.png
+[ 2024-04-16 04:40:12,964 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-16 04:40:12,969 ] 94 luthien5921 - INFO - On main page
+[ 2024-04-16 04:40:14,673 ] 94 luthien5921 - INFO - Search submitted
+[ 2024-04-16 04:40:14,690 ] 94 luthien5921 - INFO - Collected 4 forms
+[ 2024-04-16 04:40:14,727 ] 94 luthien5921 - INFO - Parsed data: title: 【04月30日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月30日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 90551
+[ 2024-04-16 04:40:14,728 ] 94 luthien5921 - INFO - Parsed data: title: 【04月30日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月30日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 90551
+[ 2024-04-16 04:40:14,748 ] 94 luthien5921 - INFO - Parsed data: title: 【04月25日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月25日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 90550
+[ 2024-04-16 04:40:14,748 ] 94 luthien5921 - INFO - Parsed data: title: 【04月25日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月25日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 90550
+[ 2024-04-16 04:40:14,772 ] 94 luthien5921 - INFO - Parsed data: title: 【04月23日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月23日 07時30分, end_date: 2024年04月19日 12時00分, template_seq: 90549
+[ 2024-04-16 04:40:14,773 ] 94 luthien5921 - INFO - Parsed data: title: 【04月23日(火)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ポルトガル語・英語受験者に限る＞gen, status: 受付開始日時, start_date: 2024年03月23日 07時30分, end_date: 2024年04月19日 12時00分, template_seq: 90549
+[ 2024-04-16 04:40:14,796 ] 94 luthien5921 - INFO - Parsed data: title: 【04月18日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: None, start_date: 2024年03月18日 07時30分, end_date: 2024年04月16日 12時00分, template_seq: 90548
+[ 2024-04-16 04:40:14,797 ] 94 luthien5921 - INFO - Parsed data: title: 【04月18日(木)】[東三] 運転免許学科試験〈原付のみ　初回・再受験者／日本語・ベトナム語・中国語受験者に限る＞gen, status: None, start_date: 2024年03月18日 07時30分, end_date: 2024年04月16日 12時00分, template_seq: 90548
+[ 2024-04-16 04:40:14,798 ] 94 luthien5921 - INFO - Number of filtered forms left is: 4 form(s)
+[ 2024-04-16 04:40:14,798 ] 94 main_controller - INFO - Found 4 form(s)
+[ 2024-04-16 04:40:14,799 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90550
+[ 2024-04-16 04:40:14,799 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90550
+[ 2024-04-16 04:40:20,334 ] 82 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 109, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:40:20,336 ] 94 luthien5921 - INFO - Form is available, template sequence: 90550
+[ 2024-04-16 04:40:20,336 ] 94 luthien5921 - INFO - Filling form, template sequence: 90550
+[ 2024-04-16 04:40:21,998 ] 94 luthien5921 - INFO - Clicked continue button
+[ 2024-04-16 04:40:22,049 ] 94 luthien5921 - INFO - Filled input: item[0].textData2 by name, value: Hai
+[ 2024-04-16 04:40:22,110 ] 94 luthien5921 - INFO - Filled input: item[0].textData by name, value: Vuong
+[ 2024-04-16 04:40:22,179 ] 94 luthien5921 - INFO - Filled input: item[2].textData by name, value: 19981002
+[ 2024-04-16 04:40:22,238 ] 94 luthien5921 - INFO - Filled input: item[4].textData by name, value: 0809876543
+[ 2024-04-16 04:40:22,290 ] 94 luthien5921 - INFO - Filled input: item[5].textData by name, value: Ninja
+[ 2024-04-16 04:40:22,342 ] 94 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 04:40:23,907 ] 82 luthien5921 - ERROR - Failed to click confirm button: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/main/div/div[3]/div[2]/div/div[2]/button"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 81, in fill
+    browser.find_element(By.XPATH, "/html/body/form/main/div/div[3]/div[2]/div/div[2]/button").click()
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/main/div/div[3]/div[2]/div/div[2]/button"}
+  (Session info: chrome=123.0.6312.107); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 04:40:23,908 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:40:23,909 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:40:23,909 ] 94 luthien5921 - INFO - Accessing form, template sequence: 90549
+[ 2024-04-16 04:40:23,909 ] 94 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=90549

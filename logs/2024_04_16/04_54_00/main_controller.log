@@ -1,0 +1,160 @@
+[ 2024-04-16 04:54:01,260 ] 94 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-16 04:54:01,260 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-16 04:54:03,270 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-16 04:54:03,270 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-16 04:54:03,270 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei1@gmail.com, Password: aichi@5921
+[ 2024-04-16 04:54:03,270 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei1@gmail.com, Password: aichi@5921
+[ 2024-04-16 04:54:03,531 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-16 04:54:03,531 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-16 04:54:04,931 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-16 04:54:04,931 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-16 04:54:05,300 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-16 04:54:05,300 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-16 04:54:05,300 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-16 04:54:05,307 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-04-16 04:54:05,307 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-04-16 04:54:05,307 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-04-16 04:54:08,661 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-16 04:54:08,661 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-16 04:54:08,661 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-16 04:54:16,135 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-16 04:54:16,135 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-16 04:54:16,135 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-16 04:54:16,401 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_16\04_54_00\screenshot_luthien5921.png
+[ 2024-04-16 04:54:16,401 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_16\04_54_00\screenshot_luthien5921.png
+[ 2024-04-16 04:54:16,401 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_16\04_54_00\screenshot_luthien5921.png
+[ 2024-04-16 04:54:16,402 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-16 04:54:16,402 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-16 04:54:16,402 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-16 04:54:17,452 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-16 04:54:17,452 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-16 04:54:17,452 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-16 04:54:17,717 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_16\04_54_00\screenshot_luthien5921+shinsei1.png
+[ 2024-04-16 04:54:17,717 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_16\04_54_00\screenshot_luthien5921+shinsei1.png
+[ 2024-04-16 04:54:17,717 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_16\04_54_00\screenshot_luthien5921+shinsei1.png
+[ 2024-04-16 04:54:17,718 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-16 04:54:17,718 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-16 04:54:17,718 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-16 04:54:18,389 ] 94 main_controller - INFO - Found 4 form(s)
+[ 2024-04-16 04:54:18,389 ] 94 main_controller - INFO - Found 4 form(s)
+[ 2024-04-16 04:54:18,389 ] 94 main_controller - INFO - Found 4 form(s)
+[ 2024-04-16 04:54:19,809 ] 94 main_controller - INFO - Found 4 form(s)
+[ 2024-04-16 04:54:19,809 ] 94 main_controller - INFO - Found 4 form(s)
+[ 2024-04-16 04:54:19,809 ] 94 main_controller - INFO - Found 4 form(s)
+[ 2024-04-16 04:54:20,148 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-16 04:54:20,148 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-16 04:54:20,148 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-16 04:54:20,418 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_16\04_54_00\screenshot_luthien5921+shinsei2.png
+[ 2024-04-16 04:54:20,418 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_16\04_54_00\screenshot_luthien5921+shinsei2.png
+[ 2024-04-16 04:54:20,418 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_16\04_54_00\screenshot_luthien5921+shinsei2.png
+[ 2024-04-16 04:54:20,420 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-16 04:54:20,420 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-16 04:54:20,420 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-16 04:54:22,218 ] 94 main_controller - INFO - Found 4 form(s)
+[ 2024-04-16 04:54:22,218 ] 94 main_controller - INFO - Found 4 form(s)
+[ 2024-04-16 04:54:22,218 ] 94 main_controller - INFO - Found 4 form(s)
+[ 2024-04-16 04:54:29,420 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:54:29,420 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:54:29,420 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:54:29,421 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:54:29,421 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:54:29,421 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:54:29,773 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:54:29,773 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:54:29,773 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:54:29,773 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:54:29,773 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:54:29,773 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:54:34,236 ] 94 main_controller - INFO - Form filled successfully, template sequence: 90551
+[ 2024-04-16 04:54:34,236 ] 94 main_controller - INFO - Form filled successfully, template sequence: 90551
+[ 2024-04-16 04:54:34,236 ] 94 main_controller - INFO - Form filled successfully, template sequence: 90551
+[ 2024-04-16 04:54:34,236 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:54:34,236 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:54:34,236 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:54:39,520 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:54:39,520 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:54:39,520 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:54:39,520 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:54:39,520 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:54:39,520 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:54:44,980 ] 94 main_controller - INFO - Form filled successfully, template sequence: 90549
+[ 2024-04-16 04:54:44,980 ] 94 main_controller - INFO - Form filled successfully, template sequence: 90549
+[ 2024-04-16 04:54:44,980 ] 94 main_controller - INFO - Form filled successfully, template sequence: 90549
+[ 2024-04-16 04:54:44,982 ] 94 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-16 04:54:44,982 ] 94 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-16 04:54:44,982 ] 94 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-16 04:54:49,142 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:54:49,142 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:54:49,142 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:54:49,142 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:54:49,142 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:54:49,142 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:54:54,807 ] 94 main_controller - INFO - Form is closed, template sequence: 90548
+[ 2024-04-16 04:54:54,807 ] 94 main_controller - INFO - Form is closed, template sequence: 90548
+[ 2024-04-16 04:54:54,807 ] 94 main_controller - INFO - Form is closed, template sequence: 90548
+[ 2024-04-16 04:54:54,808 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:54:54,808 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:54:54,808 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:54:55,113 ] 94 main_controller - INFO - Form filled successfully, template sequence: 90550
+[ 2024-04-16 04:54:55,113 ] 94 main_controller - INFO - Form filled successfully, template sequence: 90550
+[ 2024-04-16 04:54:55,113 ] 94 main_controller - INFO - Form filled successfully, template sequence: 90550
+[ 2024-04-16 04:54:55,114 ] 94 main_controller - INFO - Remaining form(s): 1
+[ 2024-04-16 04:54:55,114 ] 94 main_controller - INFO - Remaining form(s): 1
+[ 2024-04-16 04:54:55,114 ] 94 main_controller - INFO - Remaining form(s): 1
+[ 2024-04-16 04:55:00,896 ] 94 main_controller - INFO - Form is closed, template sequence: 90548
+[ 2024-04-16 04:55:00,896 ] 94 main_controller - INFO - Form is closed, template sequence: 90548
+[ 2024-04-16 04:55:00,896 ] 94 main_controller - INFO - Form is closed, template sequence: 90548
+[ 2024-04-16 04:55:00,897 ] 94 main_controller - INFO - Remaining form(s): 0
+[ 2024-04-16 04:55:00,897 ] 94 main_controller - INFO - Remaining form(s): 0
+[ 2024-04-16 04:55:00,897 ] 94 main_controller - INFO - Remaining form(s): 0
+[ 2024-04-16 04:55:00,897 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-16 04:55:00,897 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-16 04:55:00,897 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-16 04:55:06,093 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:55:06,093 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:55:06,093 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:55:06,093 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:06,093 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:06,093 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:10,913 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-16 04:55:10,913 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-16 04:55:10,913 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-16 04:55:13,206 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-16 04:55:13,206 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-16 04:55:13,206 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-16 04:55:16,037 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:55:16,037 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:55:16,037 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:55:16,037 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:16,037 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:16,037 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:25,605 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:55:25,605 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:55:25,605 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:55:25,605 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:25,605 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:25,605 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:34,845 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:55:34,845 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:55:34,845 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90549
+[ 2024-04-16 04:55:34,846 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:34,846 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:34,846 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:36,092 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90548
+[ 2024-04-16 04:55:36,092 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90548
+[ 2024-04-16 04:55:36,092 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90548
+[ 2024-04-16 04:55:36,093 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:55:36,093 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:55:36,093 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-16 04:55:44,468 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:55:44,468 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:55:44,468 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90551
+[ 2024-04-16 04:55:44,468 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:44,468 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:44,468 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:50,152 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:55:50,152 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:55:50,152 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:55:50,154 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:50,154 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-16 04:55:50,154 ] 94 main_controller - INFO - Remaining form(s): 3

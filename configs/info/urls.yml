@@ -1,0 +1,14 @@
+# main
+main_url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+login_url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/profile/userLogin
+re_login_url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/profile/userLogin_login
+disp_url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_movePage?dispPage=
+
+# forms
+form_prefix_url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=
+form_url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerDetail_mailto
+confirm_url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offer_confirm
+
+# others
+inquery_url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/inquiry/inquiryList_initDisplay
+detail_base_url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/inquiry/inquiryList_detailList__

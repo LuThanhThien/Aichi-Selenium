@@ -1,0 +1,9 @@
+[ 2024-04-15 23:42:33,836 ] 97 main_controller - ERROR - Account is None, choose a random account: {'username': 'luthien5921+shinsei1@gmail.com', 'password': 'aichi@5921'}
+[ 2024-04-15 23:42:34,841 ] 97 root - INFO - Thread 0 started
+[ 2024-04-15 23:42:34,841 ] 97 root - INFO - Thread 0 started
+[ 2024-04-15 23:42:37,016 ] 97 main_controller - INFO - Browser opened
+[ 2024-04-15 23:42:45,030 ] 97 main_controller - INFO - Main page opened
+[ 2024-04-15 23:42:45,304 ] 97 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_15\23_42_33\screenshot_0.png
+[ 2024-04-15 23:42:51,401 ] 97 luthien5921+shinsei1@gmail.com - INFO - Opened login page
+[ 2024-04-15 23:42:51,684 ] 97 luthien5921+shinsei1@gmail.com - INFO - Logged in
+[ 2024-04-15 23:43:01,687 ] 97 main_controller - INFO - Closing browser

@@ -1,0 +1,9 @@
+[ 2024-04-16 04:39:57,876 ] 94 main_controller - INFO - Subprocess 0 started
+[ 2024-04-16 04:39:57,877 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-16 04:39:59,836 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-16 04:40:12,724 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-16 04:40:12,963 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_16\04_39_57\screenshot_luthien5921.png
+[ 2024-04-16 04:40:12,964 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-16 04:40:14,798 ] 94 main_controller - INFO - Found 4 form(s)
+[ 2024-04-16 04:40:23,908 ] 94 main_controller - INFO - Failed to fill form, template sequence: 90550
+[ 2024-04-16 04:40:23,909 ] 94 main_controller - INFO - Remaining form(s): 4
