@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import Select
 from src.globals import URLs, Meta
 from src.models import Account, FormInfo, Customer, AccessMessage, EndMessage
 from .base_controller import BaseController
+from src.utils.html_utils import wait_until_presence, wait_until_clickable
 
 from src.models import FormInfo
 
@@ -80,8 +81,9 @@ class Filler(BaseController):
          self.logger.exception("Failed to click submit: " + str(e))
          return
       
-      # Check confirm button
+      # Check confirm button and click
       try:
+         wait_until_presence(browser, By.XPATH, "/html/body/form/main/div/div[3]/div[2]/div/div[2]/button")
          browser.find_element(By.XPATH, "/html/body/form/main/div/div[3]/div[2]/div/div[2]/button").click()
       except Exception as e:
          self.logger.exception("Failed to click confirm button: " + str(e))

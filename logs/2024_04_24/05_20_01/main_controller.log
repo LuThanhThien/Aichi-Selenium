@@ -1,0 +1,2 @@
+[ 2024-04-24 05:20:02,194 ] 94 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-24 05:20:02,209 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: nihahi50@gmail.com, Password: hoahong1234

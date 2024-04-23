@@ -1,7 +1,7 @@
 keyword: Hirabari
-onlyday: false
+onlyday: true
 max_num_retry: 5
-default_num_threads: 1
+default_num_threads: 3
 display_number: 50
 main_phone_number_dash: 080-1583-0891
 uc: true

@@ -27,8 +27,8 @@ dev_accounts:
   - username: ble79037@gmail.com
     password: hoahong1234
 
-  - username: benemmai380@gmail.com
-    password: hoahong1234
+  # - username: benemmai380@gmail.com
+  #   password: hoahong1234
 
   # - username: leongnardo12@gmail.com
   #   password: hoahong1234

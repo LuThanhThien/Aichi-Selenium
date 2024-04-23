@@ -171,3 +171,331 @@ TypeError: sequence item 1: expected str instance, NoSuchElementException found
 [ 2024-04-23 23:03:03,925 ] 94 main_controller - INFO - Subprocess 2 started with trial number 1
 [ 2024-04-23 23:03:03,925 ] 94 main_controller - INFO - Subprocess 2 started with trial number 1
 [ 2024-04-23 23:03:03,925 ] 94 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-04-23 23:03:04,889 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:04,889 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:04,889 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:04,889 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:05,226 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_ble79037.png
+[ 2024-04-23 23:03:05,226 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_ble79037.png
+[ 2024-04-23 23:03:05,226 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_ble79037.png
+[ 2024-04-23 23:03:05,226 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_ble79037.png
+[ 2024-04-23 23:03:05,233 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:05,233 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:05,233 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:05,233 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:05,339 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:05,339 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:05,339 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:05,339 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:05,714 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_nihahi50.png
+[ 2024-04-23 23:03:05,714 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_nihahi50.png
+[ 2024-04-23 23:03:05,714 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_nihahi50.png
+[ 2024-04-23 23:03:05,714 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_nihahi50.png
+[ 2024-04-23 23:03:05,715 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:05,715 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:05,715 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:05,715 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:06,337 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 23:03:06,337 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 23:03:06,337 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 23:03:06,337 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 23:03:08,041 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 23:03:08,041 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 23:03:08,041 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 23:03:08,041 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 23:03:08,042 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 23:03:08,042 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 23:03:08,042 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 23:03:08,042 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 23:03:08,043 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:08,043 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:08,043 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:08,043 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:08,044 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:08,044 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:08,044 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:08,044 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:10,803 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 23:03:10,803 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 23:03:10,803 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 23:03:10,803 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 23:03:10,804 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}]
+[ 2024-04-23 23:03:10,804 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}]
+[ 2024-04-23 23:03:10,804 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}]
+[ 2024-04-23 23:03:10,804 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}]
+[ 2024-04-23 23:03:10,804 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:10,804 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:10,804 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:10,804 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:10,805 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:10,805 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:10,805 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:10,805 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:16,539 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:16,539 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:16,539 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:16,539 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:16,795 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_benemmai380.png
+[ 2024-04-23 23:03:16,795 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_benemmai380.png
+[ 2024-04-23 23:03:16,795 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_benemmai380.png
+[ 2024-04-23 23:03:16,795 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_benemmai380.png
+[ 2024-04-23 23:03:16,796 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:16,796 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:16,796 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:16,796 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:19,169 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 23:03:19,169 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 23:03:19,169 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 23:03:19,169 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 23:03:19,170 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}]
+[ 2024-04-23 23:03:19,170 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}]
+[ 2024-04-23 23:03:19,170 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}]
+[ 2024-04-23 23:03:19,170 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}]
+[ 2024-04-23 23:03:19,170 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:19,170 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:19,170 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:19,170 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:19,170 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:19,170 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:19,170 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:19,170 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:32,604 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96454
+[ 2024-04-23 23:03:32,604 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96454
+[ 2024-04-23 23:03:32,604 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96454
+[ 2024-04-23 23:03:32,604 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96454
+[ 2024-04-23 23:03:32,606 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:03:32,606 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:03:32,606 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:03:32,606 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:03:32,607 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:32,607 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:32,607 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:32,607 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:32,608 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:32,608 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:32,608 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:32,608 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:34,234 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96453
+[ 2024-04-23 23:03:34,234 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96453
+[ 2024-04-23 23:03:34,234 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96453
+[ 2024-04-23 23:03:34,234 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96453
+[ 2024-04-23 23:03:34,234 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:03:34,234 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:03:34,234 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:03:34,234 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:03:34,234 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:34,234 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:34,234 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:34,234 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:34,235 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:34,235 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:34,235 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:34,235 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:35,204 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96454
+[ 2024-04-23 23:03:35,204 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96454
+[ 2024-04-23 23:03:35,204 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96454
+[ 2024-04-23 23:03:35,204 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96454
+[ 2024-04-23 23:03:35,205 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:03:35,205 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:03:35,205 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:03:35,205 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:03:35,205 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:35,205 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:35,205 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:35,205 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:03:35,205 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:35,205 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:35,205 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:03:35,205 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96457
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96457
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96457
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96457
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:04:38,761 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:04:40,392 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96456
+[ 2024-04-23 23:04:40,392 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96456
+[ 2024-04-23 23:04:40,392 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96456
+[ 2024-04-23 23:04:40,392 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96456
+[ 2024-04-23 23:04:40,393 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:04:40,393 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:04:40,393 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:04:40,393 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:04:40,393 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:04:40,393 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:04:40,393 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:04:40,393 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:04:40,393 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:04:40,393 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:04:40,393 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:04:40,393 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:04:41,439 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96457
+[ 2024-04-23 23:04:41,439 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96457
+[ 2024-04-23 23:04:41,439 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96457
+[ 2024-04-23 23:04:41,439 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96457
+[ 2024-04-23 23:04:41,440 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:04:41,440 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:04:41,440 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:04:41,440 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:04:41,440 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:04:41,440 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:04:41,440 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:04:41,440 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:04:41,441 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:04:41,441 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:04:41,441 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:04:41,441 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:05:45,067 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96455
+[ 2024-04-23 23:05:45,067 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96455
+[ 2024-04-23 23:05:45,067 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96455
+[ 2024-04-23 23:05:45,067 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96455
+[ 2024-04-23 23:05:45,067 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:05:45,067 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:05:45,067 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:05:45,067 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:05:45,068 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:05:45,068 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:05:45,068 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:05:45,068 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:05:45,068 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:05:45,068 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:05:45,068 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:05:45,068 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:05:46,662 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96454
+[ 2024-04-23 23:05:46,662 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96454
+[ 2024-04-23 23:05:46,662 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96454
+[ 2024-04-23 23:05:46,662 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96454
+[ 2024-04-23 23:05:46,663 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:05:46,663 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:05:46,663 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:05:46,663 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:05:46,663 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:05:46,663 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:05:46,663 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:05:46,663 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:05:46,663 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:05:46,663 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:05:46,663 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:05:46,663 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:05:47,727 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96456
+[ 2024-04-23 23:05:47,727 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96456
+[ 2024-04-23 23:05:47,727 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96456
+[ 2024-04-23 23:05:47,727 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96456
+[ 2024-04-23 23:05:47,728 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:05:47,728 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:05:47,728 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:05:47,728 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:05:47,728 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:05:47,728 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:05:47,728 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:05:47,728 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:05:47,729 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:05:47,729 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:05:47,729 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:05:47,729 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:06:51,152 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96456
+[ 2024-04-23 23:06:51,152 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96456
+[ 2024-04-23 23:06:51,152 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96456
+[ 2024-04-23 23:06:51,152 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96456
+[ 2024-04-23 23:06:51,153 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:06:51,153 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:06:51,153 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:06:51,153 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:06:51,153 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:06:51,153 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:06:51,153 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:06:51,153 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:06:51,154 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:06:51,154 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:06:51,154 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:06:51,154 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:06:52,819 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96455
+[ 2024-04-23 23:06:52,819 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96455
+[ 2024-04-23 23:06:52,819 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96455
+[ 2024-04-23 23:06:52,819 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96455
+[ 2024-04-23 23:06:52,820 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:06:52,820 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:06:52,820 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:06:52,820 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:06:52,820 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:06:52,820 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:06:52,820 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:06:52,820 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:06:52,821 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:06:52,821 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:06:52,821 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:06:52,821 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:06:53,838 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96453
+[ 2024-04-23 23:06:53,838 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96453
+[ 2024-04-23 23:06:53,838 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96453
+[ 2024-04-23 23:06:53,838 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96453
+[ 2024-04-23 23:06:53,838 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:06:53,838 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:06:53,838 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:06:53,838 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:06:53,839 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:06:53,839 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:06:53,839 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:06:53,839 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:06:53,839 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:06:53,839 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:06:53,839 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:06:53,839 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:07:57,301 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96453
+[ 2024-04-23 23:07:57,301 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96453
+[ 2024-04-23 23:07:57,301 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96453
+[ 2024-04-23 23:07:57,301 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96453
+[ 2024-04-23 23:07:57,301 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:07:57,301 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:07:57,301 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:07:57,301 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:07:57,301 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:07:57,301 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:07:57,301 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:07:57,301 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:07:57,302 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:07:57,302 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:07:57,302 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:07:57,302 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:07:58,996 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96457
+[ 2024-04-23 23:07:58,996 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96457
+[ 2024-04-23 23:07:58,996 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96457
+[ 2024-04-23 23:07:58,996 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96457
+[ 2024-04-23 23:07:58,996 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:07:58,996 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:07:58,996 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:07:58,996 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:07:58,997 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:07:58,997 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:07:58,997 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:07:58,997 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:07:58,997 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:07:58,997 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:07:58,997 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:07:58,997 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 23:08:00,094 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96455
+[ 2024-04-23 23:08:00,094 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96455
+[ 2024-04-23 23:08:00,094 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96455
+[ 2024-04-23 23:08:00,094 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96455
+[ 2024-04-23 23:08:00,094 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:08:00,094 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:08:00,094 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:08:00,094 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 23:08:00,095 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:08:00,095 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:08:00,095 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:08:00,095 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 23:08:00,095 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:08:00,095 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:08:00,095 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 23:08:00,095 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
