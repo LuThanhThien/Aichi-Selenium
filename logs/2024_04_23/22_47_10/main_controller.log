@@ -1,0 +1,427 @@
+[ 2024-04-23 22:47:11,235 ] 94 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-23 22:47:11,236 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: nihahi50@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:47:13,246 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-23 22:47:13,246 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-23 22:47:13,246 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:47:13,246 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:47:14,351 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:14,351 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:15,267 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-23 22:47:15,267 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-23 22:47:15,267 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-23 22:47:15,269 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:47:15,269 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:47:15,269 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:47:16,646 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:16,646 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:16,646 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:23,537 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:23,537 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:23,537 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:27,576 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:27,576 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:27,576 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:28,030 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_ble79037.png
+[ 2024-04-23 22:47:28,030 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_ble79037.png
+[ 2024-04-23 22:47:28,030 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_ble79037.png
+[ 2024-04-23 22:47:28,030 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:28,030 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:28,030 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:28,585 ] 82 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7113FF922+3045234]
+	(No symbol) [0x00007FF7110A3652]
+	(No symbol) [0x00007FF710F67564]
+	(No symbol) [0x00007FF710FB5F9D]
+	(No symbol) [0x00007FF710FB606C]
+	(No symbol) [0x00007FF710FFBDD7]
+	(No symbol) [0x00007FF710FD9DEF]
+	(No symbol) [0x00007FF710FF91C4]
+	(No symbol) [0x00007FF710FD9B53]
+	(No symbol) [0x00007FF710FA813C]
+	(No symbol) [0x00007FF710FA8D71]
+	GetHandleVerifier [0x00007FF71142E89D+3237613]
+	GetHandleVerifier [0x00007FF711470BA7+3508727]
+	GetHandleVerifier [0x00007FF71146976F+3478975]
+	GetHandleVerifier [0x00007FF7111DF1C6+815126]
+	(No symbol) [0x00007FF7110AED0F]
+	(No symbol) [0x00007FF7110A9854]
+	(No symbol) [0x00007FF7110A99E2]
+	(No symbol) [0x00007FF71109A574]
+	BaseThreadInitThunk [0x00007FFFBAAA257D+29]
+	RtlUserThreadStart [0x00007FFFBC88AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 76, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-23 22:47:28,585 ] 82 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7113FF922+3045234]
+	(No symbol) [0x00007FF7110A3652]
+	(No symbol) [0x00007FF710F67564]
+	(No symbol) [0x00007FF710FB5F9D]
+	(No symbol) [0x00007FF710FB606C]
+	(No symbol) [0x00007FF710FFBDD7]
+	(No symbol) [0x00007FF710FD9DEF]
+	(No symbol) [0x00007FF710FF91C4]
+	(No symbol) [0x00007FF710FD9B53]
+	(No symbol) [0x00007FF710FA813C]
+	(No symbol) [0x00007FF710FA8D71]
+	GetHandleVerifier [0x00007FF71142E89D+3237613]
+	GetHandleVerifier [0x00007FF711470BA7+3508727]
+	GetHandleVerifier [0x00007FF71146976F+3478975]
+	GetHandleVerifier [0x00007FF7111DF1C6+815126]
+	(No symbol) [0x00007FF7110AED0F]
+	(No symbol) [0x00007FF7110A9854]
+	(No symbol) [0x00007FF7110A99E2]
+	(No symbol) [0x00007FF71109A574]
+	BaseThreadInitThunk [0x00007FFFBAAA257D+29]
+	RtlUserThreadStart [0x00007FFFBC88AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 76, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-23 22:47:28,585 ] 82 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7113FF922+3045234]
+	(No symbol) [0x00007FF7110A3652]
+	(No symbol) [0x00007FF710F67564]
+	(No symbol) [0x00007FF710FB5F9D]
+	(No symbol) [0x00007FF710FB606C]
+	(No symbol) [0x00007FF710FFBDD7]
+	(No symbol) [0x00007FF710FD9DEF]
+	(No symbol) [0x00007FF710FF91C4]
+	(No symbol) [0x00007FF710FD9B53]
+	(No symbol) [0x00007FF710FA813C]
+	(No symbol) [0x00007FF710FA8D71]
+	GetHandleVerifier [0x00007FF71142E89D+3237613]
+	GetHandleVerifier [0x00007FF711470BA7+3508727]
+	GetHandleVerifier [0x00007FF71146976F+3478975]
+	GetHandleVerifier [0x00007FF7111DF1C6+815126]
+	(No symbol) [0x00007FF7110AED0F]
+	(No symbol) [0x00007FF7110A9854]
+	(No symbol) [0x00007FF7110A99E2]
+	(No symbol) [0x00007FF71109A574]
+	BaseThreadInitThunk [0x00007FFFBAAA257D+29]
+	RtlUserThreadStart [0x00007FFFBC88AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 76, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-23 22:47:28,592 ] 94 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-23 22:47:28,592 ] 94 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-23 22:47:28,592 ] 94 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-23 22:47:28,592 ] 94 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-23 22:47:30,202 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:30,202 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:30,202 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:30,202 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:30,521 ] 82 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7113FF922+3045234]
+	(No symbol) [0x00007FF7110A3652]
+	(No symbol) [0x00007FF710F67564]
+	(No symbol) [0x00007FF710FB5F9D]
+	(No symbol) [0x00007FF710FB606C]
+	(No symbol) [0x00007FF710FFBDD7]
+	(No symbol) [0x00007FF710FD9DEF]
+	(No symbol) [0x00007FF710FF91C4]
+	(No symbol) [0x00007FF710FD9B53]
+	(No symbol) [0x00007FF710FA813C]
+	(No symbol) [0x00007FF710FA8D71]
+	GetHandleVerifier [0x00007FF71142E89D+3237613]
+	GetHandleVerifier [0x00007FF711470BA7+3508727]
+	GetHandleVerifier [0x00007FF71146976F+3478975]
+	GetHandleVerifier [0x00007FF7111DF1C6+815126]
+	(No symbol) [0x00007FF7110AED0F]
+	(No symbol) [0x00007FF7110A9854]
+	(No symbol) [0x00007FF7110A99E2]
+	(No symbol) [0x00007FF71109A574]
+	BaseThreadInitThunk [0x00007FFFBAAA257D+29]
+	RtlUserThreadStart [0x00007FFFBC88AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 76, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-23 22:47:30,521 ] 82 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7113FF922+3045234]
+	(No symbol) [0x00007FF7110A3652]
+	(No symbol) [0x00007FF710F67564]
+	(No symbol) [0x00007FF710FB5F9D]
+	(No symbol) [0x00007FF710FB606C]
+	(No symbol) [0x00007FF710FFBDD7]
+	(No symbol) [0x00007FF710FD9DEF]
+	(No symbol) [0x00007FF710FF91C4]
+	(No symbol) [0x00007FF710FD9B53]
+	(No symbol) [0x00007FF710FA813C]
+	(No symbol) [0x00007FF710FA8D71]
+	GetHandleVerifier [0x00007FF71142E89D+3237613]
+	GetHandleVerifier [0x00007FF711470BA7+3508727]
+	GetHandleVerifier [0x00007FF71146976F+3478975]
+	GetHandleVerifier [0x00007FF7111DF1C6+815126]
+	(No symbol) [0x00007FF7110AED0F]
+	(No symbol) [0x00007FF7110A9854]
+	(No symbol) [0x00007FF7110A99E2]
+	(No symbol) [0x00007FF71109A574]
+	BaseThreadInitThunk [0x00007FFFBAAA257D+29]
+	RtlUserThreadStart [0x00007FFFBC88AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 76, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-23 22:47:30,521 ] 82 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7113FF922+3045234]
+	(No symbol) [0x00007FF7110A3652]
+	(No symbol) [0x00007FF710F67564]
+	(No symbol) [0x00007FF710FB5F9D]
+	(No symbol) [0x00007FF710FB606C]
+	(No symbol) [0x00007FF710FFBDD7]
+	(No symbol) [0x00007FF710FD9DEF]
+	(No symbol) [0x00007FF710FF91C4]
+	(No symbol) [0x00007FF710FD9B53]
+	(No symbol) [0x00007FF710FA813C]
+	(No symbol) [0x00007FF710FA8D71]
+	GetHandleVerifier [0x00007FF71142E89D+3237613]
+	GetHandleVerifier [0x00007FF711470BA7+3508727]
+	GetHandleVerifier [0x00007FF71146976F+3478975]
+	GetHandleVerifier [0x00007FF7111DF1C6+815126]
+	(No symbol) [0x00007FF7110AED0F]
+	(No symbol) [0x00007FF7110A9854]
+	(No symbol) [0x00007FF7110A99E2]
+	(No symbol) [0x00007FF71109A574]
+	BaseThreadInitThunk [0x00007FFFBAAA257D+29]
+	RtlUserThreadStart [0x00007FFFBC88AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 76, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-23 22:47:30,521 ] 82 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7113FF922+3045234]
+	(No symbol) [0x00007FF7110A3652]
+	(No symbol) [0x00007FF710F67564]
+	(No symbol) [0x00007FF710FB5F9D]
+	(No symbol) [0x00007FF710FB606C]
+	(No symbol) [0x00007FF710FFBDD7]
+	(No symbol) [0x00007FF710FD9DEF]
+	(No symbol) [0x00007FF710FF91C4]
+	(No symbol) [0x00007FF710FD9B53]
+	(No symbol) [0x00007FF710FA813C]
+	(No symbol) [0x00007FF710FA8D71]
+	GetHandleVerifier [0x00007FF71142E89D+3237613]
+	GetHandleVerifier [0x00007FF711470BA7+3508727]
+	GetHandleVerifier [0x00007FF71146976F+3478975]
+	GetHandleVerifier [0x00007FF7111DF1C6+815126]
+	(No symbol) [0x00007FF7110AED0F]
+	(No symbol) [0x00007FF7110A9854]
+	(No symbol) [0x00007FF7110A99E2]
+	(No symbol) [0x00007FF71109A574]
+	BaseThreadInitThunk [0x00007FFFBAAA257D+29]
+	RtlUserThreadStart [0x00007FFFBC88AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 76, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-23 22:47:30,539 ] 94 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-04-23 22:47:30,539 ] 94 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-04-23 22:47:30,539 ] 94 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-04-23 22:47:30,539 ] 94 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-04-23 22:47:30,539 ] 94 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-04-23 22:47:34,919 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:34,919 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:34,919 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:34,919 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:34,919 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:40,442 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:40,442 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:40,442 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:40,442 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:40,442 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:40,998 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_nihahi50.png
+[ 2024-04-23 22:47:40,998 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_nihahi50.png
+[ 2024-04-23 22:47:40,998 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_nihahi50.png
+[ 2024-04-23 22:47:40,998 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_nihahi50.png
+[ 2024-04-23 22:47:40,998 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_nihahi50.png
+[ 2024-04-23 22:47:41,000 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:41,000 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:41,000 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:41,000 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:41,000 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:44,610 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:44,610 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:44,610 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:44,610 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:44,610 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:45,171 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_benemmai380.png
+[ 2024-04-23 22:47:45,171 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_benemmai380.png
+[ 2024-04-23 22:47:45,171 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_benemmai380.png
+[ 2024-04-23 22:47:45,171 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_benemmai380.png
+[ 2024-04-23 22:47:45,171 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_benemmai380.png
+[ 2024-04-23 22:47:45,174 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:45,174 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:45,174 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:45,174 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:45,174 ] 94 main_controller - INFO - Finding forms

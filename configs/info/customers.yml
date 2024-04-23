@@ -1,0 +1,9 @@
+customers:
+  - first_name: "Van Long"
+    last_name: "Luong"
+    date_birth: "19920205"
+  
+  - first_name: "Thi Le Lai"
+    last_name: "Tran"
+    date_birth: "19000101"
+

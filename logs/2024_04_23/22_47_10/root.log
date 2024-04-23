@@ -1,0 +1,1304 @@
+[ 2024-04-23 22:47:11,233 ] 94 root - INFO - Starting all threads
+[ 2024-04-23 22:47:11,233 ] 94 root - INFO - Starting all threads
+[ 2024-04-23 22:47:11,233 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'Hirabari', 'test_mode': False, 'onlyday': True, 'max_num_retry': 5, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': True, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-23 22:47:11,233 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'Hirabari', 'test_mode': False, 'onlyday': True, 'max_num_retry': 5, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': True, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-23 22:47:11,233 ] 94 root - INFO - Number of dev accounts: 3
+[ 2024-04-23 22:47:11,233 ] 94 root - INFO - Number of dev accounts: 3
+[ 2024-04-23 22:47:11,235 ] 94 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-23 22:47:11,236 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: nihahi50@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:47:13,242 ] 94 root - INFO - Thread 0 started
+[ 2024-04-23 22:47:13,242 ] 94 root - INFO - Thread 0 started
+[ 2024-04-23 22:47:13,246 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-23 22:47:13,246 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:47:14,351 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:15,258 ] 94 root - INFO - Thread 1 started
+[ 2024-04-23 22:47:15,258 ] 94 root - INFO - Thread 1 started
+[ 2024-04-23 22:47:15,267 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-23 22:47:15,269 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:47:16,646 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:17,280 ] 94 root - INFO - Thread 2 started
+[ 2024-04-23 22:47:17,280 ] 94 root - INFO - Thread 2 started
+[ 2024-04-23 22:47:20,745 ] 94 ble79037 - INFO - Opened login page
+[ 2024-04-23 22:47:23,537 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:27,264 ] 94 ble79037 - INFO - Logging in
+[ 2024-04-23 22:47:27,270 ] 94 ble79037 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:47:27,561 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:47:27,576 ] 94 ble79037 - INFO - Logged in finished
+[ 2024-04-23 22:47:27,576 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:28,030 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_ble79037.png
+[ 2024-04-23 22:47:28,030 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:28,035 ] 94 ble79037 - INFO - On main page
+[ 2024-04-23 22:47:28,585 ] 82 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7113FF922+3045234]
+	(No symbol) [0x00007FF7110A3652]
+	(No symbol) [0x00007FF710F67564]
+	(No symbol) [0x00007FF710FB5F9D]
+	(No symbol) [0x00007FF710FB606C]
+	(No symbol) [0x00007FF710FFBDD7]
+	(No symbol) [0x00007FF710FD9DEF]
+	(No symbol) [0x00007FF710FF91C4]
+	(No symbol) [0x00007FF710FD9B53]
+	(No symbol) [0x00007FF710FA813C]
+	(No symbol) [0x00007FF710FA8D71]
+	GetHandleVerifier [0x00007FF71142E89D+3237613]
+	GetHandleVerifier [0x00007FF711470BA7+3508727]
+	GetHandleVerifier [0x00007FF71146976F+3478975]
+	GetHandleVerifier [0x00007FF7111DF1C6+815126]
+	(No symbol) [0x00007FF7110AED0F]
+	(No symbol) [0x00007FF7110A9854]
+	(No symbol) [0x00007FF7110A99E2]
+	(No symbol) [0x00007FF71109A574]
+	BaseThreadInitThunk [0x00007FFFBAAA257D+29]
+	RtlUserThreadStart [0x00007FFFBC88AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 76, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-23 22:47:28,592 ] 94 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-23 22:47:29,377 ] 94 benemmai380 - INFO - Opened login page
+[ 2024-04-23 22:47:29,843 ] 94 ble79037 - INFO - Search submitted
+[ 2024-04-23 22:47:29,932 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:30,127 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:30,202 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:30,243 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:30,398 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:30,521 ] 82 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7113FF922+3045234]
+	(No symbol) [0x00007FF7110A3652]
+	(No symbol) [0x00007FF710F67564]
+	(No symbol) [0x00007FF710FB5F9D]
+	(No symbol) [0x00007FF710FB606C]
+	(No symbol) [0x00007FF710FFBDD7]
+	(No symbol) [0x00007FF710FD9DEF]
+	(No symbol) [0x00007FF710FF91C4]
+	(No symbol) [0x00007FF710FD9B53]
+	(No symbol) [0x00007FF710FA813C]
+	(No symbol) [0x00007FF710FA8D71]
+	GetHandleVerifier [0x00007FF71142E89D+3237613]
+	GetHandleVerifier [0x00007FF711470BA7+3508727]
+	GetHandleVerifier [0x00007FF71146976F+3478975]
+	GetHandleVerifier [0x00007FF7111DF1C6+815126]
+	(No symbol) [0x00007FF7110AED0F]
+	(No symbol) [0x00007FF7110A9854]
+	(No symbol) [0x00007FF7110A99E2]
+	(No symbol) [0x00007FF71109A574]
+	BaseThreadInitThunk [0x00007FFFBAAA257D+29]
+	RtlUserThreadStart [0x00007FFFBC88AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 76, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-23 22:47:30,539 ] 94 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-04-23 22:47:30,580 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:30,809 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:30,929 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:31,071 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:31,139 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:31,301 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:31,371 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:31,439 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:31,476 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:31,545 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:31,609 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:31,727 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:31,809 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:31,934 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:32,009 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:32,077 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:32,170 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:32,171 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:32,172 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:47:34,919 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:47:35,037 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:35,166 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:35,267 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:35,348 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:35,421 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:35,514 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:35,783 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:35,966 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:36,139 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:36,353 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:47:36,405 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:36,846 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:36,908 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:37,025 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:37,043 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:37,070 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:37,142 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:37,202 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:37,243 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:37,282 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:37,320 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:37,353 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:37,353 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:37,353 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:47:40,106 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:40,118 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:47:40,123 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:47:40,141 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:40,419 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:40,440 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:47:40,442 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:40,537 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:40,578 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:40,643 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:40,697 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:40,728 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:40,780 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:40,791 ] 94 benemmai380 - INFO - Opened login page
+[ 2024-04-23 22:47:40,828 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:40,915 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:40,968 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:40,998 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_nihahi50.png
+[ 2024-04-23 22:47:40,999 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:41,000 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:41,008 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:47:41,043 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:41,098 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:41,165 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:41,214 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:41,295 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:41,352 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:41,391 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:41,432 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:41,432 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:41,433 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:47:42,339 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:47:42,367 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:42,431 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:42,452 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:42,509 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:42,563 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:42,610 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:42,640 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:42,672 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:42,714 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:42,752 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:42,794 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:42,832 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:42,878 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:42,992 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:43,036 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:43,096 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:43,156 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:43,211 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:43,251 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:43,295 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:43,375 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:43,376 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:43,376 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:47:44,278 ] 94 benemmai380 - INFO - Logging in
+[ 2024-04-23 22:47:44,283 ] 94 benemmai380 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:47:44,471 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:44,499 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:44,554 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:44,608 ] 94 benemmai380 - INFO - Logged in finished
+[ 2024-04-23 22:47:44,610 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:47:44,632 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:44,711 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:44,751 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:44,791 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:44,894 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:44,927 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:44,965 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:45,006 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:45,062 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:45,115 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:45,171 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_47_10\screenshot_benemmai380.png
+[ 2024-04-23 22:47:45,174 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:47:45,188 ] 94 benemmai380 - INFO - On main page
+[ 2024-04-23 22:47:45,193 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:45,262 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:45,331 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:45,383 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:45,427 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:45,497 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:45,556 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:45,582 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:45,583 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:45,583 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:47:46,136 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:46,163 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:46,203 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:46,250 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:46,300 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:46,348 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:46,402 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:46,453 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:46,485 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:46,562 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:46,619 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:46,677 ] 94 benemmai380 - INFO - Search submitted
+[ 2024-04-23 22:47:46,744 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:46,762 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:46,804 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:46,844 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:46,875 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:46,887 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:46,924 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:46,953 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:46,987 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,008 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,053 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,069 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,098 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,122 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:47,139 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,152 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:47,180 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,203 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:47,233 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,234 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:47,234 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:47:47,249 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:47,286 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:47,315 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,343 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,383 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,442 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,501 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,540 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,568 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,592 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,612 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,666 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:47,666 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:47,667 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:47:47,962 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:47,984 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,046 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,081 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,117 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,152 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,193 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:48,230 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:48,276 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:48,315 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:48,351 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:48,393 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,424 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,458 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,491 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,538 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,580 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,609 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,652 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,672 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,705 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:48,708 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:48,710 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:47:49,796 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:49,820 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:49,870 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:49,880 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:49,902 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:49,911 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:49,951 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:49,955 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:49,995 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,000 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,063 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,069 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:50,102 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:50,100 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,144 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:50,145 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:50,207 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:50,208 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:50,262 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:50,272 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:50,300 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:50,311 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,347 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:50,360 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,378 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,388 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,414 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,429 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,449 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,456 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,477 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,492 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,514 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,536 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,545 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,563 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,577 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,614 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,631 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,654 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,655 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:50,655 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:47:50,657 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,695 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:50,695 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:50,696 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:47:51,013 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:51,031 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,055 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,079 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,107 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,126 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,151 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:51,173 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:51,198 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:51,221 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:51,244 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:51,274 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,296 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,318 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,341 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,367 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,392 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,414 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,436 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,459 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,479 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:51,479 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:51,480 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:47:52,818 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:52,839 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:52,858 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:52,899 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:52,919 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:52,946 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:52,971 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:53,004 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:53,026 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:53,043 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:53,082 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:53,105 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,121 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,144 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,178 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,198 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,218 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,286 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,318 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,357 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,380 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,380 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:53,380 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:47:53,582 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:53,613 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,660 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,721 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,776 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,795 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:53,840 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:53,863 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:53,880 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:53,904 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:53,925 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:53,993 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,029 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,061 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,092 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,114 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,159 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,188 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,219 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,251 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,288 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,289 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:54,290 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:47:54,570 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:54,588 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,607 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,639 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,674 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,702 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,727 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:54,764 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:54,788 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:54,841 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:54,876 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:54,902 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,937 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,961 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:54,993 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:55,024 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:55,064 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:55,091 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:55,143 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:55,171 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:55,217 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:55,217 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:55,217 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:47:56,031 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:56,051 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,080 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,104 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,121 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,149 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,184 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:56,216 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:56,245 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:56,281 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:56,305 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:56,338 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,368 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,406 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,438 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,472 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,532 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,560 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,597 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:56,599 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,633 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,635 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,668 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,673 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,674 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:56,676 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:47:56,720 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,745 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,772 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,798 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:56,835 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:56,855 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:56,883 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:56,921 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:56,940 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,969 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:56,995 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,012 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,045 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,070 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,090 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,118 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,141 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,165 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,166 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:57,166 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:47:57,595 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:57,613 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,629 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,657 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,700 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,765 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,794 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:57,833 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:57,870 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:57,896 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:57,915 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:57,949 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,977 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:57,995 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:58,036 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:58,055 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:58,085 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:58,114 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:58,145 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:58,174 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:58,227 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:58,227 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:47:58,228 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:47:59,413 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:59,435 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,453 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,486 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,538 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:47:59,548 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,562 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,576 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,601 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,609 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:59,651 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,663 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:59,684 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,699 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:59,711 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,718 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:59,747 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:59,780 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:59,808 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:59,814 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,831 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:59,844 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,867 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:59,885 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,901 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:47:59,907 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,934 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,944 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,964 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,969 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:47:59,998 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,004 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,038 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,051 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,082 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,093 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,111 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,117 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,120 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:00,121 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:48:00,146 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,171 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,187 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,225 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,226 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:00,226 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:48:00,486 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:00,505 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,535 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,561 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,582 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,609 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,634 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:00,658 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:00,677 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:00,717 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:00,790 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:00,818 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,841 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,859 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,886 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,905 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,921 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,943 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,965 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:00,984 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:01,017 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:01,017 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:01,017 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:48:02,301 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:02,355 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,425 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,498 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,505 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:02,549 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,561 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,585 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,588 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,618 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:02,628 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,645 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:02,650 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,678 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:02,701 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,733 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:02,748 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:02,792 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:02,803 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:02,816 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,826 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:02,849 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,864 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:02,879 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,884 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:02,908 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,920 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,946 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,964 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:02,985 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,008 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,037 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,055 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,074 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,093 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,112 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,124 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,144 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,149 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:03,149 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:48:03,165 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,196 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,243 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,296 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,297 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:03,297 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:48:03,536 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:03,585 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,610 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,627 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,660 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,685 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,710 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:03,735 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:03,764 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:03,804 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:03,868 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:03,887 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,903 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,932 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,952 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,968 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:03,996 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:04,027 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:04,072 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:04,107 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:04,152 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:04,153 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:04,154 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:48:05,286 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:05,309 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,336 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,394 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,426 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:05,458 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,471 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,502 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,519 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,554 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:05,571 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,596 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:05,614 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,644 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:05,676 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,691 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:05,720 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:05,748 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:05,768 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:05,787 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,817 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:05,834 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,858 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:05,867 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,914 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:05,918 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,936 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,941 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,976 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:05,990 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,018 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,026 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,064 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,074 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,116 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,120 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,179 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,181 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,183 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:06,185 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:48:06,220 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,284 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,343 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,397 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,399 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:06,399 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:48:06,612 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:06,635 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,652 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,681 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,713 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,748 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:06,784 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:06,826 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:06,880 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:06,913 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:06,940 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:06,981 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:07,052 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:07,095 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:07,128 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:07,172 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:07,267 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:07,304 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:07,352 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:07,392 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:07,436 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:07,438 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:07,441 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:48:08,331 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:08,385 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:08,446 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:08,514 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:08,553 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:08,602 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:08,644 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:08,678 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:08,712 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:08,779 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:08,783 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:08,809 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:08,810 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:08,868 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:08,868 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:08,929 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:08,934 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,005 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,029 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,034 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,067 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,072 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:09,105 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,119 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:09,150 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,154 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:09,192 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,203 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:09,248 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,250 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:09,296 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,299 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,350 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,351 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,352 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:09,355 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:48:09,408 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,450 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,502 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,548 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,600 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,653 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,680 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,697 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,698 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:09,698 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:48:09,855 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:09,880 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,899 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,929 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:09,972 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:10,001 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:10,044 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:10,072 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:10,110 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:10,154 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:10,190 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:10,220 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:10,252 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:10,285 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:10,317 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:10,352 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:10,387 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:10,441 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:10,462 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:10,483 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:10,518 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:10,519 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:10,519 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:48:11,921 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:11,922 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:11,947 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:11,947 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:11,999 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,003 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,059 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,068 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,113 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,116 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,184 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,190 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,263 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:12,271 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:12,320 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:12,318 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:12,375 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:12,375 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:12,426 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:12,427 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:12,477 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:12,476 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:12,529 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,531 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,558 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,560 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,611 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,616 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,663 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,664 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,714 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,715 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,759 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,760 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,824 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,824 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,881 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,879 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,948 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:12,947 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,016 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,017 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,018 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:13,018 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:13,019 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:48:13,019 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:48:13,330 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:13,355 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,396 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,424 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,459 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,494 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,530 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:13,564 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:13,611 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:13,636 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:13,669 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:13,698 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,714 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,742 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,781 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,820 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,849 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,900 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,924 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,949 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,985 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:13,986 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:13,986 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:48:15,444 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:15,490 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:15,489 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:15,546 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:15,546 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:15,608 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:15,610 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:15,661 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:15,667 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:15,721 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:15,724 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:15,781 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:15,781 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:15,812 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:15,815 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:15,857 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:15,858 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:15,898 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:15,900 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:15,953 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:15,952 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:15,986 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:15,989 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,032 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,033 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,089 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,087 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,133 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,136 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,185 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,184 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,243 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,241 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,304 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,302 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,371 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,371 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,440 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,442 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,504 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,503 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,508 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:16,509 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:48:16,586 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,587 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:16,589 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:16,592 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:48:16,636 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,682 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,749 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,795 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,835 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:16,865 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:16,891 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:16,925 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:16,961 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:16,989 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:17,030 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:17,061 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:17,093 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:17,127 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:17,167 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:17,198 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:17,232 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:17,266 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:17,297 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:17,322 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:17,322 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:17,323 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:48:18,719 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:18,751 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:18,797 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:18,850 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:18,881 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:18,918 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:18,977 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:18,995 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:19,067 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:19,093 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,137 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:19,158 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,202 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:19,233 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,256 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:19,279 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,323 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,333 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,379 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,395 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:19,433 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,447 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:19,502 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,517 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:19,600 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,601 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:19,624 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:19,625 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,660 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,661 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,686 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,687 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,715 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,717 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,741 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,740 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,742 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:19,743 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:48:19,763 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,813 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,890 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,960 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:19,977 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:20,028 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,072 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,117 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,120 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:20,123 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:48:20,154 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,231 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,276 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,321 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,378 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:20,426 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:20,476 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:20,524 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:20,548 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:20,576 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,598 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,628 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,670 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,708 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,736 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,759 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,788 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,829 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,858 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:20,858 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:20,859 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:48:22,037 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:22,064 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,114 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,161 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,210 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,305 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,341 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:22,361 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:22,385 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,397 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:22,439 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,443 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:22,487 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,486 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:22,517 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,518 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:22,572 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,572 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,605 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:22,606 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,690 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,689 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:22,760 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:22,761 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,829 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:22,828 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,883 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:22,884 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,927 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,926 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,978 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:22,979 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,034 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,041 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,102 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,102 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,104 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:23,105 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:48:23,162 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,252 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,253 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:23,274 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,273 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,328 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,328 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,372 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,371 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,433 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,433 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,434 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:23,436 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:48:23,474 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,498 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:23,521 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:23,544 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:23,563 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:23,585 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:23,634 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,670 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,688 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,712 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,736 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,754 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,779 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,801 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,826 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,846 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:23,847 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:23,847 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:48:25,829 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:25,862 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:25,878 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:25,901 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:25,917 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:25,940 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:25,961 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:25,982 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,008 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,056 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,111 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,142 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,175 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,217 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,248 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,288 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,327 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,330 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:26,354 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,371 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,375 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,392 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,413 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,417 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,437 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,480 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,489 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,495 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,528 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,554 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,591 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,604 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,625 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,659 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,674 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,732 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,743 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,753 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,772 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,787 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,805 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,828 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,840 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,860 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,886 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,900 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:26,905 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,925 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,941 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,947 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:26,986 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:27,008 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:27,005 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:27,043 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:27,044 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:27,045 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:48:27,061 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:27,060 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:27,062 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:27,062 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:48:27,090 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:27,108 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:27,131 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:27,159 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:27,183 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:27,205 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:27,232 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:27,232 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:27,233 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:48:29,244 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:29,279 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:29,377 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:29,510 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:29,862 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:29,880 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:29,899 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:29,972 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:29,980 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,073 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,077 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,086 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,148 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,149 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,165 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,223 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,224 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,252 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,316 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,318 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,335 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,406 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,408 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,416 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,459 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,459 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,464 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,510 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,509 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,509 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,544 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,543 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,544 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,583 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,584 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,585 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,615 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,617 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,616 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:30,660 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,660 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,661 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,701 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,700 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,701 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,736 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,735 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,736 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,787 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,788 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,788 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,820 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,821 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:30,821 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,822 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,823 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:48:30,866 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,867 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,894 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,895 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,926 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,928 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,951 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,951 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,952 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:30,953 ] 94 benemmai380 - ERROR - No form found
+[ 2024-04-23 22:48:30,974 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:30,974 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:30,974 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:48:33,269 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:33,278 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:33,306 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,330 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,400 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,443 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:33,442 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,503 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,535 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,540 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,562 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,579 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,582 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,600 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,632 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,633 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,671 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:33,712 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:33,713 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,726 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:33,771 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:33,771 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:33,771 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,815 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:33,816 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:33,817 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:33,861 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:33,867 ] 94 ble79037 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:33,875 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:33,902 ] 94 nihahi50 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:33,904 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,920 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:33,944 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,954 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:33,975 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:34,023 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,016 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,051 ] 94 benemmai380 - INFO - Skip form with ＜ in title for onlyday mode
+[ 2024-04-23 22:48:34,085 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,090 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,105 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,140 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,138 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,157 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,195 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,193 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,208 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,263 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,264 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,265 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,311 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,310 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,311 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,362 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,361 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,362 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,403 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,405 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,406 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,407 ] 94 ble79037 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:34,409 ] 94 ble79037 - ERROR - No form found
+[ 2024-04-23 22:48:34,444 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,449 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,451 ] 94 nihahi50 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:34,452 ] 94 nihahi50 - ERROR - No form found
+[ 2024-04-23 22:48:34,488 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,515 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:48:34,516 ] 94 benemmai380 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-23 22:48:34,517 ] 94 benemmai380 - ERROR - No form found

@@ -1,0 +1,855 @@
+[ 2024-04-23 22:37:20,020 ] 94 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-23 22:37:20,020 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: nihahi50@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:37:29,282 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:37:37,899 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:37:38,295 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:37:38,296 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:37:40,424 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:37:40,424 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:37:40,424 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:37:40,426 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:37:40,431 ] 94 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-23 22:37:40,431 ] 94 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-23 22:37:41,464 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:37:41,464 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:37:51,308 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:37:51,308 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:37:51,688 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:37:51,688 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:37:51,689 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:37:51,689 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:37:54,119 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:37:54,119 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:37:54,119 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:37:54,119 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:37:54,119 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:37:54,119 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:37:54,120 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:37:54,120 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:37:54,123 ] 94 main_controller - INFO - Subprocess 0 started with trial number 2
+[ 2024-04-23 22:37:54,123 ] 94 main_controller - INFO - Subprocess 0 started with trial number 2
+[ 2024-04-23 22:37:54,123 ] 94 main_controller - INFO - Subprocess 0 started with trial number 2
+[ 2024-04-23 22:37:55,247 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:37:55,247 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:37:55,247 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:04,188 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:04,188 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:04,188 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:04,556 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:04,556 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:04,556 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:04,556 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:04,556 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:04,556 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:06,591 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:06,591 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:06,591 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:06,591 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:06,591 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:06,591 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:06,592 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:06,592 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:06,592 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:06,592 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:06,592 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:06,592 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:06,594 ] 94 main_controller - INFO - Subprocess 0 started with trial number 3
+[ 2024-04-23 22:38:06,594 ] 94 main_controller - INFO - Subprocess 0 started with trial number 3
+[ 2024-04-23 22:38:06,594 ] 94 main_controller - INFO - Subprocess 0 started with trial number 3
+[ 2024-04-23 22:38:06,594 ] 94 main_controller - INFO - Subprocess 0 started with trial number 3
+[ 2024-04-23 22:38:07,532 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:07,532 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:07,532 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:07,532 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:17,152 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:17,152 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:17,152 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:17,152 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:17,592 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:17,592 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:17,592 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:17,592 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:17,593 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:17,593 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:17,593 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:17,593 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:19,924 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:19,924 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:19,924 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:19,924 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:19,924 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:19,924 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:19,924 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:19,924 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:19,924 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:19,924 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:19,924 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:19,924 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:19,925 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:19,925 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:19,925 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:19,925 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:19,927 ] 94 main_controller - INFO - Subprocess 0 started with trial number 4
+[ 2024-04-23 22:38:19,927 ] 94 main_controller - INFO - Subprocess 0 started with trial number 4
+[ 2024-04-23 22:38:19,927 ] 94 main_controller - INFO - Subprocess 0 started with trial number 4
+[ 2024-04-23 22:38:19,927 ] 94 main_controller - INFO - Subprocess 0 started with trial number 4
+[ 2024-04-23 22:38:19,927 ] 94 main_controller - INFO - Subprocess 0 started with trial number 4
+[ 2024-04-23 22:38:20,922 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:20,922 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:20,922 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:20,922 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:20,922 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:30,728 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:30,728 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:30,728 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:30,728 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:30,728 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:31,182 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:31,182 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:31,182 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:31,182 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:31,182 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:31,183 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:31,183 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:31,183 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:31,183 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:31,183 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:33,662 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:33,662 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:33,662 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:33,662 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:33,662 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:33,662 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:33,662 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:33,662 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:33,662 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:33,662 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:33,663 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:33,663 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:33,663 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:33,663 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:33,663 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:33,663 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:33,663 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:33,663 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:33,663 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:33,663 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:33,666 ] 94 main_controller - INFO - Subprocess 0 started with trial number 5
+[ 2024-04-23 22:38:33,666 ] 94 main_controller - INFO - Subprocess 0 started with trial number 5
+[ 2024-04-23 22:38:33,666 ] 94 main_controller - INFO - Subprocess 0 started with trial number 5
+[ 2024-04-23 22:38:33,666 ] 94 main_controller - INFO - Subprocess 0 started with trial number 5
+[ 2024-04-23 22:38:33,666 ] 94 main_controller - INFO - Subprocess 0 started with trial number 5
+[ 2024-04-23 22:38:33,666 ] 94 main_controller - INFO - Subprocess 0 started with trial number 5
+[ 2024-04-23 22:38:34,678 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:34,678 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:34,678 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:34,678 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:34,678 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:34,678 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:38:44,702 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:44,702 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:44,702 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:44,702 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:44,702 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:44,702 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:38:45,063 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:45,063 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:45,063 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:45,063 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:45,063 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:45,063 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_37_19\screenshot_nihahi50.png
+[ 2024-04-23 22:38:45,064 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:45,064 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:45,064 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:45,064 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:45,064 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:45,064 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:38:47,396 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:47,396 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:47,396 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:47,396 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:47,396 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:47,396 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:38:47,397 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:47,397 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:47,397 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:47,397 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:47,397 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:47,397 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:38:47,397 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:47,397 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:47,397 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:47,397 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:47,397 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:47,397 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891'}
+[ 2024-04-23 22:38:47,397 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:47,397 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:47,397 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:47,397 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:47,397 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:47,397 ] 82 main_controller - ERROR - Caught exception: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 87, in subprocess
+    customer = Customer(**customer_info)
+TypeError: __init__() missing 3 required positional arguments: 'gender', 'nation', and 'country'
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - ERROR - Max number of retry reached 5, return
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - ERROR - Max number of retry reached 5, return
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - ERROR - Max number of retry reached 5, return
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - ERROR - Max number of retry reached 5, return
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - ERROR - Max number of retry reached 5, return
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - ERROR - Max number of retry reached 5, return
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - ERROR - Max number of retry reached 5, return
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:47,400 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:49,623 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:49,623 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:49,623 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:49,623 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:49,623 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:49,623 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:49,623 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:49,624 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:49,624 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:49,624 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:49,624 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:49,624 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:49,624 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:49,624 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:51,862 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:54,073 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:54,073 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:54,073 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:54,073 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:54,073 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:54,073 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:54,073 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:54,074 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:54,074 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:54,074 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:54,074 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:54,074 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:54,074 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:54,074 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:56,280 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:56,280 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:56,280 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:56,280 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:56,280 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:56,280 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:56,280 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:56,281 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:56,281 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:56,281 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:56,281 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:56,281 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:56,281 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:56,281 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:38:59,529 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-23 22:39:01,947 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:39:01,947 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:39:01,947 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:39:01,947 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:39:01,947 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:39:01,947 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-23 22:39:01,947 ] 94 main_controller - INFO - Browser closed

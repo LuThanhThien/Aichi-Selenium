@@ -1,0 +1,393 @@
+[ 2024-04-16 05:03:43,563 ] 94 leongnardo12 - INFO - Opened login page
+[ 2024-04-16 05:03:43,563 ] 94 leongnardo12 - INFO - Opened login page
+[ 2024-04-16 05:03:43,563 ] 94 leongnardo12 - INFO - Opened login page
+[ 2024-04-16 05:03:48,536 ] 94 leongnardo12 - INFO - Logging in
+[ 2024-04-16 05:03:48,536 ] 94 leongnardo12 - INFO - Logging in
+[ 2024-04-16 05:03:48,536 ] 94 leongnardo12 - INFO - Logging in
+[ 2024-04-16 05:03:48,551 ] 94 leongnardo12 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 05:03:48,551 ] 94 leongnardo12 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 05:03:48,551 ] 94 leongnardo12 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 05:03:48,893 ] 94 leongnardo12 - INFO - Logged in finished
+[ 2024-04-16 05:03:48,893 ] 94 leongnardo12 - INFO - Logged in finished
+[ 2024-04-16 05:03:48,893 ] 94 leongnardo12 - INFO - Logged in finished
+[ 2024-04-16 05:03:49,140 ] 94 leongnardo12 - INFO - On main page
+[ 2024-04-16 05:03:49,140 ] 94 leongnardo12 - INFO - On main page
+[ 2024-04-16 05:03:49,140 ] 94 leongnardo12 - INFO - On main page
+[ 2024-04-16 05:03:53,148 ] 94 leongnardo12 - INFO - Search submitted
+[ 2024-04-16 05:03:53,148 ] 94 leongnardo12 - INFO - Search submitted
+[ 2024-04-16 05:03:53,148 ] 94 leongnardo12 - INFO - Search submitted
+[ 2024-04-16 05:03:53,305 ] 94 leongnardo12 - INFO - Collected 20 forms
+[ 2024-04-16 05:03:53,305 ] 94 leongnardo12 - INFO - Collected 20 forms
+[ 2024-04-16 05:03:53,305 ] 94 leongnardo12 - INFO - Collected 20 forms
+[ 2024-04-16 05:03:53,448 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96088
+[ 2024-04-16 05:03:53,448 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96088
+[ 2024-04-16 05:03:53,448 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96088
+[ 2024-04-16 05:03:53,523 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96089
+[ 2024-04-16 05:03:53,523 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96089
+[ 2024-04-16 05:03:53,523 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96089
+[ 2024-04-16 05:03:53,616 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96090
+[ 2024-04-16 05:03:53,616 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96090
+[ 2024-04-16 05:03:53,616 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96090
+[ 2024-04-16 05:03:53,684 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96091
+[ 2024-04-16 05:03:53,684 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96091
+[ 2024-04-16 05:03:53,684 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96091
+[ 2024-04-16 05:03:53,772 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96093
+[ 2024-04-16 05:03:53,772 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96093
+[ 2024-04-16 05:03:53,772 ] 94 leongnardo12 - INFO - Parsed data: title: ＜05月01日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96093
+[ 2024-04-16 05:03:53,830 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:03:53,830 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:03:53,830 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:03:53,836 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:03:53,836 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:03:53,836 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:03:53,888 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:03:53,888 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:03:53,888 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:03:53,894 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:03:53,894 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:03:53,894 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:03:53,945 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:03:53,945 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:03:53,945 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:03:53,947 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:03:53,947 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:03:53,947 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:03:53,994 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:03:53,994 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:03:53,994 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:03:53,997 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:03:53,997 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:03:53,997 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:03:54,041 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:03:54,041 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:03:54,041 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:03:54,045 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:03:54,045 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:03:54,045 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:03:54,087 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95410
+[ 2024-04-16 05:03:54,087 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95410
+[ 2024-04-16 05:03:54,087 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95410
+[ 2024-04-16 05:03:54,153 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95411
+[ 2024-04-16 05:03:54,153 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95411
+[ 2024-04-16 05:03:54,153 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95411
+[ 2024-04-16 05:03:54,205 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95412
+[ 2024-04-16 05:03:54,205 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95412
+[ 2024-04-16 05:03:54,205 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95412
+[ 2024-04-16 05:03:54,247 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95413
+[ 2024-04-16 05:03:54,247 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95413
+[ 2024-04-16 05:03:54,247 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95413
+[ 2024-04-16 05:03:54,303 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95414
+[ 2024-04-16 05:03:54,303 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95414
+[ 2024-04-16 05:03:54,303 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月26日(金) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95414
+[ 2024-04-16 05:03:54,360 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95405
+[ 2024-04-16 05:03:54,360 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95405
+[ 2024-04-16 05:03:54,360 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95405
+[ 2024-04-16 05:03:54,401 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95406
+[ 2024-04-16 05:03:54,401 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95406
+[ 2024-04-16 05:03:54,401 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95406
+[ 2024-04-16 05:03:54,436 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95407
+[ 2024-04-16 05:03:54,436 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95407
+[ 2024-04-16 05:03:54,436 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95407
+[ 2024-04-16 05:03:54,473 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95408
+[ 2024-04-16 05:03:54,473 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95408
+[ 2024-04-16 05:03:54,473 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95408
+[ 2024-04-16 05:03:54,578 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95409
+[ 2024-04-16 05:03:54,578 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95409
+[ 2024-04-16 05:03:54,578 ] 94 leongnardo12 - INFO - Parsed data: title: ＜04月25日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95409
+[ 2024-04-16 05:03:54,580 ] 94 leongnardo12 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-16 05:03:54,580 ] 94 leongnardo12 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-16 05:03:54,580 ] 94 leongnardo12 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-16 05:03:54,581 ] 94 leongnardo12 - INFO - Accessing form, template sequence: 95607
+[ 2024-04-16 05:03:54,581 ] 94 leongnardo12 - INFO - Accessing form, template sequence: 95607
+[ 2024-04-16 05:03:54,581 ] 94 leongnardo12 - INFO - Accessing form, template sequence: 95607
+[ 2024-04-16 05:03:54,582 ] 94 leongnardo12 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95607
+[ 2024-04-16 05:03:54,582 ] 94 leongnardo12 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95607
+[ 2024-04-16 05:03:54,582 ] 94 leongnardo12 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95607
+[ 2024-04-16 05:04:00,278 ] 94 leongnardo12 - INFO - Accessed form successfully
+[ 2024-04-16 05:04:00,278 ] 94 leongnardo12 - INFO - Accessed form successfully
+[ 2024-04-16 05:04:00,278 ] 94 leongnardo12 - INFO - Accessed form successfully
+[ 2024-04-16 05:04:00,305 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:00,305 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:00,305 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:00,306 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 1, template sequence: 95607
+[ 2024-04-16 05:04:00,306 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 1, template sequence: 95607
+[ 2024-04-16 05:04:00,306 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 1, template sequence: 95607
+[ 2024-04-16 05:04:02,145 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:02,145 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:02,145 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:02,146 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 2, template sequence: 95607
+[ 2024-04-16 05:04:02,146 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 2, template sequence: 95607
+[ 2024-04-16 05:04:02,146 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 2, template sequence: 95607
+[ 2024-04-16 05:04:03,904 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:03,904 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:03,904 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:03,905 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 3, template sequence: 95607
+[ 2024-04-16 05:04:03,905 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 3, template sequence: 95607
+[ 2024-04-16 05:04:03,905 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 3, template sequence: 95607
+[ 2024-04-16 05:04:05,769 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:05,769 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:05,769 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:05,769 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 4, template sequence: 95607
+[ 2024-04-16 05:04:05,769 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 4, template sequence: 95607
+[ 2024-04-16 05:04:05,769 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 4, template sequence: 95607
+[ 2024-04-16 05:04:07,598 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:07,598 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:07,598 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:07,601 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 5, template sequence: 95607
+[ 2024-04-16 05:04:07,601 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 5, template sequence: 95607
+[ 2024-04-16 05:04:07,601 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 5, template sequence: 95607
+[ 2024-04-16 05:04:09,401 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:09,401 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:09,401 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:09,401 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 6, template sequence: 95607
+[ 2024-04-16 05:04:09,401 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 6, template sequence: 95607
+[ 2024-04-16 05:04:09,401 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 6, template sequence: 95607
+[ 2024-04-16 05:04:11,149 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:11,149 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:11,149 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:11,150 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 7, template sequence: 95607
+[ 2024-04-16 05:04:11,150 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 7, template sequence: 95607
+[ 2024-04-16 05:04:11,150 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 7, template sequence: 95607
+[ 2024-04-16 05:04:12,879 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:12,879 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:12,879 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:12,880 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 8, template sequence: 95607
+[ 2024-04-16 05:04:12,880 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 8, template sequence: 95607
+[ 2024-04-16 05:04:12,880 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 8, template sequence: 95607
+[ 2024-04-16 05:04:14,771 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:14,771 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:14,771 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:14,772 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 9, template sequence: 95607
+[ 2024-04-16 05:04:14,772 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 9, template sequence: 95607
+[ 2024-04-16 05:04:14,772 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 9, template sequence: 95607
+[ 2024-04-16 05:04:16,172 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:16,172 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:16,172 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:16,172 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 10, template sequence: 95607
+[ 2024-04-16 05:04:16,172 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 10, template sequence: 95607
+[ 2024-04-16 05:04:16,172 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 10, template sequence: 95607
+[ 2024-04-16 05:04:17,318 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:17,318 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:17,318 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:17,318 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 11, template sequence: 95607
+[ 2024-04-16 05:04:17,318 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 11, template sequence: 95607
+[ 2024-04-16 05:04:17,318 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 11, template sequence: 95607
+[ 2024-04-16 05:04:19,105 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:19,105 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:19,105 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:19,106 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 12, template sequence: 95607
+[ 2024-04-16 05:04:19,106 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 12, template sequence: 95607
+[ 2024-04-16 05:04:19,106 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 12, template sequence: 95607
+[ 2024-04-16 05:04:20,910 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:20,910 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:20,910 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:20,911 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 13, template sequence: 95607
+[ 2024-04-16 05:04:20,911 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 13, template sequence: 95607
+[ 2024-04-16 05:04:20,911 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 13, template sequence: 95607
+[ 2024-04-16 05:04:22,819 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:22,819 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:22,819 ] 94 leongnardo12 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:22,820 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 14, template sequence: 95607
+[ 2024-04-16 05:04:22,820 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 14, template sequence: 95607
+[ 2024-04-16 05:04:22,820 ] 94 leongnardo12 - INFO - Refreshing page to check availability trial number 14, template sequence: 95607
+[ 2024-04-16 05:04:24,015 ] 82 leongnardo12 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 114, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+AttributeError: 'NoneType' object has no attribute 'text'
+[ 2024-04-16 05:04:24,015 ] 82 leongnardo12 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 114, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+AttributeError: 'NoneType' object has no attribute 'text'
+[ 2024-04-16 05:04:24,015 ] 82 leongnardo12 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 114, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+AttributeError: 'NoneType' object has no attribute 'text'
+[ 2024-04-16 05:04:24,018 ] 94 leongnardo12 - INFO - Form is available, template sequence: 95607
+[ 2024-04-16 05:04:24,018 ] 94 leongnardo12 - INFO - Form is available, template sequence: 95607
+[ 2024-04-16 05:04:24,018 ] 94 leongnardo12 - INFO - Form is available, template sequence: 95607
+[ 2024-04-16 05:04:24,019 ] 94 leongnardo12 - INFO - Filling form, template sequence: 95607
+[ 2024-04-16 05:04:24,019 ] 94 leongnardo12 - INFO - Filling form, template sequence: 95607
+[ 2024-04-16 05:04:24,019 ] 94 leongnardo12 - INFO - Filling form, template sequence: 95607
+[ 2024-04-16 05:04:24,023 ] 82 leongnardo12 - ERROR - Failed to click continue button: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.123)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C12AC1]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 57, in fill
+    continue_button = browser.find_element(By.XPATH, r'//*[@id="ok"]')
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.123)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C12AC1]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:04:24,023 ] 82 leongnardo12 - ERROR - Failed to click continue button: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.123)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C12AC1]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 57, in fill
+    continue_button = browser.find_element(By.XPATH, r'//*[@id="ok"]')
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.123)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C12AC1]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:04:24,023 ] 82 leongnardo12 - ERROR - Failed to click continue button: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.123)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C12AC1]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 57, in fill
+    continue_button = browser.find_element(By.XPATH, r'//*[@id="ok"]')
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.123)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C12AC1]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:04:24,029 ] 94 leongnardo12 - INFO - Accessing form, template sequence: 95605
+[ 2024-04-16 05:04:24,029 ] 94 leongnardo12 - INFO - Accessing form, template sequence: 95605
+[ 2024-04-16 05:04:24,029 ] 94 leongnardo12 - INFO - Accessing form, template sequence: 95605
+[ 2024-04-16 05:04:24,029 ] 94 leongnardo12 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95605
+[ 2024-04-16 05:04:24,029 ] 94 leongnardo12 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95605
+[ 2024-04-16 05:04:24,029 ] 94 leongnardo12 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95605

@@ -20,7 +20,7 @@ class Paths(object):
     fake_info = abs_path(configs, "info", "fake.yml")
     urls_info = abs_path(configs, "info", "urls.yml")
     accounts_info = abs_path(configs, "info", "accounts.yml")
-    chromedriver = abs_path(drivers, "chromedriver", "chromedriver.exe")
+    customers_info = abs_path(configs, "info", "customers.yml")
     
 class Configs(object):
     '''    Global configs    '''
@@ -28,6 +28,7 @@ class Configs(object):
     fake: dict = fu.read(Paths.fake_info)
     urls: dict = fu.read(Paths.urls_info)
     accounts: dict = fu.read(Paths.accounts_info)
+    customers: dict = fu.read(Paths.customers_info)
     countries_mapping: dict = fu.read(Paths.contries_mapping)
     nations_mapping: dict = fu.read(Paths.nations_mapping)
 
@@ -58,16 +59,27 @@ class Accounts(object):
     def get_test_account(index):
         return Configs.accounts['test_accounts'][index]
 
+class Customers(object):
+    '''    Global customers    '''
+    customers = Configs.customers['customers']
+    num_customers = len(customers)
+    
+    @staticmethod
+    def get_customer(index):
+        return Configs.customers['customers'][index]
+
 class Meta(object):
     '''        Meta configs        '''
     keyword = Configs.meta['keyword']
     test_mode = False if keyword in ['Tosan', 'Hirabari'] else True
+    onlyday = Configs.meta['onlyday']
     max_num_retry = Configs.meta['max_num_retry']
     default_num_threads = min(Configs.meta['default_num_threads'], Accounts.num_test_accounts)
     display_number = Configs.meta['display_number']
-    main_phone_number_hash = Configs.meta['main_phone_number_hash']
+    main_phone_number_dash = Configs.meta['main_phone_number_dash']
     uc = Configs.meta['uc']
     headless = Configs.meta['headless']
+    timeout = Configs.meta['timeout']
     
 
 class Fake(object):

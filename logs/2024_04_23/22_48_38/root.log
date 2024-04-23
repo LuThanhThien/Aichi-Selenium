@@ -1,0 +1,706 @@
+[ 2024-04-23 22:48:38,977 ] 94 root - INFO - Starting all threads
+[ 2024-04-23 22:48:38,977 ] 94 root - INFO - Starting all threads
+[ 2024-04-23 22:48:38,978 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'Hirabari', 'test_mode': False, 'onlyday': False, 'max_num_retry': 5, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': True, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-23 22:48:38,978 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'Hirabari', 'test_mode': False, 'onlyday': False, 'max_num_retry': 5, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': True, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-23 22:48:38,978 ] 94 root - INFO - Number of dev accounts: 3
+[ 2024-04-23 22:48:38,978 ] 94 root - INFO - Number of dev accounts: 3
+[ 2024-04-23 22:48:38,981 ] 94 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-23 22:48:38,982 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: nihahi50@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:48:40,988 ] 94 root - INFO - Thread 0 started
+[ 2024-04-23 22:48:40,988 ] 94 root - INFO - Thread 0 started
+[ 2024-04-23 22:48:41,009 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-23 22:48:41,009 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:48:42,993 ] 94 root - INFO - Thread 1 started
+[ 2024-04-23 22:48:42,993 ] 94 root - INFO - Thread 1 started
+[ 2024-04-23 22:48:42,996 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-23 22:48:42,996 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:48:44,069 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:48:44,997 ] 94 root - INFO - Thread 2 started
+[ 2024-04-23 22:48:44,997 ] 94 root - INFO - Thread 2 started
+[ 2024-04-23 22:48:49,545 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:48:50,654 ] 94 benemmai380 - INFO - Opened login page
+[ 2024-04-23 22:48:51,897 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:48:54,362 ] 94 benemmai380 - INFO - Logging in
+[ 2024-04-23 22:48:54,379 ] 94 benemmai380 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:48:54,702 ] 94 benemmai380 - INFO - Logged in finished
+[ 2024-04-23 22:48:54,703 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:48:55,295 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_48_38\screenshot_benemmai380.png
+[ 2024-04-23 22:48:55,296 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:48:55,319 ] 94 benemmai380 - INFO - On main page
+[ 2024-04-23 22:48:55,377 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:48:56,902 ] 94 benemmai380 - INFO - Search submitted
+[ 2024-04-23 22:48:57,056 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:48:57,757 ] 94 ble79037 - INFO - Opened login page
+[ 2024-04-23 22:48:57,909 ] 94 benemmai380 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:48:57,910 ] 82 main_controller - ERROR - Caught exception: sequence item 0: expected str instance, FormInfo found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+[ 2024-04-23 22:48:57,916 ] 94 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-04-23 22:48:59,690 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:48:59,697 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:48:59,906 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:49:00,041 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:49:00,045 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:49:00,940 ] 94 ble79037 - INFO - Logging in
+[ 2024-04-23 22:49:00,969 ] 94 ble79037 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:49:01,209 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_48_38\screenshot_nihahi50.png
+[ 2024-04-23 22:49:01,210 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:49:01,230 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:49:01,356 ] 94 ble79037 - INFO - Logged in finished
+[ 2024-04-23 22:49:01,358 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:49:02,157 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_48_38\screenshot_ble79037.png
+[ 2024-04-23 22:49:02,158 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:49:02,169 ] 94 ble79037 - INFO - On main page
+[ 2024-04-23 22:49:03,207 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:49:03,276 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:49:03,741 ] 94 ble79037 - INFO - Search submitted
+[ 2024-04-23 22:49:03,858 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:49:04,441 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:49:04,444 ] 82 main_controller - ERROR - Caught exception: sequence item 0: expected str instance, FormInfo found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+[ 2024-04-23 22:49:04,454 ] 94 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-23 22:49:04,962 ] 94 ble79037 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:49:04,963 ] 82 main_controller - ERROR - Caught exception: sequence item 0: expected str instance, FormInfo found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+[ 2024-04-23 22:49:04,967 ] 94 main_controller - INFO - Subprocess 1 started with trial number 1
+[ 2024-04-23 22:49:06,167 ] 94 benemmai380 - INFO - Opened login page
+[ 2024-04-23 22:49:06,390 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:49:07,384 ] 82 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7113FF922+3045234]
+	(No symbol) [0x00007FF7110A3652]
+	(No symbol) [0x00007FF710F67564]
+	(No symbol) [0x00007FF710FB5F9D]
+	(No symbol) [0x00007FF710FB606C]
+	(No symbol) [0x00007FF710FFBDD7]
+	(No symbol) [0x00007FF710FD9DEF]
+	(No symbol) [0x00007FF710FF91C4]
+	(No symbol) [0x00007FF710FD9B53]
+	(No symbol) [0x00007FF710FA813C]
+	(No symbol) [0x00007FF710FA8D71]
+	GetHandleVerifier [0x00007FF71142E89D+3237613]
+	GetHandleVerifier [0x00007FF711470BA7+3508727]
+	GetHandleVerifier [0x00007FF71146976F+3478975]
+	GetHandleVerifier [0x00007FF7111DF1C6+815126]
+	(No symbol) [0x00007FF7110AED0F]
+	(No symbol) [0x00007FF7110A9854]
+	(No symbol) [0x00007FF7110A99E2]
+	(No symbol) [0x00007FF71109A574]
+	BaseThreadInitThunk [0x00007FFFBAAA257D+29]
+	RtlUserThreadStart [0x00007FFFBC88AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 76, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-23 22:49:07,518 ] 94 main_controller - INFO - Subprocess 2 started with trial number 2
+[ 2024-04-23 22:49:08,312 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:49:12,782 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:49:14,078 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:49:15,702 ] 94 ble79037 - INFO - Opened login page
+[ 2024-04-23 22:49:21,490 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:49:21,490 ] 94 ble79037 - INFO - Logging in
+[ 2024-04-23 22:49:21,503 ] 94 ble79037 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:49:21,502 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:49:21,824 ] 94 ble79037 - INFO - Logged in finished
+[ 2024-04-23 22:49:21,825 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:49:21,848 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:49:21,848 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:49:22,671 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_48_38\screenshot_ble79037.png
+[ 2024-04-23 22:49:22,674 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_48_38\screenshot_nihahi50.png
+[ 2024-04-23 22:49:22,675 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:49:22,675 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:49:22,690 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:49:22,691 ] 94 ble79037 - INFO - On main page
+[ 2024-04-23 22:49:23,733 ] 94 benemmai380 - INFO - Opened login page
+[ 2024-04-23 22:49:24,553 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:49:24,616 ] 94 ble79037 - INFO - Search submitted
+[ 2024-04-23 22:49:24,703 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:49:24,709 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:49:25,706 ] 94 ble79037 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:49:25,715 ] 82 main_controller - ERROR - Caught exception: sequence item 0: expected str instance, FormInfo found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+[ 2024-04-23 22:49:25,721 ] 94 main_controller - INFO - Subprocess 1 started with trial number 2
+[ 2024-04-23 22:49:25,771 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:49:25,772 ] 82 main_controller - ERROR - Caught exception: sequence item 0: expected str instance, FormInfo found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+[ 2024-04-23 22:49:25,777 ] 94 main_controller - INFO - Subprocess 0 started with trial number 2
+[ 2024-04-23 22:49:27,069 ] 94 benemmai380 - INFO - Logging in
+[ 2024-04-23 22:49:27,079 ] 94 benemmai380 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:49:27,401 ] 94 benemmai380 - INFO - Logged in finished
+[ 2024-04-23 22:49:27,402 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:49:27,895 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_48_38\screenshot_benemmai380.png
+[ 2024-04-23 22:49:27,896 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:49:27,901 ] 94 benemmai380 - INFO - On main page
+[ 2024-04-23 22:49:29,043 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:49:29,422 ] 94 benemmai380 - INFO - Search submitted
+[ 2024-04-23 22:49:29,575 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:49:31,788 ] 94 benemmai380 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:49:31,794 ] 82 main_controller - ERROR - Caught exception: sequence item 0: expected str instance, FormInfo found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7113FF922+3045234]
+	(No symbol) [0x00007FF7110A3652]
+	(No symbol) [0x00007FF710F67564]
+	(No symbol) [0x00007FF710FB5F9D]
+	(No symbol) [0x00007FF710FB606C]
+	(No symbol) [0x00007FF710FFBDD7]
+	(No symbol) [0x00007FF710FD9DEF]
+	(No symbol) [0x00007FF710FF91C4]
+	(No symbol) [0x00007FF710FD9B53]
+	(No symbol) [0x00007FF710FA813C]
+	(No symbol) [0x00007FF710FA8D71]
+	GetHandleVerifier [0x00007FF71142E89D+3237613]
+	GetHandleVerifier [0x00007FF711470BA7+3508727]
+	GetHandleVerifier [0x00007FF71146976F+3478975]
+	GetHandleVerifier [0x00007FF7111DF1C6+815126]
+	(No symbol) [0x00007FF7110AED0F]
+	(No symbol) [0x00007FF7110A9854]
+	(No symbol) [0x00007FF7110A99E2]
+	(No symbol) [0x00007FF71109A574]
+	BaseThreadInitThunk [0x00007FFFBAAA257D+29]
+	RtlUserThreadStart [0x00007FFFBC88AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 76, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+[ 2024-04-23 22:49:31,857 ] 94 main_controller - INFO - Subprocess 2 started with trial number 3
+[ 2024-04-23 22:49:32,320 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:49:36,657 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:49:39,599 ] 94 ble79037 - INFO - Opened login page
+[ 2024-04-23 22:49:40,628 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:49:40,660 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:49:41,057 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:49:41,073 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:49:42,086 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_48_38\screenshot_nihahi50.png
+[ 2024-04-23 22:49:42,090 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:49:42,106 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:49:42,627 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:49:43,673 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:49:43,725 ] 94 ble79037 - INFO - Logging in
+[ 2024-04-23 22:49:43,771 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:49:43,864 ] 94 ble79037 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:49:44,197 ] 94 ble79037 - INFO - Logged in finished
+[ 2024-04-23 22:49:44,205 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:49:45,319 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_48_38\screenshot_ble79037.png
+[ 2024-04-23 22:49:45,321 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:49:45,567 ] 94 ble79037 - INFO - On main page
+[ 2024-04-23 22:49:45,931 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:49:45,938 ] 82 main_controller - ERROR - Caught exception: sequence item 0: expected str instance, FormInfo found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+[ 2024-04-23 22:49:45,991 ] 94 main_controller - INFO - Subprocess 0 started with trial number 3
+[ 2024-04-23 22:49:47,181 ] 94 ble79037 - INFO - Search submitted
+[ 2024-04-23 22:49:47,220 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:49:47,846 ] 94 ble79037 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:49:47,850 ] 82 main_controller - ERROR - Caught exception: sequence item 0: expected str instance, FormInfo found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+[ 2024-04-23 22:49:47,871 ] 94 main_controller - INFO - Subprocess 1 started with trial number 3
+[ 2024-04-23 22:49:51,083 ] 94 benemmai380 - INFO - Opened login page
+[ 2024-04-23 22:49:51,670 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:49:56,646 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:49:57,750 ] 94 benemmai380 - INFO - Logging in
+[ 2024-04-23 22:49:57,805 ] 94 benemmai380 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:49:58,252 ] 94 benemmai380 - INFO - Logged in finished
+[ 2024-04-23 22:49:58,272 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:49:59,976 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_48_38\screenshot_benemmai380.png
+[ 2024-04-23 22:49:59,980 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:50:00,022 ] 94 benemmai380 - INFO - On main page
+[ 2024-04-23 22:50:00,715 ] 94 ble79037 - INFO - Opened login page
+[ 2024-04-23 22:50:02,493 ] 94 benemmai380 - INFO - Search submitted
+[ 2024-04-23 22:50:02,762 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:50:04,518 ] 94 benemmai380 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:50:04,521 ] 82 main_controller - ERROR - Caught exception: sequence item 0: expected str instance, FormInfo found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7113FF922+3045234]
+	(No symbol) [0x00007FF7110A3652]
+	(No symbol) [0x00007FF710F67564]
+	(No symbol) [0x00007FF710FB5F9D]
+	(No symbol) [0x00007FF710FB606C]
+	(No symbol) [0x00007FF710FFBDD7]
+	(No symbol) [0x00007FF710FD9DEF]
+	(No symbol) [0x00007FF710FF91C4]
+	(No symbol) [0x00007FF710FD9B53]
+	(No symbol) [0x00007FF710FA813C]
+	(No symbol) [0x00007FF710FA8D71]
+	GetHandleVerifier [0x00007FF71142E89D+3237613]
+	GetHandleVerifier [0x00007FF711470BA7+3508727]
+	GetHandleVerifier [0x00007FF71146976F+3478975]
+	GetHandleVerifier [0x00007FF7111DF1C6+815126]
+	(No symbol) [0x00007FF7110AED0F]
+	(No symbol) [0x00007FF7110A9854]
+	(No symbol) [0x00007FF7110A99E2]
+	(No symbol) [0x00007FF71109A574]
+	BaseThreadInitThunk [0x00007FFFBAAA257D+29]
+	RtlUserThreadStart [0x00007FFFBC88AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 76, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+[ 2024-04-23 22:50:04,541 ] 94 main_controller - INFO - Subprocess 2 started with trial number 4
+[ 2024-04-23 22:50:05,251 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:50:06,003 ] 94 ble79037 - INFO - Logging in
+[ 2024-04-23 22:50:06,010 ] 94 ble79037 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:50:06,356 ] 94 ble79037 - INFO - Logged in finished
+[ 2024-04-23 22:50:06,359 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:50:07,078 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_48_38\screenshot_ble79037.png
+[ 2024-04-23 22:50:07,079 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:50:07,087 ] 94 ble79037 - INFO - On main page
+[ 2024-04-23 22:50:08,713 ] 94 ble79037 - INFO - Search submitted
+[ 2024-04-23 22:50:08,921 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:50:10,077 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:50:11,071 ] 94 ble79037 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:50:11,077 ] 82 main_controller - ERROR - Caught exception: sequence item 0: expected str instance, FormInfo found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+[ 2024-04-23 22:50:11,105 ] 94 main_controller - INFO - Subprocess 1 started with trial number 4
+[ 2024-04-23 22:50:11,557 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:50:11,583 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:50:11,973 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:50:11,976 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:50:13,335 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_48_38\screenshot_nihahi50.png
+[ 2024-04-23 22:50:13,338 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:50:13,367 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:50:15,145 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:50:15,266 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:50:17,337 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:50:17,346 ] 82 main_controller - ERROR - Caught exception: sequence item 0: expected str instance, FormInfo found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 78, in _collect
+    self.logger.info(form_info)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 70, in info
+    self._log(logging.INFO, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 0: expected str instance, FormInfo found
+[ 2024-04-23 22:50:17,360 ] 94 main_controller - INFO - Subprocess 0 started with trial number 4
+[ 2024-04-23 22:50:18,469 ] 94 benemmai380 - INFO - Opened login page
+[ 2024-04-23 22:50:23,085 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:50:24,041 ] 94 benemmai380 - INFO - Logging in
+[ 2024-04-23 22:50:24,302 ] 94 benemmai380 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay

@@ -1,0 +1,417 @@
+[ 2024-04-16 05:03:45,211 ] 94 ngtrnghi123 - INFO - Opened login page
+[ 2024-04-16 05:03:45,211 ] 94 ngtrnghi123 - INFO - Opened login page
+[ 2024-04-16 05:03:45,211 ] 94 ngtrnghi123 - INFO - Opened login page
+[ 2024-04-16 05:03:50,301 ] 94 ngtrnghi123 - INFO - Logging in
+[ 2024-04-16 05:03:50,301 ] 94 ngtrnghi123 - INFO - Logging in
+[ 2024-04-16 05:03:50,301 ] 94 ngtrnghi123 - INFO - Logging in
+[ 2024-04-16 05:03:50,320 ] 94 ngtrnghi123 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 05:03:50,320 ] 94 ngtrnghi123 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 05:03:50,320 ] 94 ngtrnghi123 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 05:03:50,673 ] 94 ngtrnghi123 - INFO - Logged in finished
+[ 2024-04-16 05:03:50,673 ] 94 ngtrnghi123 - INFO - Logged in finished
+[ 2024-04-16 05:03:50,673 ] 94 ngtrnghi123 - INFO - Logged in finished
+[ 2024-04-16 05:03:50,894 ] 94 ngtrnghi123 - INFO - On main page
+[ 2024-04-16 05:03:50,894 ] 94 ngtrnghi123 - INFO - On main page
+[ 2024-04-16 05:03:50,894 ] 94 ngtrnghi123 - INFO - On main page
+[ 2024-04-16 05:03:52,563 ] 94 ngtrnghi123 - INFO - Search submitted
+[ 2024-04-16 05:03:52,563 ] 94 ngtrnghi123 - INFO - Search submitted
+[ 2024-04-16 05:03:52,563 ] 94 ngtrnghi123 - INFO - Search submitted
+[ 2024-04-16 05:03:52,596 ] 94 ngtrnghi123 - INFO - Collected 20 forms
+[ 2024-04-16 05:03:52,596 ] 94 ngtrnghi123 - INFO - Collected 20 forms
+[ 2024-04-16 05:03:52,596 ] 94 ngtrnghi123 - INFO - Collected 20 forms
+[ 2024-04-16 05:03:52,653 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96088
+[ 2024-04-16 05:03:52,653 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96088
+[ 2024-04-16 05:03:52,653 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96088
+[ 2024-04-16 05:03:52,699 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96089
+[ 2024-04-16 05:03:52,699 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96089
+[ 2024-04-16 05:03:52,699 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96089
+[ 2024-04-16 05:03:52,751 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96090
+[ 2024-04-16 05:03:52,751 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96090
+[ 2024-04-16 05:03:52,751 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96090
+[ 2024-04-16 05:03:52,798 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96091
+[ 2024-04-16 05:03:52,798 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96091
+[ 2024-04-16 05:03:52,798 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96091
+[ 2024-04-16 05:03:52,842 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96093
+[ 2024-04-16 05:03:52,842 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96093
+[ 2024-04-16 05:03:52,842 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜05月01日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96093
+[ 2024-04-16 05:03:52,887 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:03:52,887 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:03:52,887 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:03:52,888 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:03:52,888 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:03:52,888 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:03:52,925 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:03:52,925 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:03:52,925 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:03:52,926 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:03:52,926 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:03:52,926 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:03:52,969 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:03:52,969 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:03:52,969 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:03:52,972 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:03:52,972 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:03:52,972 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:03:53,312 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:03:53,312 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:03:53,312 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:03:53,318 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:03:53,318 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:03:53,318 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:03:53,442 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:03:53,442 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:03:53,442 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:03:53,445 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:03:53,445 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:03:53,445 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:03:53,525 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95410
+[ 2024-04-16 05:03:53,525 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95410
+[ 2024-04-16 05:03:53,525 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95410
+[ 2024-04-16 05:03:53,615 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95411
+[ 2024-04-16 05:03:53,615 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95411
+[ 2024-04-16 05:03:53,615 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95411
+[ 2024-04-16 05:03:53,686 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95412
+[ 2024-04-16 05:03:53,686 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95412
+[ 2024-04-16 05:03:53,686 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95412
+[ 2024-04-16 05:03:53,772 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95413
+[ 2024-04-16 05:03:53,772 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95413
+[ 2024-04-16 05:03:53,772 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95413
+[ 2024-04-16 05:03:53,830 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95414
+[ 2024-04-16 05:03:53,830 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95414
+[ 2024-04-16 05:03:53,830 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月26日(金) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95414
+[ 2024-04-16 05:03:53,885 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95405
+[ 2024-04-16 05:03:53,885 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95405
+[ 2024-04-16 05:03:53,885 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95405
+[ 2024-04-16 05:03:53,945 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95406
+[ 2024-04-16 05:03:53,945 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95406
+[ 2024-04-16 05:03:53,945 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95406
+[ 2024-04-16 05:03:53,995 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95407
+[ 2024-04-16 05:03:53,995 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95407
+[ 2024-04-16 05:03:53,995 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95407
+[ 2024-04-16 05:03:54,040 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95408
+[ 2024-04-16 05:03:54,040 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95408
+[ 2024-04-16 05:03:54,040 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95408
+[ 2024-04-16 05:03:54,089 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95409
+[ 2024-04-16 05:03:54,089 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95409
+[ 2024-04-16 05:03:54,089 ] 94 ngtrnghi123 - INFO - Parsed data: title: ＜04月25日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95409
+[ 2024-04-16 05:03:54,094 ] 94 ngtrnghi123 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-16 05:03:54,094 ] 94 ngtrnghi123 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-16 05:03:54,094 ] 94 ngtrnghi123 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-16 05:03:54,097 ] 94 ngtrnghi123 - INFO - Accessing form, template sequence: 95608
+[ 2024-04-16 05:03:54,097 ] 94 ngtrnghi123 - INFO - Accessing form, template sequence: 95608
+[ 2024-04-16 05:03:54,097 ] 94 ngtrnghi123 - INFO - Accessing form, template sequence: 95608
+[ 2024-04-16 05:03:54,097 ] 94 ngtrnghi123 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95608
+[ 2024-04-16 05:03:54,097 ] 94 ngtrnghi123 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95608
+[ 2024-04-16 05:03:54,097 ] 94 ngtrnghi123 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95608
+[ 2024-04-16 05:03:59,697 ] 94 ngtrnghi123 - INFO - Accessed form successfully
+[ 2024-04-16 05:03:59,697 ] 94 ngtrnghi123 - INFO - Accessed form successfully
+[ 2024-04-16 05:03:59,697 ] 94 ngtrnghi123 - INFO - Accessed form successfully
+[ 2024-04-16 05:03:59,721 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:03:59,721 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:03:59,721 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:03:59,722 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 1, template sequence: 95608
+[ 2024-04-16 05:03:59,722 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 1, template sequence: 95608
+[ 2024-04-16 05:03:59,722 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 1, template sequence: 95608
+[ 2024-04-16 05:04:01,818 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:01,818 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:01,818 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:01,819 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 2, template sequence: 95608
+[ 2024-04-16 05:04:01,819 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 2, template sequence: 95608
+[ 2024-04-16 05:04:01,819 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 2, template sequence: 95608
+[ 2024-04-16 05:04:02,973 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:02,973 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:02,973 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:02,974 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 3, template sequence: 95608
+[ 2024-04-16 05:04:02,974 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 3, template sequence: 95608
+[ 2024-04-16 05:04:02,974 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 3, template sequence: 95608
+[ 2024-04-16 05:04:04,125 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:04,125 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:04,125 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:04,127 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 4, template sequence: 95608
+[ 2024-04-16 05:04:04,127 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 4, template sequence: 95608
+[ 2024-04-16 05:04:04,127 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 4, template sequence: 95608
+[ 2024-04-16 05:04:05,364 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:05,364 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:05,364 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:05,365 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 5, template sequence: 95608
+[ 2024-04-16 05:04:05,365 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 5, template sequence: 95608
+[ 2024-04-16 05:04:05,365 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 5, template sequence: 95608
+[ 2024-04-16 05:04:06,521 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:06,521 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:06,521 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:06,522 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 6, template sequence: 95608
+[ 2024-04-16 05:04:06,522 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 6, template sequence: 95608
+[ 2024-04-16 05:04:06,522 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 6, template sequence: 95608
+[ 2024-04-16 05:04:07,681 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:07,681 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:07,681 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:07,683 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 7, template sequence: 95608
+[ 2024-04-16 05:04:07,683 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 7, template sequence: 95608
+[ 2024-04-16 05:04:07,683 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 7, template sequence: 95608
+[ 2024-04-16 05:04:08,823 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:08,823 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:08,823 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:08,824 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 8, template sequence: 95608
+[ 2024-04-16 05:04:08,824 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 8, template sequence: 95608
+[ 2024-04-16 05:04:08,824 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 8, template sequence: 95608
+[ 2024-04-16 05:04:09,964 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:09,964 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:09,964 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:09,964 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 9, template sequence: 95608
+[ 2024-04-16 05:04:09,964 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 9, template sequence: 95608
+[ 2024-04-16 05:04:09,964 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 9, template sequence: 95608
+[ 2024-04-16 05:04:11,137 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:11,137 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:11,137 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:11,140 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 10, template sequence: 95608
+[ 2024-04-16 05:04:11,140 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 10, template sequence: 95608
+[ 2024-04-16 05:04:11,140 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 10, template sequence: 95608
+[ 2024-04-16 05:04:12,340 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:12,340 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:12,340 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:12,341 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 11, template sequence: 95608
+[ 2024-04-16 05:04:12,341 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 11, template sequence: 95608
+[ 2024-04-16 05:04:12,341 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 11, template sequence: 95608
+[ 2024-04-16 05:04:13,487 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:13,487 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:13,487 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:13,487 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 12, template sequence: 95608
+[ 2024-04-16 05:04:13,487 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 12, template sequence: 95608
+[ 2024-04-16 05:04:13,487 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 12, template sequence: 95608
+[ 2024-04-16 05:04:14,633 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:14,633 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:14,633 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:14,634 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 13, template sequence: 95608
+[ 2024-04-16 05:04:14,634 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 13, template sequence: 95608
+[ 2024-04-16 05:04:14,634 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 13, template sequence: 95608
+[ 2024-04-16 05:04:15,843 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:15,843 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:15,843 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:15,843 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 14, template sequence: 95608
+[ 2024-04-16 05:04:15,843 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 14, template sequence: 95608
+[ 2024-04-16 05:04:15,843 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 14, template sequence: 95608
+[ 2024-04-16 05:04:17,046 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:17,046 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:17,046 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:17,046 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 15, template sequence: 95608
+[ 2024-04-16 05:04:17,046 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 15, template sequence: 95608
+[ 2024-04-16 05:04:17,046 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 15, template sequence: 95608
+[ 2024-04-16 05:04:19,032 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:19,032 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:19,032 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:19,033 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 16, template sequence: 95608
+[ 2024-04-16 05:04:19,033 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 16, template sequence: 95608
+[ 2024-04-16 05:04:19,033 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 16, template sequence: 95608
+[ 2024-04-16 05:04:20,636 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:20,636 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:20,636 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:20,636 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 17, template sequence: 95608
+[ 2024-04-16 05:04:20,636 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 17, template sequence: 95608
+[ 2024-04-16 05:04:20,636 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 17, template sequence: 95608
+[ 2024-04-16 05:04:22,175 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:22,175 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:22,175 ] 94 ngtrnghi123 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:04:22,175 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 18, template sequence: 95608
+[ 2024-04-16 05:04:22,175 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 18, template sequence: 95608
+[ 2024-04-16 05:04:22,175 ] 94 ngtrnghi123 - INFO - Refreshing page to check availability trial number 18, template sequence: 95608
+[ 2024-04-16 05:04:22,682 ] 82 ngtrnghi123 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 114, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+AttributeError: 'NoneType' object has no attribute 'text'
+[ 2024-04-16 05:04:22,682 ] 82 ngtrnghi123 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 114, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+AttributeError: 'NoneType' object has no attribute 'text'
+[ 2024-04-16 05:04:22,682 ] 82 ngtrnghi123 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 114, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+AttributeError: 'NoneType' object has no attribute 'text'
+[ 2024-04-16 05:04:22,684 ] 94 ngtrnghi123 - INFO - Form is available, template sequence: 95608
+[ 2024-04-16 05:04:22,684 ] 94 ngtrnghi123 - INFO - Form is available, template sequence: 95608
+[ 2024-04-16 05:04:22,684 ] 94 ngtrnghi123 - INFO - Form is available, template sequence: 95608
+[ 2024-04-16 05:04:22,684 ] 94 ngtrnghi123 - INFO - Filling form, template sequence: 95608
+[ 2024-04-16 05:04:22,684 ] 94 ngtrnghi123 - INFO - Filling form, template sequence: 95608
+[ 2024-04-16 05:04:22,684 ] 94 ngtrnghi123 - INFO - Filling form, template sequence: 95608
+[ 2024-04-16 05:04:22,687 ] 82 ngtrnghi123 - ERROR - Failed to click continue button: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.123)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C12AC1]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 57, in fill
+    continue_button = browser.find_element(By.XPATH, r'//*[@id="ok"]')
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.123)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C12AC1]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:04:22,687 ] 82 ngtrnghi123 - ERROR - Failed to click continue button: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.123)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C12AC1]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 57, in fill
+    continue_button = browser.find_element(By.XPATH, r'//*[@id="ok"]')
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.123)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C12AC1]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:04:22,687 ] 82 ngtrnghi123 - ERROR - Failed to click continue button: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.123)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C12AC1]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 57, in fill
+    continue_button = browser.find_element(By.XPATH, r'//*[@id="ok"]')
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.123)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770B6CA7C]
+	(No symbol) [0x00007FF770BFD687]
+	(No symbol) [0x00007FF770C12AC1]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:04:22,690 ] 94 ngtrnghi123 - INFO - Accessing form, template sequence: 95609
+[ 2024-04-16 05:04:22,690 ] 94 ngtrnghi123 - INFO - Accessing form, template sequence: 95609
+[ 2024-04-16 05:04:22,690 ] 94 ngtrnghi123 - INFO - Accessing form, template sequence: 95609
+[ 2024-04-16 05:04:22,690 ] 94 ngtrnghi123 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95609
+[ 2024-04-16 05:04:22,690 ] 94 ngtrnghi123 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95609
+[ 2024-04-16 05:04:22,690 ] 94 ngtrnghi123 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95609

@@ -1,0 +1,774 @@
+[ 2024-04-23 22:40:58,534 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:40:58,534 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:40:58,534 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:01,768 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:01,768 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:01,768 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:01,774 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:01,774 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:01,774 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:02,087 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:02,087 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:02,087 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:02,476 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:02,476 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:02,476 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:03,914 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:03,914 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:03,914 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:03,947 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:03,947 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:03,947 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:04,031 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:04,031 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:04,031 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:04,033 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,033 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,033 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,078 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:04,078 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:04,078 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:04,080 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,080 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,080 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,136 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:04,136 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:04,136 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:04,138 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,138 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,138 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,193 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:04,193 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:04,193 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:04,196 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,196 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,196 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,231 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:04,231 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:04,231 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:04,233 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,233 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,233 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,275 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:04,275 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:04,275 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:04,310 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:04,310 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:04,310 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:04,351 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:04,351 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:04,351 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:04,394 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:04,394 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:04,394 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:04,437 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:04,437 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:04,437 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:04,483 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:04,483 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:04,483 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:04,484 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,484 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,484 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,532 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:04,532 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:04,532 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:04,534 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,534 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,534 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,582 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:04,582 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:04,582 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:04,584 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,584 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,584 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,625 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:04,625 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:04,625 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:04,629 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,629 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,629 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,695 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:04,695 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:04,695 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:04,696 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,696 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,696 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,750 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:04,750 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:04,750 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:04,752 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,752 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,752 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,796 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:04,796 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:04,796 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:04,797 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,797 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,797 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,841 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:04,841 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:04,841 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:04,843 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,843 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,843 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,883 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:04,883 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:04,883 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:04,886 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,886 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,886 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,948 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:04,948 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:04,948 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:04,950 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,950 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,950 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:04,951 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:04,951 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:04,951 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:11,454 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:11,454 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:11,454 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:11,454 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:11,454 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:11,454 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:15,302 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:15,302 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:15,302 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:15,302 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:15,302 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:15,302 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:15,310 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:15,310 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:15,310 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:15,310 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:15,310 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:15,310 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:15,626 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:15,626 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:15,626 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:15,626 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:15,626 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:15,626 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:15,996 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:15,996 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:15,996 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:15,996 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:15,996 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:15,996 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:17,505 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:17,505 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:17,505 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:17,505 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:17,505 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:17,505 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:17,528 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:17,528 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:17,528 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:17,528 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:17,528 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:17,528 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:17,558 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:17,558 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:17,558 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:17,558 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:17,558 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:17,558 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:17,558 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,558 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,558 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,558 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,558 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,558 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,599 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:17,599 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:17,599 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:17,599 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:17,599 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:17,599 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:17,600 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,600 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,600 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,600 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,600 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,600 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,657 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:17,657 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:17,657 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:17,657 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:17,657 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:17,657 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:17,659 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,659 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,659 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,659 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,659 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,659 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,697 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:17,697 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:17,697 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:17,697 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:17,697 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:17,697 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:17,699 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,699 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,699 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,699 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,699 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,699 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,738 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:17,738 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:17,738 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:17,738 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:17,738 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:17,738 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:17,739 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,739 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,739 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,739 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,739 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,739 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:17,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:17,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:17,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:17,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:17,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:17,826 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:17,826 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:17,826 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:17,826 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:17,826 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:17,826 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:17,864 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:17,864 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:17,864 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:17,864 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:17,864 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:17,864 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:17,897 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:17,897 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:17,897 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:17,897 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:17,897 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:17,897 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:17,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:17,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:17,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:17,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:17,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:17,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:17,976 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:17,976 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:17,976 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:17,976 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:17,976 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:17,976 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:17,979 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,979 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,979 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,979 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,979 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:17,979 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,017 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:18,017 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:18,017 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:18,017 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:18,017 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:18,017 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:18,019 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,019 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,019 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,019 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,019 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,019 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,044 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:18,044 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:18,044 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:18,044 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:18,044 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:18,044 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:18,045 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,045 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,045 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,045 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,045 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,045 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,087 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:18,087 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:18,087 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:18,087 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:18,087 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:18,087 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:18,089 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,089 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,089 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,089 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,089 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,089 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,120 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:18,120 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:18,120 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:18,120 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:18,120 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:18,120 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:18,124 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,124 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,124 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,124 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,124 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,124 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,169 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:18,169 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:18,169 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:18,169 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:18,169 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:18,169 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:18,172 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,172 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,172 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,172 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,172 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,172 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,218 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:18,218 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:18,218 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:18,218 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:18,218 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:18,218 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:18,221 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,221 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,221 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,221 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,221 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,221 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,270 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:18,270 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:18,270 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:18,270 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:18,270 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:18,270 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:18,272 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,272 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,272 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,272 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,272 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,272 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,335 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:18,335 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:18,335 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:18,335 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:18,335 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:18,335 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:18,337 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,337 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,337 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,337 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,337 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,337 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,435 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:18,435 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:18,435 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:18,435 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:18,435 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:18,435 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:18,439 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,439 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,439 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,439 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,439 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,439 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:18,440 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:18,440 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:18,440 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:18,440 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:18,440 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:18,440 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:25,884 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:25,884 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:25,884 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:25,884 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:25,884 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:25,884 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:25,884 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:25,884 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:25,884 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:41:29,321 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:29,321 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:29,321 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:29,321 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:29,321 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:29,321 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:29,321 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:29,321 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:29,321 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:41:29,329 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:29,329 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:29,329 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:29,329 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:29,329 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:29,329 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:29,329 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:29,329 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:29,329 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:41:29,647 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:29,647 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:29,647 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:29,647 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:29,647 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:29,647 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:29,647 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:29,647 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:29,647 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:41:30,104 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:30,104 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:30,104 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:30,104 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:30,104 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:30,104 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:30,104 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:30,104 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:30,104 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:41:31,672 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:31,672 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:31,672 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:31,672 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:31,672 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:31,672 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:31,672 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:31,672 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:31,672 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:41:31,691 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:31,691 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:31,691 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:31,691 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:31,691 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:31,691 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:31,691 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:31,691 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:31,691 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:41:31,716 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:31,716 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:31,716 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:31,716 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:31,716 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:31,716 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:31,716 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:31,716 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:31,716 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:41:31,717 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,717 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,717 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,717 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,717 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,717 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,717 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,717 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,717 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,735 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:31,735 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:31,735 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:31,735 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:31,735 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:31,735 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:31,735 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:31,735 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:31,735 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:41:31,736 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,736 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,736 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,736 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,736 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,736 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,736 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,736 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,736 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,753 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:31,753 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:31,753 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:31,753 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:31,753 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:31,753 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:31,753 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:31,753 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:31,753 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:41:31,754 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,754 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,754 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,754 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,754 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,754 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,754 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,754 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,754 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,769 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:31,769 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:31,769 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:31,769 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:31,769 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:31,769 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:31,769 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:31,769 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:31,769 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:41:31,770 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,770 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,770 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,770 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,770 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,770 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,770 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,770 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,770 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:31,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:31,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:31,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:31,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:31,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:31,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:31,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:31,788 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:41:31,789 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,789 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,789 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,789 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,789 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,789 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,789 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,789 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,789 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,805 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:31,805 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:31,805 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:31,805 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:31,805 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:31,805 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:31,805 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:31,805 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:31,805 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:41:31,824 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:31,824 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:31,824 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:31,824 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:31,824 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:31,824 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:31,824 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:31,824 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:31,824 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:41:31,841 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:31,841 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:31,841 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:31,841 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:31,841 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:31,841 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:31,841 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:31,841 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:31,841 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:41:31,859 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:31,859 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:31,859 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:31,859 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:31,859 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:31,859 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:31,859 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:31,859 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:31,859 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:41:31,875 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:31,875 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:31,875 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:31,875 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:31,875 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:31,875 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:31,875 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:31,875 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:31,875 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:41:31,891 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:31,891 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:31,891 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:31,891 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:31,891 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:31,891 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:31,891 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:31,891 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:31,891 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:41:31,892 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,892 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,892 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,892 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,892 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,892 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,892 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,892 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,892 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,908 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:31,908 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:31,908 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:31,908 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:31,908 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:31,908 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:31,908 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:31,908 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:31,908 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:41:31,909 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,909 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,909 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,909 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,909 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,909 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,909 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,909 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,909 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,930 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:31,930 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:31,930 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:31,930 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:31,930 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:31,930 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:31,930 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:31,930 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:31,930 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:41:31,931 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,931 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,931 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,931 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,931 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,931 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,931 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,931 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,931 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:31,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:31,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:31,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:31,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:31,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:31,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:31,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:31,949 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:41:31,950 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,950 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,950 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,950 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,950 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,950 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,950 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,950 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,950 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,969 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:31,969 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:31,969 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:31,969 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:31,969 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:31,969 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:31,969 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:31,969 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:31,969 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:41:31,970 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,970 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,970 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,970 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,970 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,970 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,970 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,970 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,970 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,987 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:31,987 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:31,987 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:31,987 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:31,987 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:31,987 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:31,987 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:31,987 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:31,987 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:41:31,988 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,988 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,988 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,988 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,988 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,988 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,988 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,988 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:31,988 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,008 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:32,008 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:32,008 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:32,008 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:32,008 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:32,008 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:32,008 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:32,008 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:32,008 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:41:32,009 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,009 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,009 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,009 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,009 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,009 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,009 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,009 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,009 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,033 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:32,033 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:32,033 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:32,033 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:32,033 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:32,033 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:32,033 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:32,033 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:32,033 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:41:32,035 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,035 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,035 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,035 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,035 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,035 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,035 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,035 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,035 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,137 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:32,137 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:32,137 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:32,137 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:32,137 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:32,137 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:32,137 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:32,137 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:32,137 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:41:32,139 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,139 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,139 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,139 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,139 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,139 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,139 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,139 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,139 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,178 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:32,178 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:32,178 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:32,178 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:32,178 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:32,178 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:32,178 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:32,178 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:32,178 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:41:32,179 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,179 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,179 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,179 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,179 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,179 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,179 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,179 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,179 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:41:32,180 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:32,180 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:32,180 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:32,180 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:32,180 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:32,180 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:32,180 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:32,180 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:41:32,180 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)

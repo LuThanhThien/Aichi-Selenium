@@ -7,7 +7,8 @@ from seleniumbase import Driver, SB
 
 from src.logs import Names, BaseLogger
 from src.exceptions import BaseException
-from src.globals import Meta
+from src.globals import Meta, Customers
+from src.models.customer import Customer
 
 from .access import Access
 from .finder import Finder
@@ -74,10 +75,26 @@ class MainController:
          # Fill
          # Shuffle the list of form info
          list_form_info = random.sample(list_form_info, len(list_form_info))
+         main_logger.info("Customers: {}".format(Customers.customers))
          while len(list_form_info) > 0:
+            # Get customer
+            customer = None
+            if Customers.num_customers > 0:
+               customer_index = index % Customers.num_customers
+               customer_info = Customers.get_customer(customer_index)
+               customer_info['phone_number'] = Meta.main_phone_number_dash
+               customer_info['nation'] = 'ベトナム'
+               customer_info['country'] = 'ベトナム'
+               customer_info['gender'] = 'M'
+               main_logger.info("Customer info index {}: {}".format(customer_index, customer_info))
+               customer = Customer.safe_load(**customer_info)
+               main_logger.info("Customer index {}: {}".format(customer_index, customer))
+            else:
+               customer = Customer.random_customer()
+
             # Get first form info and fill
             form_info = list_form_info.pop(0)
-            filler.fill(browser, form_info)
+            filler.fill(browser, form_info, customer)
 
             if form_info.is_filled:
                # If form is filled successfully, remove it from the list

@@ -13,7 +13,7 @@ class Filler(BaseController):
    def __init__(self, account: Account = None) -> None:
       super().__init__(account)
 
-   def fill(self, browser: WebDriver, form_info: FormInfo):
+   def fill(self, browser: WebDriver, form_info: FormInfo, customer: Customer):
       # Access form
       try:
          self.logger.info("Accessing form, template sequence: {}".format(form_info.template_seq))
@@ -48,8 +48,8 @@ class Filler(BaseController):
                return
             # Refresh page if form is still not available
             self.logger.info("Refreshing page to check availability trial number {}, template sequence: {}".format(i+1, form_info.template_seq))
+            time.sleep(0.4)
             browser.refresh()
-            time.sleep(0.2)
 
       # Fill form
       self.logger.info("Filling form, template sequence: {}".format(form_info.template_seq))
@@ -62,7 +62,6 @@ class Filler(BaseController):
          return
 
       # Fill inputs
-      customer = Customer.random_customer()
       result_fill = False
       if Meta.keyword == "Tosan" or Meta.keyword == "Hirabari":
          result_fill = self.fill_Tosan_Hirabari(browser, customer)

@@ -1,0 +1,423 @@
+[ 2024-04-23 22:43:34,206 ] 94 root - INFO - Starting all threads
+[ 2024-04-23 22:43:34,206 ] 94 root - INFO - Starting all threads
+[ 2024-04-23 22:43:34,206 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'Hirabari', 'test_mode': False, 'onlyday': False, 'max_num_retry': 5, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': True, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-23 22:43:34,206 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'Hirabari', 'test_mode': False, 'onlyday': False, 'max_num_retry': 5, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': True, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-23 22:43:34,207 ] 94 root - INFO - Number of dev accounts: 3
+[ 2024-04-23 22:43:34,207 ] 94 root - INFO - Number of dev accounts: 3
+[ 2024-04-23 22:43:34,209 ] 94 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-23 22:43:34,210 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: nihahi50@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:43:36,213 ] 94 root - INFO - Thread 0 started
+[ 2024-04-23 22:43:36,213 ] 94 root - INFO - Thread 0 started
+[ 2024-04-23 22:43:36,216 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-23 22:43:36,216 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:43:38,215 ] 94 root - INFO - Thread 1 started
+[ 2024-04-23 22:43:38,215 ] 94 root - INFO - Thread 1 started
+[ 2024-04-23 22:43:38,218 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-23 22:43:38,218 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:43:39,230 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:43:40,230 ] 94 root - INFO - Thread 2 started
+[ 2024-04-23 22:43:40,230 ] 94 root - INFO - Thread 2 started
+[ 2024-04-23 22:43:44,647 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:43:45,703 ] 94 benemmai380 - INFO - Opened login page
+[ 2024-04-23 22:43:46,393 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:43:48,791 ] 94 benemmai380 - INFO - Logging in
+[ 2024-04-23 22:43:48,797 ] 94 benemmai380 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:43:49,114 ] 94 benemmai380 - INFO - Logged in finished
+[ 2024-04-23 22:43:49,115 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:43:49,584 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_43_33\screenshot_benemmai380.png
+[ 2024-04-23 22:43:49,585 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:43:49,592 ] 94 benemmai380 - INFO - On main page
+[ 2024-04-23 22:43:50,400 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 22:43:50,949 ] 94 benemmai380 - INFO - Search submitted
+[ 2024-04-23 22:43:50,986 ] 94 benemmai380 - INFO - Collected 20 forms
+[ 2024-04-23 22:43:51,065 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:43:51,068 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:51,106 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:43:51,110 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:51,221 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:43:51,224 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:51,306 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:43:51,307 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:51,353 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:43:51,355 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:51,393 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:43:51,433 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:43:51,502 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:43:51,550 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:43:51,612 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:43:51,669 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:43:51,671 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:51,719 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:43:51,724 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:51,781 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:43:51,783 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:51,827 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:43:51,830 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:51,895 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:43:51,896 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:51,937 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:43:51,938 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:52,006 ] 94 ble79037 - INFO - Opened login page
+[ 2024-04-23 22:43:52,012 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:43:52,014 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:52,061 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:43:52,063 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:52,090 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:43:52,091 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:52,125 ] 94 benemmai380 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:43:52,126 ] 94 benemmai380 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:52,126 ] 94 benemmai380 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:43:52,126 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:43:52,126 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:43:52,127 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 22:43:52,130 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 22:43:52,130 ] 94 benemmai380 - INFO - Accessing form, template sequence: 96454
+[ 2024-04-23 22:43:52,131 ] 94 benemmai380 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=96454
+[ 2024-04-23 22:43:54,448 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 22:43:54,456 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:43:54,767 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 22:43:54,767 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:43:55,151 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_43_33\screenshot_nihahi50.png
+[ 2024-04-23 22:43:55,151 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:43:55,155 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 22:43:56,251 ] 94 ble79037 - INFO - Logging in
+[ 2024-04-23 22:43:56,260 ] 94 ble79037 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 22:43:56,539 ] 94 nihahi50 - INFO - Search submitted
+[ 2024-04-23 22:43:56,564 ] 94 nihahi50 - INFO - Collected 20 forms
+[ 2024-04-23 22:43:56,583 ] 94 ble79037 - INFO - Logged in finished
+[ 2024-04-23 22:43:56,584 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:43:56,618 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:43:56,622 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:56,695 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:43:56,698 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:56,758 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:43:56,760 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:56,860 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:43:56,861 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:56,904 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:43:56,905 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:56,930 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:43:56,971 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:43:57,013 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:43:57,069 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:43:57,108 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_43_33\screenshot_ble79037.png
+[ 2024-04-23 22:43:57,110 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:43:57,126 ] 94 ble79037 - INFO - On main page
+[ 2024-04-23 22:43:57,127 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:43:57,177 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:43:57,180 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:57,232 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:43:57,234 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:57,291 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:43:57,293 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:57,352 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:43:57,353 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:57,406 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:43:57,408 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:57,445 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:43:57,446 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:57,493 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:43:57,494 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:57,520 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:43:57,522 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:57,578 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:43:57,580 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:57,611 ] 94 nihahi50 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:43:57,613 ] 94 nihahi50 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:57,614 ] 94 nihahi50 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:43:57,615 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:43:57,615 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:43:57,616 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 22:43:57,617 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 22:43:57,617 ] 94 nihahi50 - INFO - Accessing form, template sequence: 96455
+[ 2024-04-23 22:43:57,617 ] 94 nihahi50 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=96455
+[ 2024-04-23 22:43:57,780 ] 94 benemmai380 - INFO - Accessed form successfully
+[ 2024-04-23 22:43:57,798 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:43:57,799 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 1, template sequence: 96454
+[ 2024-04-23 22:43:58,950 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:43:58,951 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 2, template sequence: 96454
+[ 2024-04-23 22:43:59,123 ] 94 ble79037 - INFO - Search submitted
+[ 2024-04-23 22:43:59,200 ] 94 ble79037 - INFO - Collected 20 forms
+[ 2024-04-23 22:43:59,277 ] 94 ble79037 - INFO - Parsed data: title: ＜05月09日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96458
+[ 2024-04-23 22:43:59,278 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:59,358 ] 94 ble79037 - INFO - Parsed data: title: ＜05月09日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96459
+[ 2024-04-23 22:43:59,361 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:59,460 ] 94 ble79037 - INFO - Parsed data: title: ＜05月09日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96460
+[ 2024-04-23 22:43:59,464 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:59,550 ] 94 ble79037 - INFO - Parsed data: title: ＜05月09日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96461
+[ 2024-04-23 22:43:59,553 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:59,627 ] 94 ble79037 - INFO - Parsed data: title: ＜05月09日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月25日 07時30分, end_date: 2024年05月07日 12時00分, template_seq: 96462
+[ 2024-04-23 22:43:59,631 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:59,725 ] 94 ble79037 - INFO - Parsed data: title: ＜05月08日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96453
+[ 2024-04-23 22:43:59,771 ] 94 ble79037 - INFO - Parsed data: title: ＜05月08日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96454
+[ 2024-04-23 22:43:59,809 ] 94 ble79037 - INFO - Parsed data: title: ＜05月08日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96455
+[ 2024-04-23 22:43:59,839 ] 94 ble79037 - INFO - Parsed data: title: ＜05月08日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96456
+[ 2024-04-23 22:43:59,868 ] 94 ble79037 - INFO - Parsed data: title: ＜05月08日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 近日受付開始, start_date: 2024年04月24日 07時30分, end_date: 2024年05月02日 12時00分, template_seq: 96457
+[ 2024-04-23 22:43:59,896 ] 94 ble79037 - INFO - Parsed data: title: ＜05月07日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96447
+[ 2024-04-23 22:43:59,898 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:43:59,947 ] 94 ble79037 - INFO - Parsed data: title: ＜05月07日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96448
+[ 2024-04-23 22:43:59,948 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:44:00,002 ] 94 ble79037 - INFO - Parsed data: title: ＜05月07日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96450
+[ 2024-04-23 22:44:00,005 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:44:00,083 ] 94 ble79037 - INFO - Parsed data: title: ＜05月07日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96451
+[ 2024-04-23 22:44:00,084 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:44:00,109 ] 94 ble79037 - INFO - Parsed data: title: ＜05月07日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月23日 07時30分, end_date: 2024年05月01日 12時00分, template_seq: 96452
+[ 2024-04-23 22:44:00,109 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:44:00,134 ] 94 ble79037 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-23 22:44:00,135 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:44:00,177 ] 94 ble79037 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-23 22:44:00,178 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:44:00,202 ] 94 ble79037 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-23 22:44:00,203 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:44:00,220 ] 94 ble79037 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-23 22:44:00,221 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:44:00,255 ] 94 ble79037 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: 受付終了しました, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-23 22:44:00,258 ] 94 ble79037 - INFO - Skip form with passed, ended, or not today status
+[ 2024-04-23 22:44:00,258 ] 94 ble79037 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-23 22:44:00,259 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:44:00,259 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:44:00,260 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 22:44:00,261 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 22:44:00,261 ] 94 ble79037 - INFO - Accessing form, template sequence: 96457
+[ 2024-04-23 22:44:00,261 ] 94 ble79037 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=96457
+[ 2024-04-23 22:44:00,547 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:00,548 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 3, template sequence: 96454
+[ 2024-04-23 22:44:01,603 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:01,603 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 4, template sequence: 96454
+[ 2024-04-23 22:44:02,642 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:02,643 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 5, template sequence: 96454
+[ 2024-04-23 22:44:03,459 ] 94 nihahi50 - INFO - Accessed form successfully
+[ 2024-04-23 22:44:03,477 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:03,478 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 1, template sequence: 96455
+[ 2024-04-23 22:44:03,690 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:03,691 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 6, template sequence: 96454
+[ 2024-04-23 22:44:05,145 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:05,145 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 7, template sequence: 96454
+[ 2024-04-23 22:44:05,229 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:05,230 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 2, template sequence: 96455
+[ 2024-04-23 22:44:05,947 ] 94 ble79037 - INFO - Accessed form successfully
+[ 2024-04-23 22:44:05,962 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:05,963 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 1, template sequence: 96457
+[ 2024-04-23 22:44:06,759 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:06,759 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 8, template sequence: 96454
+[ 2024-04-23 22:44:06,916 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:06,917 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 3, template sequence: 96455
+[ 2024-04-23 22:44:07,823 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:07,823 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 2, template sequence: 96457
+[ 2024-04-23 22:44:08,153 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:08,153 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 9, template sequence: 96454
+[ 2024-04-23 22:44:08,630 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:08,631 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 4, template sequence: 96455
+[ 2024-04-23 22:44:09,485 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:09,487 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 10, template sequence: 96454
+[ 2024-04-23 22:44:09,589 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:09,590 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 3, template sequence: 96457
+[ 2024-04-23 22:44:10,311 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:10,311 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 5, template sequence: 96455
+[ 2024-04-23 22:44:11,027 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:11,029 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 11, template sequence: 96454
+[ 2024-04-23 22:44:11,035 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:11,036 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 4, template sequence: 96457
+[ 2024-04-23 22:44:12,047 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:12,048 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 6, template sequence: 96455
+[ 2024-04-23 22:44:12,380 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:12,381 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 12, template sequence: 96454
+[ 2024-04-23 22:44:12,625 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:12,625 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 5, template sequence: 96457
+[ 2024-04-23 22:44:13,621 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:13,622 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 7, template sequence: 96455
+[ 2024-04-23 22:44:13,882 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:13,883 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 13, template sequence: 96454
+[ 2024-04-23 22:44:13,887 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:13,889 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 6, template sequence: 96457
+[ 2024-04-23 22:44:15,192 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:15,195 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 8, template sequence: 96455
+[ 2024-04-23 22:44:15,322 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:15,324 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 7, template sequence: 96457
+[ 2024-04-23 22:44:15,543 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:15,544 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 14, template sequence: 96454
+[ 2024-04-23 22:44:16,667 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:16,668 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 15, template sequence: 96454
+[ 2024-04-23 22:44:16,830 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:16,830 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 9, template sequence: 96455
+[ 2024-04-23 22:44:17,020 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:17,021 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 8, template sequence: 96457
+[ 2024-04-23 22:44:17,785 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:17,785 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 16, template sequence: 96454
+[ 2024-04-23 22:44:18,237 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:18,238 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 9, template sequence: 96457
+[ 2024-04-23 22:44:18,592 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:18,593 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 10, template sequence: 96455
+[ 2024-04-23 22:44:19,157 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:19,157 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 17, template sequence: 96454
+[ 2024-04-23 22:44:19,655 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:19,655 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 10, template sequence: 96457
+[ 2024-04-23 22:44:20,226 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:20,226 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 18, template sequence: 96454
+[ 2024-04-23 22:44:20,308 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:20,310 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 11, template sequence: 96455
+[ 2024-04-23 22:44:21,142 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:21,143 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 11, template sequence: 96457
+[ 2024-04-23 22:44:21,589 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:21,590 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 19, template sequence: 96454
+[ 2024-04-23 22:44:21,767 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:21,768 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 12, template sequence: 96455
+[ 2024-04-23 22:44:22,602 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:22,603 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 12, template sequence: 96457
+[ 2024-04-23 22:44:22,711 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:22,711 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 20, template sequence: 96454
+[ 2024-04-23 22:44:22,987 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:22,987 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 13, template sequence: 96455
+[ 2024-04-23 22:44:23,861 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:23,862 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 13, template sequence: 96457
+[ 2024-04-23 22:44:24,023 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:24,024 ] 94 benemmai380 - INFO - Failed to access form after 20 refreshing, template sequence: 96454
+[ 2024-04-23 22:44:24,024 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96454
+[ 2024-04-23 22:44:24,024 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 22:44:24,025 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 22:44:24,025 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 22:44:24,025 ] 94 benemmai380 - INFO - Accessing form, template sequence: 96453
+[ 2024-04-23 22:44:24,026 ] 94 benemmai380 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=96453
+[ 2024-04-23 22:44:24,652 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:24,653 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 14, template sequence: 96455
+[ 2024-04-23 22:44:25,021 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:25,022 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 14, template sequence: 96457
+[ 2024-04-23 22:44:26,416 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:26,417 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 15, template sequence: 96455
+[ 2024-04-23 22:44:26,505 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:26,505 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 15, template sequence: 96457
+[ 2024-04-23 22:44:27,944 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:27,945 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 16, template sequence: 96457
+[ 2024-04-23 22:44:27,959 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:27,959 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 16, template sequence: 96455
+[ 2024-04-23 22:44:29,119 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:29,120 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 17, template sequence: 96457
+[ 2024-04-23 22:44:29,141 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:29,141 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 17, template sequence: 96455
+[ 2024-04-23 22:44:29,670 ] 94 benemmai380 - INFO - Accessed form successfully
+[ 2024-04-23 22:44:29,687 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:29,687 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 1, template sequence: 96453
+[ 2024-04-23 22:44:30,708 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:30,709 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 18, template sequence: 96457
+[ 2024-04-23 22:44:30,760 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:30,763 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 18, template sequence: 96455
+[ 2024-04-23 22:44:30,804 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:30,804 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 2, template sequence: 96453
+[ 2024-04-23 22:44:31,887 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:31,889 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 19, template sequence: 96457
+[ 2024-04-23 22:44:32,082 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:32,082 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 19, template sequence: 96455
+[ 2024-04-23 22:44:32,181 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:32,182 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 3, template sequence: 96453
+[ 2024-04-23 22:44:33,274 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:33,276 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 4, template sequence: 96453
+[ 2024-04-23 22:44:33,298 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:33,298 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 20, template sequence: 96455
+[ 2024-04-23 22:44:33,381 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:33,381 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 20, template sequence: 96457
+[ 2024-04-23 22:44:34,504 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:34,505 ] 94 nihahi50 - INFO - Failed to access form after 20 refreshing, template sequence: 96455
+[ 2024-04-23 22:44:34,506 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96455
+[ 2024-04-23 22:44:34,506 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 22:44:34,506 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 22:44:34,506 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 22:44:34,507 ] 94 nihahi50 - INFO - Accessing form, template sequence: 96453
+[ 2024-04-23 22:44:34,507 ] 94 nihahi50 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=96453
+[ 2024-04-23 22:44:34,644 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:34,645 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 5, template sequence: 96453
+[ 2024-04-23 22:44:34,878 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:34,878 ] 94 ble79037 - INFO - Failed to access form after 20 refreshing, template sequence: 96457
+[ 2024-04-23 22:44:34,879 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96457
+[ 2024-04-23 22:44:34,879 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 22:44:34,879 ] 94 main_controller - INFO - Customer info index 1: {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 22:44:34,879 ] 94 main_controller - INFO - Customer index 1: Tran Thi Le Lai, M, 19000101, 080-1583-0891, ベトナム
+[ 2024-04-23 22:44:34,880 ] 94 ble79037 - INFO - Accessing form, template sequence: 96455
+[ 2024-04-23 22:44:34,880 ] 94 ble79037 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=96455
+[ 2024-04-23 22:44:35,782 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:35,785 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 6, template sequence: 96453
+[ 2024-04-23 22:44:36,875 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:36,875 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 7, template sequence: 96453
+[ 2024-04-23 22:44:37,916 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:37,916 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 8, template sequence: 96453
+[ 2024-04-23 22:44:39,238 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:39,238 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 9, template sequence: 96453
+[ 2024-04-23 22:44:40,062 ] 94 nihahi50 - INFO - Accessed form successfully
+[ 2024-04-23 22:44:40,075 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:40,075 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 1, template sequence: 96453
+[ 2024-04-23 22:44:40,328 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:40,329 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 10, template sequence: 96453
+[ 2024-04-23 22:44:40,514 ] 94 ble79037 - INFO - Accessed form successfully
+[ 2024-04-23 22:44:40,527 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:40,527 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 1, template sequence: 96455
+[ 2024-04-23 22:44:41,323 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:41,324 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 2, template sequence: 96453
+[ 2024-04-23 22:44:41,947 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:41,950 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 11, template sequence: 96453
+[ 2024-04-23 22:44:41,964 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:41,964 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 2, template sequence: 96455
+[ 2024-04-23 22:44:43,172 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:43,173 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 12, template sequence: 96453
+[ 2024-04-23 22:44:43,423 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:43,427 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 3, template sequence: 96453
+[ 2024-04-23 22:44:43,465 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:43,465 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 3, template sequence: 96455
+[ 2024-04-23 22:44:44,311 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:44,311 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 13, template sequence: 96453
+[ 2024-04-23 22:44:44,656 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:44,658 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 4, template sequence: 96453
+[ 2024-04-23 22:44:44,939 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:44,940 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 4, template sequence: 96455
+[ 2024-04-23 22:44:45,478 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:45,479 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 14, template sequence: 96453
+[ 2024-04-23 22:44:46,113 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:46,114 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 5, template sequence: 96453
+[ 2024-04-23 22:44:46,547 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:46,549 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 5, template sequence: 96455
+[ 2024-04-23 22:44:46,562 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:46,563 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 15, template sequence: 96453
+[ 2024-04-23 22:44:47,634 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:47,635 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 6, template sequence: 96453
+[ 2024-04-23 22:44:47,789 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:47,790 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 16, template sequence: 96453
+[ 2024-04-23 22:44:47,850 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:47,852 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 6, template sequence: 96455
+[ 2024-04-23 22:44:48,915 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:48,915 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 17, template sequence: 96453
+[ 2024-04-23 22:44:49,080 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:49,081 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 7, template sequence: 96453
+[ 2024-04-23 22:44:49,399 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:49,400 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 7, template sequence: 96455
+[ 2024-04-23 22:44:50,049 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:50,051 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 18, template sequence: 96453
+[ 2024-04-23 22:44:50,551 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:50,552 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 8, template sequence: 96453
+[ 2024-04-23 22:44:50,637 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:50,639 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 8, template sequence: 96455
+[ 2024-04-23 22:44:51,426 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:51,426 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 19, template sequence: 96453
+[ 2024-04-23 22:44:51,774 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:51,775 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 9, template sequence: 96453
+[ 2024-04-23 22:44:52,534 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:52,537 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 9, template sequence: 96455
+[ 2024-04-23 22:44:52,544 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:52,545 ] 94 benemmai380 - INFO - Refreshing page to check availability trial number 20, template sequence: 96453
+[ 2024-04-23 22:44:53,516 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:53,517 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 10, template sequence: 96453
+[ 2024-04-23 22:44:53,707 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:53,708 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 10, template sequence: 96455
+[ 2024-04-23 22:44:54,087 ] 94 benemmai380 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:54,088 ] 94 benemmai380 - INFO - Failed to access form after 20 refreshing, template sequence: 96453
+[ 2024-04-23 22:44:54,088 ] 94 main_controller - INFO - Failed to fill form, template sequence: 96453
+[ 2024-04-23 22:44:54,088 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-23 22:44:54,089 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-23 22:44:54,089 ] 94 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-23 22:44:54,089 ] 94 benemmai380 - INFO - Accessing form, template sequence: 96455
+[ 2024-04-23 22:44:54,089 ] 94 benemmai380 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=96455
+[ 2024-04-23 22:44:54,755 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:54,756 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 11, template sequence: 96453
+[ 2024-04-23 22:44:55,031 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:55,032 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 11, template sequence: 96455
+[ 2024-04-23 22:44:56,300 ] 94 ble79037 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:56,300 ] 94 ble79037 - INFO - Refreshing page to check availability trial number 12, template sequence: 96455
+[ 2024-04-23 22:44:56,608 ] 94 nihahi50 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-23 22:44:56,609 ] 94 nihahi50 - INFO - Refreshing page to check availability trial number 12, template sequence: 96453

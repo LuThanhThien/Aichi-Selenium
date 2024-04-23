@@ -1,0 +1,1401 @@
+[ 2024-04-16 05:26:55,614 ] 94 marjyamada040493 - INFO - Opened login page
+[ 2024-04-16 05:26:55,614 ] 94 marjyamada040493 - INFO - Opened login page
+[ 2024-04-16 05:26:55,614 ] 94 marjyamada040493 - INFO - Opened login page
+[ 2024-04-16 05:26:59,881 ] 94 marjyamada040493 - INFO - Logging in
+[ 2024-04-16 05:26:59,881 ] 94 marjyamada040493 - INFO - Logging in
+[ 2024-04-16 05:26:59,881 ] 94 marjyamada040493 - INFO - Logging in
+[ 2024-04-16 05:26:59,892 ] 94 marjyamada040493 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 05:26:59,892 ] 94 marjyamada040493 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 05:26:59,892 ] 94 marjyamada040493 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-16 05:27:00,217 ] 94 marjyamada040493 - INFO - Logged in finished
+[ 2024-04-16 05:27:00,217 ] 94 marjyamada040493 - INFO - Logged in finished
+[ 2024-04-16 05:27:00,217 ] 94 marjyamada040493 - INFO - Logged in finished
+[ 2024-04-16 05:27:00,395 ] 94 marjyamada040493 - INFO - On main page
+[ 2024-04-16 05:27:00,395 ] 94 marjyamada040493 - INFO - On main page
+[ 2024-04-16 05:27:00,395 ] 94 marjyamada040493 - INFO - On main page
+[ 2024-04-16 05:27:02,414 ] 94 marjyamada040493 - INFO - Search submitted
+[ 2024-04-16 05:27:02,414 ] 94 marjyamada040493 - INFO - Search submitted
+[ 2024-04-16 05:27:02,414 ] 94 marjyamada040493 - INFO - Search submitted
+[ 2024-04-16 05:27:02,452 ] 94 marjyamada040493 - INFO - Collected 20 forms
+[ 2024-04-16 05:27:02,452 ] 94 marjyamada040493 - INFO - Collected 20 forms
+[ 2024-04-16 05:27:02,452 ] 94 marjyamada040493 - INFO - Collected 20 forms
+[ 2024-04-16 05:27:02,615 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96088
+[ 2024-04-16 05:27:02,615 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96088
+[ 2024-04-16 05:27:02,615 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96088
+[ 2024-04-16 05:27:02,669 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96089
+[ 2024-04-16 05:27:02,669 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96089
+[ 2024-04-16 05:27:02,669 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96089
+[ 2024-04-16 05:27:02,736 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96090
+[ 2024-04-16 05:27:02,736 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96090
+[ 2024-04-16 05:27:02,736 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96090
+[ 2024-04-16 05:27:02,818 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96091
+[ 2024-04-16 05:27:02,818 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96091
+[ 2024-04-16 05:27:02,818 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96091
+[ 2024-04-16 05:27:02,898 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96093
+[ 2024-04-16 05:27:02,898 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96093
+[ 2024-04-16 05:27:02,898 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96093
+[ 2024-04-16 05:27:02,968 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:27:02,968 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:27:02,968 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:27:02,969 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:27:02,969 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:27:02,969 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-16 05:27:03,006 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:27:03,006 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:27:03,006 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:27:03,008 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:27:03,008 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:27:03,008 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-16 05:27:03,079 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:27:03,079 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:27:03,079 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:27:03,082 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:27:03,082 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:27:03,082 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-16 05:27:03,131 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:27:03,131 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:27:03,131 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:27:03,132 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:27:03,132 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:27:03,132 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-16 05:27:03,201 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:27:03,201 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:27:03,201 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:27:03,204 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:27:03,204 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:27:03,204 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-16 05:27:03,286 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95410
+[ 2024-04-16 05:27:03,286 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95410
+[ 2024-04-16 05:27:03,286 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95410
+[ 2024-04-16 05:27:03,322 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95411
+[ 2024-04-16 05:27:03,322 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95411
+[ 2024-04-16 05:27:03,322 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95411
+[ 2024-04-16 05:27:03,404 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95412
+[ 2024-04-16 05:27:03,404 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95412
+[ 2024-04-16 05:27:03,404 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95412
+[ 2024-04-16 05:27:03,428 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95413
+[ 2024-04-16 05:27:03,428 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95413
+[ 2024-04-16 05:27:03,428 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95413
+[ 2024-04-16 05:27:03,498 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95414
+[ 2024-04-16 05:27:03,498 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95414
+[ 2024-04-16 05:27:03,498 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95414
+[ 2024-04-16 05:27:03,538 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95405
+[ 2024-04-16 05:27:03,538 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95405
+[ 2024-04-16 05:27:03,538 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95405
+[ 2024-04-16 05:27:03,579 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95406
+[ 2024-04-16 05:27:03,579 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95406
+[ 2024-04-16 05:27:03,579 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95406
+[ 2024-04-16 05:27:03,623 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95407
+[ 2024-04-16 05:27:03,623 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95407
+[ 2024-04-16 05:27:03,623 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95407
+[ 2024-04-16 05:27:03,660 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95408
+[ 2024-04-16 05:27:03,660 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95408
+[ 2024-04-16 05:27:03,660 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95408
+[ 2024-04-16 05:27:03,713 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95409
+[ 2024-04-16 05:27:03,713 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95409
+[ 2024-04-16 05:27:03,713 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月25日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月11日 07時30分, end_date: 2024年04月23日 12時00分, template_seq: 95409
+[ 2024-04-16 05:27:03,716 ] 94 marjyamada040493 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-16 05:27:03,716 ] 94 marjyamada040493 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-16 05:27:03,716 ] 94 marjyamada040493 - INFO - Number of filtered forms left is: 5 form(s)
+[ 2024-04-16 05:27:03,717 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95608
+[ 2024-04-16 05:27:03,717 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95608
+[ 2024-04-16 05:27:03,717 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95608
+[ 2024-04-16 05:27:03,718 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95608
+[ 2024-04-16 05:27:03,718 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95608
+[ 2024-04-16 05:27:03,718 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95608
+[ 2024-04-16 05:27:09,399 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:27:09,399 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:27:09,399 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:27:09,418 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:09,418 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:09,418 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:09,418 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95608
+[ 2024-04-16 05:27:09,418 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95608
+[ 2024-04-16 05:27:09,418 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95608
+[ 2024-04-16 05:27:11,094 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:11,094 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:11,094 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:11,095 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95608
+[ 2024-04-16 05:27:11,095 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95608
+[ 2024-04-16 05:27:11,095 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95608
+[ 2024-04-16 05:27:12,931 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:12,931 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:12,931 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:12,932 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95608
+[ 2024-04-16 05:27:12,932 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95608
+[ 2024-04-16 05:27:12,932 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95608
+[ 2024-04-16 05:27:14,627 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:14,627 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:14,627 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:14,628 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95608
+[ 2024-04-16 05:27:14,628 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95608
+[ 2024-04-16 05:27:14,628 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95608
+[ 2024-04-16 05:27:16,272 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:16,272 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:16,272 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:16,272 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95608
+[ 2024-04-16 05:27:16,272 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95608
+[ 2024-04-16 05:27:16,272 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95608
+[ 2024-04-16 05:27:17,943 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:17,943 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:17,943 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:17,944 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95608
+[ 2024-04-16 05:27:17,944 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95608
+[ 2024-04-16 05:27:17,944 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95608
+[ 2024-04-16 05:27:19,718 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:19,718 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:19,718 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:19,718 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95608
+[ 2024-04-16 05:27:19,718 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95608
+[ 2024-04-16 05:27:19,718 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95608
+[ 2024-04-16 05:27:21,133 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:21,133 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:21,133 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:21,134 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95608
+[ 2024-04-16 05:27:21,134 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95608
+[ 2024-04-16 05:27:21,134 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95608
+[ 2024-04-16 05:27:22,512 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:22,512 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:22,512 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:22,513 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95608
+[ 2024-04-16 05:27:22,513 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95608
+[ 2024-04-16 05:27:22,513 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95608
+[ 2024-04-16 05:27:24,254 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:24,254 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:24,254 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:24,254 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95608
+[ 2024-04-16 05:27:24,254 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95608
+[ 2024-04-16 05:27:24,254 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95608
+[ 2024-04-16 05:27:26,193 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:26,193 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:26,193 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:26,193 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95608
+[ 2024-04-16 05:27:26,193 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95608
+[ 2024-04-16 05:27:26,193 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95608
+[ 2024-04-16 05:27:27,613 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:27,613 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:27,613 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:27,613 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95608
+[ 2024-04-16 05:27:27,613 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95608
+[ 2024-04-16 05:27:27,613 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95608
+[ 2024-04-16 05:27:29,130 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:29,130 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:29,130 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:29,131 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95608
+[ 2024-04-16 05:27:29,131 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95608
+[ 2024-04-16 05:27:29,131 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95608
+[ 2024-04-16 05:27:30,749 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:30,749 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:30,749 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:30,750 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95608
+[ 2024-04-16 05:27:30,750 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95608
+[ 2024-04-16 05:27:30,750 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95608
+[ 2024-04-16 05:27:32,028 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:32,028 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:32,028 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:32,029 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95608
+[ 2024-04-16 05:27:32,029 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95608
+[ 2024-04-16 05:27:32,029 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95608
+[ 2024-04-16 05:27:33,611 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:33,611 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:33,611 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:33,611 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95608
+[ 2024-04-16 05:27:33,611 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95608
+[ 2024-04-16 05:27:33,611 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95608
+[ 2024-04-16 05:27:35,119 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:35,119 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:35,119 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:35,120 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 17, template sequence: 95608
+[ 2024-04-16 05:27:35,120 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 17, template sequence: 95608
+[ 2024-04-16 05:27:35,120 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 17, template sequence: 95608
+[ 2024-04-16 05:27:36,307 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:36,307 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:36,307 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:36,307 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 18, template sequence: 95608
+[ 2024-04-16 05:27:36,307 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 18, template sequence: 95608
+[ 2024-04-16 05:27:36,307 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 18, template sequence: 95608
+[ 2024-04-16 05:27:37,503 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:37,503 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:37,503 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:37,503 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 19, template sequence: 95608
+[ 2024-04-16 05:27:37,503 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 19, template sequence: 95608
+[ 2024-04-16 05:27:37,503 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 19, template sequence: 95608
+[ 2024-04-16 05:27:39,012 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:39,012 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:39,012 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:39,013 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 20, template sequence: 95608
+[ 2024-04-16 05:27:39,013 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 20, template sequence: 95608
+[ 2024-04-16 05:27:39,013 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 20, template sequence: 95608
+[ 2024-04-16 05:27:40,456 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:40,456 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:40,456 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:40,456 ] 94 marjyamada040493 - INFO - Failed to access form after 20 refreshing, template sequence: 95608
+[ 2024-04-16 05:27:40,456 ] 94 marjyamada040493 - INFO - Failed to access form after 20 refreshing, template sequence: 95608
+[ 2024-04-16 05:27:40,456 ] 94 marjyamada040493 - INFO - Failed to access form after 20 refreshing, template sequence: 95608
+[ 2024-04-16 05:27:40,457 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95607
+[ 2024-04-16 05:27:40,457 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95607
+[ 2024-04-16 05:27:40,457 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95607
+[ 2024-04-16 05:27:40,457 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95607
+[ 2024-04-16 05:27:40,457 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95607
+[ 2024-04-16 05:27:40,457 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95607
+[ 2024-04-16 05:27:46,033 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:27:46,033 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:27:46,033 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:27:46,048 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:46,048 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:46,048 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:46,048 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95607
+[ 2024-04-16 05:27:46,048 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95607
+[ 2024-04-16 05:27:46,048 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95607
+[ 2024-04-16 05:27:47,168 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:47,168 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:47,168 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:47,168 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95607
+[ 2024-04-16 05:27:47,168 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95607
+[ 2024-04-16 05:27:47,168 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95607
+[ 2024-04-16 05:27:48,549 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:48,549 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:48,549 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:48,549 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95607
+[ 2024-04-16 05:27:48,549 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95607
+[ 2024-04-16 05:27:48,549 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95607
+[ 2024-04-16 05:27:50,046 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:50,046 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:50,046 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:50,046 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95607
+[ 2024-04-16 05:27:50,046 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95607
+[ 2024-04-16 05:27:50,046 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95607
+[ 2024-04-16 05:27:51,164 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:51,164 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:51,164 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:51,164 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95607
+[ 2024-04-16 05:27:51,164 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95607
+[ 2024-04-16 05:27:51,164 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95607
+[ 2024-04-16 05:27:52,370 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:52,370 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:52,370 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:52,370 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95607
+[ 2024-04-16 05:27:52,370 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95607
+[ 2024-04-16 05:27:52,370 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95607
+[ 2024-04-16 05:27:53,443 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:53,443 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:53,443 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:53,443 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95607
+[ 2024-04-16 05:27:53,443 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95607
+[ 2024-04-16 05:27:53,443 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95607
+[ 2024-04-16 05:27:54,768 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:54,768 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:54,768 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:54,768 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95607
+[ 2024-04-16 05:27:54,768 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95607
+[ 2024-04-16 05:27:54,768 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95607
+[ 2024-04-16 05:27:56,164 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:56,164 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:56,164 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:56,164 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95607
+[ 2024-04-16 05:27:56,164 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95607
+[ 2024-04-16 05:27:56,164 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95607
+[ 2024-04-16 05:27:57,446 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:57,446 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:57,446 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:57,446 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95607
+[ 2024-04-16 05:27:57,446 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95607
+[ 2024-04-16 05:27:57,446 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95607
+[ 2024-04-16 05:27:58,834 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:58,834 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:58,834 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:58,835 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95607
+[ 2024-04-16 05:27:58,835 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95607
+[ 2024-04-16 05:27:58,835 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95607
+[ 2024-04-16 05:27:59,983 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:59,983 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:59,983 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:27:59,983 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95607
+[ 2024-04-16 05:27:59,983 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95607
+[ 2024-04-16 05:27:59,983 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95607
+[ 2024-04-16 05:28:01,366 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:01,366 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:01,366 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:01,367 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95607
+[ 2024-04-16 05:28:01,367 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95607
+[ 2024-04-16 05:28:01,367 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95607
+[ 2024-04-16 05:28:02,779 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:02,779 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:02,779 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:02,780 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95607
+[ 2024-04-16 05:28:02,780 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95607
+[ 2024-04-16 05:28:02,780 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95607
+[ 2024-04-16 05:28:04,266 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:04,266 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:04,266 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:04,267 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95607
+[ 2024-04-16 05:28:04,267 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95607
+[ 2024-04-16 05:28:04,267 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95607
+[ 2024-04-16 05:28:05,457 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:05,457 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:05,457 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:05,458 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95607
+[ 2024-04-16 05:28:05,458 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95607
+[ 2024-04-16 05:28:05,458 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95607
+[ 2024-04-16 05:28:06,915 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:06,915 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:06,915 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:06,916 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 17, template sequence: 95607
+[ 2024-04-16 05:28:06,916 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 17, template sequence: 95607
+[ 2024-04-16 05:28:06,916 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 17, template sequence: 95607
+[ 2024-04-16 05:28:08,020 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:08,020 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:08,020 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:08,020 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 18, template sequence: 95607
+[ 2024-04-16 05:28:08,020 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 18, template sequence: 95607
+[ 2024-04-16 05:28:08,020 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 18, template sequence: 95607
+[ 2024-04-16 05:28:09,510 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:09,510 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:09,510 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:09,511 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 19, template sequence: 95607
+[ 2024-04-16 05:28:09,511 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 19, template sequence: 95607
+[ 2024-04-16 05:28:09,511 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 19, template sequence: 95607
+[ 2024-04-16 05:28:10,944 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:10,944 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:10,944 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:10,944 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 20, template sequence: 95607
+[ 2024-04-16 05:28:10,944 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 20, template sequence: 95607
+[ 2024-04-16 05:28:10,944 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 20, template sequence: 95607
+[ 2024-04-16 05:28:12,373 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:12,373 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:12,373 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:12,374 ] 94 marjyamada040493 - INFO - Failed to access form after 20 refreshing, template sequence: 95607
+[ 2024-04-16 05:28:12,374 ] 94 marjyamada040493 - INFO - Failed to access form after 20 refreshing, template sequence: 95607
+[ 2024-04-16 05:28:12,374 ] 94 marjyamada040493 - INFO - Failed to access form after 20 refreshing, template sequence: 95607
+[ 2024-04-16 05:28:12,375 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95605
+[ 2024-04-16 05:28:12,375 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95605
+[ 2024-04-16 05:28:12,375 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95605
+[ 2024-04-16 05:28:12,375 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95605
+[ 2024-04-16 05:28:12,375 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95605
+[ 2024-04-16 05:28:12,375 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95605
+[ 2024-04-16 05:28:17,975 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:28:17,975 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:28:17,975 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:28:17,990 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:17,990 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:17,990 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:17,991 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95605
+[ 2024-04-16 05:28:17,991 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95605
+[ 2024-04-16 05:28:17,991 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95605
+[ 2024-04-16 05:28:19,116 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:19,116 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:19,116 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:19,117 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95605
+[ 2024-04-16 05:28:19,117 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95605
+[ 2024-04-16 05:28:19,117 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95605
+[ 2024-04-16 05:28:21,849 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:21,849 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:21,849 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:21,850 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95605
+[ 2024-04-16 05:28:21,850 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95605
+[ 2024-04-16 05:28:21,850 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95605
+[ 2024-04-16 05:28:23,163 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:23,163 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:23,163 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:23,163 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95605
+[ 2024-04-16 05:28:23,163 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95605
+[ 2024-04-16 05:28:23,163 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95605
+[ 2024-04-16 05:28:24,340 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:24,340 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:24,340 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:24,340 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95605
+[ 2024-04-16 05:28:24,340 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95605
+[ 2024-04-16 05:28:24,340 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95605
+[ 2024-04-16 05:28:25,435 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:25,435 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:25,435 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:25,436 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95605
+[ 2024-04-16 05:28:25,436 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95605
+[ 2024-04-16 05:28:25,436 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95605
+[ 2024-04-16 05:28:26,760 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:26,760 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:26,760 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:26,760 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95605
+[ 2024-04-16 05:28:26,760 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95605
+[ 2024-04-16 05:28:26,760 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95605
+[ 2024-04-16 05:28:27,955 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:27,955 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:27,955 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:27,956 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95605
+[ 2024-04-16 05:28:27,956 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95605
+[ 2024-04-16 05:28:27,956 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95605
+[ 2024-04-16 05:28:29,072 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:29,072 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:29,072 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:29,072 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95605
+[ 2024-04-16 05:28:29,072 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95605
+[ 2024-04-16 05:28:29,072 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95605
+[ 2024-04-16 05:28:30,752 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:30,752 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:30,752 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:30,753 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95605
+[ 2024-04-16 05:28:30,753 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95605
+[ 2024-04-16 05:28:30,753 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95605
+[ 2024-04-16 05:28:31,878 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:31,878 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:31,878 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:31,878 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95605
+[ 2024-04-16 05:28:31,878 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95605
+[ 2024-04-16 05:28:31,878 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95605
+[ 2024-04-16 05:28:33,069 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:33,069 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:33,069 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:33,069 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95605
+[ 2024-04-16 05:28:33,069 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95605
+[ 2024-04-16 05:28:33,069 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95605
+[ 2024-04-16 05:28:34,609 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:34,609 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:34,609 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:34,609 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95605
+[ 2024-04-16 05:28:34,609 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95605
+[ 2024-04-16 05:28:34,609 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95605
+[ 2024-04-16 05:28:35,789 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:35,789 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:35,789 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:35,789 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95605
+[ 2024-04-16 05:28:35,789 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95605
+[ 2024-04-16 05:28:35,789 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95605
+[ 2024-04-16 05:28:37,355 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:37,355 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:37,355 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:37,356 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95605
+[ 2024-04-16 05:28:37,356 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95605
+[ 2024-04-16 05:28:37,356 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95605
+[ 2024-04-16 05:28:38,477 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:38,477 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:38,477 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:38,477 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95605
+[ 2024-04-16 05:28:38,477 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95605
+[ 2024-04-16 05:28:38,477 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95605
+[ 2024-04-16 05:28:39,691 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:39,691 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:39,691 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:39,691 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 17, template sequence: 95605
+[ 2024-04-16 05:28:39,691 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 17, template sequence: 95605
+[ 2024-04-16 05:28:39,691 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 17, template sequence: 95605
+[ 2024-04-16 05:28:40,939 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:40,939 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:40,939 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:40,940 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 18, template sequence: 95605
+[ 2024-04-16 05:28:40,940 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 18, template sequence: 95605
+[ 2024-04-16 05:28:40,940 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 18, template sequence: 95605
+[ 2024-04-16 05:28:42,453 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:42,453 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:42,453 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:42,454 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 19, template sequence: 95605
+[ 2024-04-16 05:28:42,454 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 19, template sequence: 95605
+[ 2024-04-16 05:28:42,454 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 19, template sequence: 95605
+[ 2024-04-16 05:28:43,560 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:43,560 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:43,560 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:43,561 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 20, template sequence: 95605
+[ 2024-04-16 05:28:43,561 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 20, template sequence: 95605
+[ 2024-04-16 05:28:43,561 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 20, template sequence: 95605
+[ 2024-04-16 05:28:44,985 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:44,985 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:44,985 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:44,986 ] 94 marjyamada040493 - INFO - Failed to access form after 20 refreshing, template sequence: 95605
+[ 2024-04-16 05:28:44,986 ] 94 marjyamada040493 - INFO - Failed to access form after 20 refreshing, template sequence: 95605
+[ 2024-04-16 05:28:44,986 ] 94 marjyamada040493 - INFO - Failed to access form after 20 refreshing, template sequence: 95605
+[ 2024-04-16 05:28:44,987 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95604
+[ 2024-04-16 05:28:44,987 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95604
+[ 2024-04-16 05:28:44,987 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95604
+[ 2024-04-16 05:28:44,987 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95604
+[ 2024-04-16 05:28:44,987 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95604
+[ 2024-04-16 05:28:44,987 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95604
+[ 2024-04-16 05:28:50,552 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:28:50,552 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:28:50,552 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:28:50,565 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:50,565 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:50,565 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:50,565 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95604
+[ 2024-04-16 05:28:50,565 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95604
+[ 2024-04-16 05:28:50,565 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95604
+[ 2024-04-16 05:28:51,734 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:51,734 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:51,734 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:51,735 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95604
+[ 2024-04-16 05:28:51,735 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95604
+[ 2024-04-16 05:28:51,735 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95604
+[ 2024-04-16 05:28:53,210 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:53,210 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:53,210 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:53,210 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95604
+[ 2024-04-16 05:28:53,210 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95604
+[ 2024-04-16 05:28:53,210 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95604
+[ 2024-04-16 05:28:54,565 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:54,565 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:54,565 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:54,565 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95604
+[ 2024-04-16 05:28:54,565 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95604
+[ 2024-04-16 05:28:54,565 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95604
+[ 2024-04-16 05:28:55,979 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:55,979 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:55,979 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:55,980 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95604
+[ 2024-04-16 05:28:55,980 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95604
+[ 2024-04-16 05:28:55,980 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95604
+[ 2024-04-16 05:28:57,088 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:57,088 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:57,088 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:57,089 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95604
+[ 2024-04-16 05:28:57,089 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95604
+[ 2024-04-16 05:28:57,089 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95604
+[ 2024-04-16 05:28:58,215 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:58,215 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:58,215 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:58,215 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95604
+[ 2024-04-16 05:28:58,215 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95604
+[ 2024-04-16 05:28:58,215 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95604
+[ 2024-04-16 05:28:59,346 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:59,346 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:59,346 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:28:59,346 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95604
+[ 2024-04-16 05:28:59,346 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95604
+[ 2024-04-16 05:28:59,346 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95604
+[ 2024-04-16 05:29:00,907 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:00,907 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:00,907 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:00,908 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95604
+[ 2024-04-16 05:29:00,908 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95604
+[ 2024-04-16 05:29:00,908 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95604
+[ 2024-04-16 05:29:02,250 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:02,250 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:02,250 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:02,251 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95604
+[ 2024-04-16 05:29:02,251 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95604
+[ 2024-04-16 05:29:02,251 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95604
+[ 2024-04-16 05:29:03,370 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:03,370 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:03,370 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:03,370 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95604
+[ 2024-04-16 05:29:03,370 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95604
+[ 2024-04-16 05:29:03,370 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95604
+[ 2024-04-16 05:29:04,638 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:04,638 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:04,638 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:04,638 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95604
+[ 2024-04-16 05:29:04,638 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95604
+[ 2024-04-16 05:29:04,638 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95604
+[ 2024-04-16 05:29:06,101 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:06,101 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:06,101 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:06,102 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95604
+[ 2024-04-16 05:29:06,102 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95604
+[ 2024-04-16 05:29:06,102 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95604
+[ 2024-04-16 05:29:07,254 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:07,254 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:07,254 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:07,255 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95604
+[ 2024-04-16 05:29:07,255 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95604
+[ 2024-04-16 05:29:07,255 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95604
+[ 2024-04-16 05:29:08,413 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:08,413 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:08,413 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:08,413 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95604
+[ 2024-04-16 05:29:08,413 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95604
+[ 2024-04-16 05:29:08,413 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95604
+[ 2024-04-16 05:29:09,635 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:09,635 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:09,635 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:09,636 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95604
+[ 2024-04-16 05:29:09,636 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95604
+[ 2024-04-16 05:29:09,636 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95604
+[ 2024-04-16 05:29:10,763 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:10,763 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:10,763 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:10,763 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 17, template sequence: 95604
+[ 2024-04-16 05:29:10,763 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 17, template sequence: 95604
+[ 2024-04-16 05:29:10,763 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 17, template sequence: 95604
+[ 2024-04-16 05:29:12,266 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:12,266 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:12,266 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:12,267 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 18, template sequence: 95604
+[ 2024-04-16 05:29:12,267 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 18, template sequence: 95604
+[ 2024-04-16 05:29:12,267 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 18, template sequence: 95604
+[ 2024-04-16 05:29:13,824 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:13,824 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:13,824 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:13,824 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 19, template sequence: 95604
+[ 2024-04-16 05:29:13,824 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 19, template sequence: 95604
+[ 2024-04-16 05:29:13,824 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 19, template sequence: 95604
+[ 2024-04-16 05:29:14,966 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:14,966 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:14,966 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:14,966 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 20, template sequence: 95604
+[ 2024-04-16 05:29:14,966 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 20, template sequence: 95604
+[ 2024-04-16 05:29:14,966 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 20, template sequence: 95604
+[ 2024-04-16 05:29:16,058 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:16,058 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:16,058 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:16,059 ] 94 marjyamada040493 - INFO - Failed to access form after 20 refreshing, template sequence: 95604
+[ 2024-04-16 05:29:16,059 ] 94 marjyamada040493 - INFO - Failed to access form after 20 refreshing, template sequence: 95604
+[ 2024-04-16 05:29:16,059 ] 94 marjyamada040493 - INFO - Failed to access form after 20 refreshing, template sequence: 95604
+[ 2024-04-16 05:29:16,060 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95609
+[ 2024-04-16 05:29:16,060 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95609
+[ 2024-04-16 05:29:16,060 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95609
+[ 2024-04-16 05:29:16,060 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95609
+[ 2024-04-16 05:29:16,060 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95609
+[ 2024-04-16 05:29:16,060 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95609
+[ 2024-04-16 05:29:21,724 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:29:21,724 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:29:21,724 ] 94 marjyamada040493 - INFO - Accessed form successfully
+[ 2024-04-16 05:29:21,739 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:21,739 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:21,739 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:21,740 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95609
+[ 2024-04-16 05:29:21,740 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95609
+[ 2024-04-16 05:29:21,740 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 1, template sequence: 95609
+[ 2024-04-16 05:29:23,123 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:23,123 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:23,123 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:23,124 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95609
+[ 2024-04-16 05:29:23,124 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95609
+[ 2024-04-16 05:29:23,124 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 2, template sequence: 95609
+[ 2024-04-16 05:29:24,219 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:24,219 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:24,219 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:24,219 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95609
+[ 2024-04-16 05:29:24,219 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95609
+[ 2024-04-16 05:29:24,219 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 3, template sequence: 95609
+[ 2024-04-16 05:29:25,413 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:25,413 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:25,413 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:25,413 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95609
+[ 2024-04-16 05:29:25,413 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95609
+[ 2024-04-16 05:29:25,413 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 4, template sequence: 95609
+[ 2024-04-16 05:29:26,869 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:26,869 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:26,869 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:26,870 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95609
+[ 2024-04-16 05:29:26,870 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95609
+[ 2024-04-16 05:29:26,870 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 5, template sequence: 95609
+[ 2024-04-16 05:29:28,695 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:28,695 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:28,695 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:28,696 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95609
+[ 2024-04-16 05:29:28,696 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95609
+[ 2024-04-16 05:29:28,696 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 6, template sequence: 95609
+[ 2024-04-16 05:29:30,509 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:30,509 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:30,509 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:30,509 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95609
+[ 2024-04-16 05:29:30,509 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95609
+[ 2024-04-16 05:29:30,509 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 7, template sequence: 95609
+[ 2024-04-16 05:29:32,479 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:32,479 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:32,479 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:32,479 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95609
+[ 2024-04-16 05:29:32,479 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95609
+[ 2024-04-16 05:29:32,479 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 8, template sequence: 95609
+[ 2024-04-16 05:29:34,084 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:34,084 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:34,084 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:34,085 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95609
+[ 2024-04-16 05:29:34,085 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95609
+[ 2024-04-16 05:29:34,085 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 9, template sequence: 95609
+[ 2024-04-16 05:29:35,432 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:35,432 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:35,432 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:35,432 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95609
+[ 2024-04-16 05:29:35,432 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95609
+[ 2024-04-16 05:29:35,432 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 10, template sequence: 95609
+[ 2024-04-16 05:29:36,538 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:36,538 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:36,538 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:36,539 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95609
+[ 2024-04-16 05:29:36,539 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95609
+[ 2024-04-16 05:29:36,539 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 11, template sequence: 95609
+[ 2024-04-16 05:29:37,686 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:37,686 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:37,686 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:37,687 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95609
+[ 2024-04-16 05:29:37,687 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95609
+[ 2024-04-16 05:29:37,687 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 12, template sequence: 95609
+[ 2024-04-16 05:29:38,992 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:38,992 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:38,992 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:38,992 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95609
+[ 2024-04-16 05:29:38,992 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95609
+[ 2024-04-16 05:29:38,992 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 13, template sequence: 95609
+[ 2024-04-16 05:29:40,078 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:40,078 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:40,078 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:40,078 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95609
+[ 2024-04-16 05:29:40,078 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95609
+[ 2024-04-16 05:29:40,078 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 14, template sequence: 95609
+[ 2024-04-16 05:29:42,866 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:42,866 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:42,866 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:42,867 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95609
+[ 2024-04-16 05:29:42,867 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95609
+[ 2024-04-16 05:29:42,867 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 15, template sequence: 95609
+[ 2024-04-16 05:29:50,663 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:50,663 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:50,663 ] 94 marjyamada040493 - INFO - Form message: 申込期間ではありません。
+[ 2024-04-16 05:29:50,663 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95609
+[ 2024-04-16 05:29:50,663 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95609
+[ 2024-04-16 05:29:50,663 ] 94 marjyamada040493 - INFO - Refreshing page to check availability trial number 16, template sequence: 95609
+[ 2024-04-16 05:30:16,079 ] 82 marjyamada040493 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 114, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.123); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:30:16,079 ] 82 marjyamada040493 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 114, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.123); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:30:16,079 ] 82 marjyamada040493 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 114, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=123.0.6312.123); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:30:16,080 ] 94 marjyamada040493 - INFO - Form is available, template sequence: 95609
+[ 2024-04-16 05:30:16,080 ] 94 marjyamada040493 - INFO - Form is available, template sequence: 95609
+[ 2024-04-16 05:30:16,080 ] 94 marjyamada040493 - INFO - Form is available, template sequence: 95609
+[ 2024-04-16 05:30:16,080 ] 94 marjyamada040493 - INFO - Filling form, template sequence: 95609
+[ 2024-04-16 05:30:16,080 ] 94 marjyamada040493 - INFO - Filling form, template sequence: 95609
+[ 2024-04-16 05:30:16,080 ] 94 marjyamada040493 - INFO - Filling form, template sequence: 95609
+[ 2024-04-16 05:30:34,748 ] 94 marjyamada040493 - INFO - Clicked continue button
+[ 2024-04-16 05:30:34,748 ] 94 marjyamada040493 - INFO - Clicked continue button
+[ 2024-04-16 05:30:34,748 ] 94 marjyamada040493 - INFO - Clicked continue button
+[ 2024-04-16 05:30:34,802 ] 94 marjyamada040493 - INFO - Filled input: item[0].textData2 by name, value: Vinh
+[ 2024-04-16 05:30:34,802 ] 94 marjyamada040493 - INFO - Filled input: item[0].textData2 by name, value: Vinh
+[ 2024-04-16 05:30:34,802 ] 94 marjyamada040493 - INFO - Filled input: item[0].textData2 by name, value: Vinh
+[ 2024-04-16 05:30:34,842 ] 94 marjyamada040493 - INFO - Filled input: item[0].textData by name, value: Le
+[ 2024-04-16 05:30:34,842 ] 94 marjyamada040493 - INFO - Filled input: item[0].textData by name, value: Le
+[ 2024-04-16 05:30:34,842 ] 94 marjyamada040493 - INFO - Filled input: item[0].textData by name, value: Le
+[ 2024-04-16 05:30:34,905 ] 94 marjyamada040493 - INFO - Filled input: item[1].textData by name, value: 19931112
+[ 2024-04-16 05:30:34,905 ] 94 marjyamada040493 - INFO - Filled input: item[1].textData by name, value: 19931112
+[ 2024-04-16 05:30:34,905 ] 94 marjyamada040493 - INFO - Filled input: item[1].textData by name, value: 19931112
+[ 2024-04-16 05:30:34,962 ] 94 marjyamada040493 - INFO - Filled input: item[5].textData by name, value: 080-5678-912
+[ 2024-04-16 05:30:34,962 ] 94 marjyamada040493 - INFO - Filled input: item[5].textData by name, value: 080-5678-912
+[ 2024-04-16 05:30:34,962 ] 94 marjyamada040493 - INFO - Filled input: item[5].textData by name, value: 080-5678-912
+[ 2024-04-16 05:30:35,023 ] 94 marjyamada040493 - INFO - Selected dropdown: item[2].selectData by name, text: ベトナム
+[ 2024-04-16 05:30:35,023 ] 94 marjyamada040493 - INFO - Selected dropdown: item[2].selectData by name, text: ベトナム
+[ 2024-04-16 05:30:35,023 ] 94 marjyamada040493 - INFO - Selected dropdown: item[2].selectData by name, text: ベトナム
+[ 2024-04-16 05:30:35,070 ] 94 marjyamada040493 - INFO - Selected dropdown: item[3].selectData by name, text: ベトナム
+[ 2024-04-16 05:30:35,070 ] 94 marjyamada040493 - INFO - Selected dropdown: item[3].selectData by name, text: ベトナム
+[ 2024-04-16 05:30:35,070 ] 94 marjyamada040493 - INFO - Selected dropdown: item[3].selectData by name, text: ベトナム
+[ 2024-04-16 05:30:35,109 ] 94 marjyamada040493 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 05:30:35,109 ] 94 marjyamada040493 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 05:30:35,109 ] 94 marjyamada040493 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span by xpath
+[ 2024-04-16 05:30:49,883 ] 82 marjyamada040493 - ERROR - Failed to click confirm button: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/main/div/div[3]/div[2]/div/div[2]/button"}
+  (Session info: chrome=123.0.6312.123); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 86, in fill
+    browser.find_element(By.XPATH, "/html/body/form/main/div/div[3]/div[2]/div/div[2]/button").click()
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/main/div/div[3]/div[2]/div/div[2]/button"}
+  (Session info: chrome=123.0.6312.123); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:30:49,883 ] 82 marjyamada040493 - ERROR - Failed to click confirm button: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/main/div/div[3]/div[2]/div/div[2]/button"}
+  (Session info: chrome=123.0.6312.123); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 86, in fill
+    browser.find_element(By.XPATH, "/html/body/form/main/div/div[3]/div[2]/div/div[2]/button").click()
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/main/div/div[3]/div[2]/div/div[2]/button"}
+  (Session info: chrome=123.0.6312.123); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:30:49,883 ] 82 marjyamada040493 - ERROR - Failed to click confirm button: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/main/div/div[3]/div[2]/div/div[2]/button"}
+  (Session info: chrome=123.0.6312.123); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 86, in fill
+    browser.find_element(By.XPATH, "/html/body/form/main/div/div[3]/div[2]/div/div[2]/button").click()
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/form/main/div/div[3]/div[2]/div/div[2]/button"}
+  (Session info: chrome=123.0.6312.123); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EC65]
+	(No symbol) [0x00007FF770BD499D]
+	(No symbol) [0x00007FF770BD4ADC]
+	(No symbol) [0x00007FF770C15B37]
+	(No symbol) [0x00007FF770BF701F]
+	(No symbol) [0x00007FF770C13412]
+	(No symbol) [0x00007FF770BF6D83]
+	(No symbol) [0x00007FF770BC83A8]
+	(No symbol) [0x00007FF770BC9441]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770CF9224]
+	(No symbol) [0x00007FF770CF935B]
+	(No symbol) [0x00007FF770CE9B94]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:30:49,886 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95608
+[ 2024-04-16 05:30:49,886 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95608
+[ 2024-04-16 05:30:49,886 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95608
+[ 2024-04-16 05:30:49,886 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95608
+[ 2024-04-16 05:30:49,886 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95608
+[ 2024-04-16 05:30:49,886 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95608
+[ 2024-04-16 05:31:56,357 ] 82 marjyamada040493 - ERROR - Failed to access form: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EB1D]
+	(No symbol) [0x00007FF770BC7E27]
+	(No symbol) [0x00007FF770BF6E89]
+	(No symbol) [0x00007FF770BF12AB]
+	(No symbol) [0x00007FF770BF0C76]
+	(No symbol) [0x00007FF770B62E55]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770B61E90]
+	GetHandleVerifier [0x00007FF771209958+4792216]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 21, in fill
+    browser.get(form_info.url)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 3739, in <lambda>
+    driver.get = lambda url: uc_special_open_if_cf(
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 396, in uc_special_open_if_cf
+    driver.switch_to.window(driver.window_handles[-1])
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 494, in window_handles
+    return self.execute(Command.W3C_GET_WINDOW_HANDLES)["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EB1D]
+	(No symbol) [0x00007FF770BC7E27]
+	(No symbol) [0x00007FF770BF6E89]
+	(No symbol) [0x00007FF770BF12AB]
+	(No symbol) [0x00007FF770BF0C76]
+	(No symbol) [0x00007FF770B62E55]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770B61E90]
+	GetHandleVerifier [0x00007FF771209958+4792216]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:31:56,357 ] 82 marjyamada040493 - ERROR - Failed to access form: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EB1D]
+	(No symbol) [0x00007FF770BC7E27]
+	(No symbol) [0x00007FF770BF6E89]
+	(No symbol) [0x00007FF770BF12AB]
+	(No symbol) [0x00007FF770BF0C76]
+	(No symbol) [0x00007FF770B62E55]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770B61E90]
+	GetHandleVerifier [0x00007FF771209958+4792216]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 21, in fill
+    browser.get(form_info.url)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 3739, in <lambda>
+    driver.get = lambda url: uc_special_open_if_cf(
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 396, in uc_special_open_if_cf
+    driver.switch_to.window(driver.window_handles[-1])
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 494, in window_handles
+    return self.execute(Command.W3C_GET_WINDOW_HANDLES)["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EB1D]
+	(No symbol) [0x00007FF770BC7E27]
+	(No symbol) [0x00007FF770BF6E89]
+	(No symbol) [0x00007FF770BF12AB]
+	(No symbol) [0x00007FF770BF0C76]
+	(No symbol) [0x00007FF770B62E55]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770B61E90]
+	GetHandleVerifier [0x00007FF771209958+4792216]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:31:56,357 ] 82 marjyamada040493 - ERROR - Failed to access form: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EB1D]
+	(No symbol) [0x00007FF770BC7E27]
+	(No symbol) [0x00007FF770BF6E89]
+	(No symbol) [0x00007FF770BF12AB]
+	(No symbol) [0x00007FF770BF0C76]
+	(No symbol) [0x00007FF770B62E55]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770B61E90]
+	GetHandleVerifier [0x00007FF771209958+4792216]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 21, in fill
+    browser.get(form_info.url)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 3739, in <lambda>
+    driver.get = lambda url: uc_special_open_if_cf(
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 396, in uc_special_open_if_cf
+    driver.switch_to.window(driver.window_handles[-1])
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 494, in window_handles
+    return self.execute(Command.W3C_GET_WINDOW_HANDLES)["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EB1D]
+	(No symbol) [0x00007FF770BC7E27]
+	(No symbol) [0x00007FF770BF6E89]
+	(No symbol) [0x00007FF770BF12AB]
+	(No symbol) [0x00007FF770BF0C76]
+	(No symbol) [0x00007FF770B62E55]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770B61E90]
+	GetHandleVerifier [0x00007FF771209958+4792216]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:31:56,362 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95607
+[ 2024-04-16 05:31:56,362 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95607
+[ 2024-04-16 05:31:56,362 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95607
+[ 2024-04-16 05:31:56,362 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95607
+[ 2024-04-16 05:31:56,362 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95607
+[ 2024-04-16 05:31:56,362 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95607
+[ 2024-04-16 05:33:02,881 ] 82 marjyamada040493 - ERROR - Failed to access form: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EB1D]
+	(No symbol) [0x00007FF770BC7E27]
+	(No symbol) [0x00007FF770BF6E89]
+	(No symbol) [0x00007FF770BF12AB]
+	(No symbol) [0x00007FF770BF0C76]
+	(No symbol) [0x00007FF770B62E55]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770B61E90]
+	GetHandleVerifier [0x00007FF771209958+4792216]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 21, in fill
+    browser.get(form_info.url)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 3739, in <lambda>
+    driver.get = lambda url: uc_special_open_if_cf(
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 363, in uc_special_open_if_cf
+    driver.execute_script('window.open("%s","_blank");' % url)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 407, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EB1D]
+	(No symbol) [0x00007FF770BC7E27]
+	(No symbol) [0x00007FF770BF6E89]
+	(No symbol) [0x00007FF770BF12AB]
+	(No symbol) [0x00007FF770BF0C76]
+	(No symbol) [0x00007FF770B62E55]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770B61E90]
+	GetHandleVerifier [0x00007FF771209958+4792216]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:33:02,881 ] 82 marjyamada040493 - ERROR - Failed to access form: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EB1D]
+	(No symbol) [0x00007FF770BC7E27]
+	(No symbol) [0x00007FF770BF6E89]
+	(No symbol) [0x00007FF770BF12AB]
+	(No symbol) [0x00007FF770BF0C76]
+	(No symbol) [0x00007FF770B62E55]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770B61E90]
+	GetHandleVerifier [0x00007FF771209958+4792216]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 21, in fill
+    browser.get(form_info.url)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 3739, in <lambda>
+    driver.get = lambda url: uc_special_open_if_cf(
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 363, in uc_special_open_if_cf
+    driver.execute_script('window.open("%s","_blank");' % url)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 407, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EB1D]
+	(No symbol) [0x00007FF770BC7E27]
+	(No symbol) [0x00007FF770BF6E89]
+	(No symbol) [0x00007FF770BF12AB]
+	(No symbol) [0x00007FF770BF0C76]
+	(No symbol) [0x00007FF770B62E55]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770B61E90]
+	GetHandleVerifier [0x00007FF771209958+4792216]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:33:02,881 ] 82 marjyamada040493 - ERROR - Failed to access form: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EB1D]
+	(No symbol) [0x00007FF770BC7E27]
+	(No symbol) [0x00007FF770BF6E89]
+	(No symbol) [0x00007FF770BF12AB]
+	(No symbol) [0x00007FF770BF0C76]
+	(No symbol) [0x00007FF770B62E55]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770B61E90]
+	GetHandleVerifier [0x00007FF771209958+4792216]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 21, in fill
+    browser.get(form_info.url)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 3739, in <lambda>
+    driver.get = lambda url: uc_special_open_if_cf(
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 363, in uc_special_open_if_cf
+    driver.execute_script('window.open("%s","_blank");' % url)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 407, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\ProgramData\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF770D87032+63090]
+	(No symbol) [0x00007FF770CF2C82]
+	(No symbol) [0x00007FF770B8EB1D]
+	(No symbol) [0x00007FF770BC7E27]
+	(No symbol) [0x00007FF770BF6E89]
+	(No symbol) [0x00007FF770BF12AB]
+	(No symbol) [0x00007FF770BF0C76]
+	(No symbol) [0x00007FF770B62E55]
+	GetHandleVerifier [0x00007FF7711825AD+4238317]
+	GetHandleVerifier [0x00007FF7711BF70D+4488525]
+	GetHandleVerifier [0x00007FF7711B79EF+4456495]
+	GetHandleVerifier [0x00007FF770E60576+953270]
+	(No symbol) [0x00007FF770CFE54F]
+	(No symbol) [0x00007FF770B61E90]
+	GetHandleVerifier [0x00007FF771209958+4792216]
+	BaseThreadInitThunk [0x00007FFDC2F1257D+29]
+	RtlUserThreadStart [0x00007FFDC3E0AA48+40]
+
+[ 2024-04-16 05:33:02,884 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95605
+[ 2024-04-16 05:33:02,884 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95605
+[ 2024-04-16 05:33:02,884 ] 94 marjyamada040493 - INFO - Accessing form, template sequence: 95605
+[ 2024-04-16 05:33:02,884 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95605
+[ 2024-04-16 05:33:02,884 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95605
+[ 2024-04-16 05:33:02,884 ] 94 marjyamada040493 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=95605

@@ -21,16 +21,25 @@ test_accounts:
     password: aichi@5921
     
 dev_accounts:
-  # - username: nihahi50@gmail.com
+  - username: nihahi50@gmail.com
+    password: hoahong1234
+
+  - username: ble79037@gmail.com
+    password: hoahong1234
+
+  - username: benemmai380@gmail.com
+    password: hoahong1234
+
+  # - username: leongnardo12@gmail.com
+  #   password: hoahong1234
+
+  # - username: ngtrnghi123@gmail.com
+  #   password: hoahong1234
+
+  # - username: thanhvanngoc30@gmail.com
   #   password: hoahong1234
 
   # - username: davidalaba00000@gmail.com
-  #   password: hoahong1234
-
-  # - username: ble79037@gmail.com
-  #   password: hoahong1234
-
-  # - username: benemmai380@gmail.com
   #   password: hoahong1234
 
   # - username: Nickpown0411@gmail.com
@@ -48,14 +57,7 @@ dev_accounts:
   # - username: tuanminhnguyen1508@gmail.com   # false
   #   password: hoahong1234
 
-  # - username: leongnardo12@gmail.com
-  #   password: hoahong1234
 
-  # - username: ngtrnghi123@gmail.com
-  #   password: hoahong1234
-
-  # - username: thanhvanngoc30@gmail.com
-  #   password: hoahong1234
 
   # - username: haronalcr7@gmail.com   # false
   #   password: hoahong1234
@@ -63,5 +65,5 @@ dev_accounts:
   # - username: tlica9443@gmail.com  # false
   #   password: hoahong1234
 
-  - username: tenkhongbiet293@gmail.com  # false
-    password: hoahong1234
+  # - username: tenkhongbiet293@gmail.com  # false
+  #   password: hoahong1234

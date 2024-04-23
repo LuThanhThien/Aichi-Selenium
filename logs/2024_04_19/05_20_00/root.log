@@ -1,0 +1,128 @@
+[ 2024-04-19 05:20:01,665 ] 94 root - INFO - Starting all threads
+[ 2024-04-19 05:20:01,665 ] 94 root - INFO - Starting all threads
+[ 2024-04-19 05:20:01,666 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'Hirabari', 'test_mode': False, 'max_num_retry': 5, 'default_num_threads': 3, 'display_number': 50, 'main_phone_number_hash': '080-1583-0891', 'uc': True, 'headless': False, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-19 05:20:01,666 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'Hirabari', 'test_mode': False, 'max_num_retry': 5, 'default_num_threads': 3, 'display_number': 50, 'main_phone_number_hash': '080-1583-0891', 'uc': True, 'headless': False, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-19 05:20:01,666 ] 94 root - INFO - Number of dev accounts: 3
+[ 2024-04-19 05:20:01,666 ] 94 root - INFO - Number of dev accounts: 3
+[ 2024-04-19 05:20:01,670 ] 94 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-19 05:20:01,670 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: Nickpown0411@gmail.com, Password: hoahong1234
+[ 2024-04-19 05:20:03,682 ] 94 root - INFO - Thread 0 started
+[ 2024-04-19 05:20:03,682 ] 94 root - INFO - Thread 0 started
+[ 2024-04-19 05:20:03,684 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-19 05:20:03,685 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: marjyamada040493@gmail.com, Password: Marj0409
+[ 2024-04-19 05:20:04,954 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-19 05:20:05,696 ] 94 root - INFO - Thread 1 started
+[ 2024-04-19 05:20:05,696 ] 94 root - INFO - Thread 1 started
+[ 2024-04-19 05:20:05,699 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-19 05:20:05,700 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: Jamebrown0206@gmail.com, Password: hoahong1234
+[ 2024-04-19 05:20:06,711 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-19 05:20:07,709 ] 94 root - INFO - Thread 2 started
+[ 2024-04-19 05:20:07,709 ] 94 root - INFO - Thread 2 started
+[ 2024-04-19 05:20:11,535 ] 94 Nickpown0411 - INFO - Opened login page
+[ 2024-04-19 05:20:12,901 ] 94 marjyamada040493 - INFO - Opened login page
+[ 2024-04-19 05:20:13,886 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-19 05:20:15,788 ] 94 Nickpown0411 - INFO - Logging in
+[ 2024-04-19 05:20:15,795 ] 94 Nickpown0411 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-19 05:20:16,130 ] 94 Nickpown0411 - INFO - Logged in finished
+[ 2024-04-19 05:20:16,131 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-19 05:20:16,438 ] 94 marjyamada040493 - INFO - Logging in
+[ 2024-04-19 05:20:16,453 ] 94 marjyamada040493 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-19 05:20:16,501 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_19\05_20_00\screenshot_Nickpown0411.png
+[ 2024-04-19 05:20:16,502 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-19 05:20:16,517 ] 94 Nickpown0411 - INFO - On main page
+[ 2024-04-19 05:20:16,788 ] 94 marjyamada040493 - INFO - Logged in finished
+[ 2024-04-19 05:20:16,788 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-19 05:20:17,090 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_19\05_20_00\screenshot_marjyamada040493.png
+[ 2024-04-19 05:20:17,090 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-19 05:20:17,101 ] 94 marjyamada040493 - INFO - On main page
+[ 2024-04-19 05:20:18,334 ] 94 Nickpown0411 - INFO - Search submitted
+[ 2024-04-19 05:20:18,368 ] 94 Nickpown0411 - INFO - Collected 20 forms
+[ 2024-04-19 05:20:18,402 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-19 05:20:18,425 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-19 05:20:18,447 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-19 05:20:18,471 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-19 05:20:18,493 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-19 05:20:18,512 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜05月01日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96088
+[ 2024-04-19 05:20:18,533 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜05月01日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96089
+[ 2024-04-19 05:20:18,557 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜05月01日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96090
+[ 2024-04-19 05:20:18,584 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜05月01日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96091
+[ 2024-04-19 05:20:18,605 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜05月01日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96093
+[ 2024-04-19 05:20:18,628 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-19 05:20:18,670 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-19 05:20:18,707 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-19 05:20:18,731 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-19 05:20:18,753 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-19 05:20:18,775 ] 94 marjyamada040493 - INFO - Search submitted
+[ 2024-04-19 05:20:18,796 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜04月26日(金) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95410
+[ 2024-04-19 05:20:18,809 ] 94 marjyamada040493 - INFO - Collected 20 forms
+[ 2024-04-19 05:20:18,835 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜04月26日(金) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95411
+[ 2024-04-19 05:20:18,857 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-19 05:20:18,859 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜04月26日(金) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95412
+[ 2024-04-19 05:20:18,884 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-19 05:20:18,887 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜04月26日(金) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95413
+[ 2024-04-19 05:20:18,919 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-19 05:20:18,930 ] 94 Nickpown0411 - INFO - Parsed data: title: ＜04月26日(金) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95414
+[ 2024-04-19 05:20:18,930 ] 94 Nickpown0411 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-19 05:20:18,931 ] 94 main_controller - INFO - Found 0 form(s)
+[ 2024-04-19 05:20:18,931 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-19 05:20:18,950 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-19 05:20:18,981 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-19 05:20:19,006 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96088
+[ 2024-04-19 05:20:19,036 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96089
+[ 2024-04-19 05:20:19,069 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96090
+[ 2024-04-19 05:20:19,106 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96091
+[ 2024-04-19 05:20:19,142 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜05月01日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96093
+[ 2024-04-19 05:20:19,167 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-19 05:20:19,204 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-19 05:20:19,239 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-19 05:20:19,280 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-19 05:20:19,314 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-19 05:20:19,338 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95410
+[ 2024-04-19 05:20:19,364 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95411
+[ 2024-04-19 05:20:19,395 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95412
+[ 2024-04-19 05:20:19,434 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95413
+[ 2024-04-19 05:20:19,473 ] 94 marjyamada040493 - INFO - Parsed data: title: ＜04月26日(金) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95414
+[ 2024-04-19 05:20:19,473 ] 94 marjyamada040493 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-19 05:20:19,473 ] 94 main_controller - INFO - Found 0 form(s)
+[ 2024-04-19 05:20:19,474 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-19 05:20:19,615 ] 94 Jamebrown0206 - INFO - Opened login page
+[ 2024-04-19 05:20:23,564 ] 94 Jamebrown0206 - INFO - Logging in
+[ 2024-04-19 05:20:23,570 ] 94 Jamebrown0206 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-19 05:20:23,886 ] 94 Jamebrown0206 - INFO - Logged in finished
+[ 2024-04-19 05:20:23,886 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-19 05:20:24,123 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_19\05_20_00\screenshot_Jamebrown0206.png
+[ 2024-04-19 05:20:24,123 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-19 05:20:24,128 ] 94 Jamebrown0206 - INFO - On main page
+[ 2024-04-19 05:20:26,213 ] 94 Jamebrown0206 - INFO - Search submitted
+[ 2024-04-19 05:20:26,232 ] 94 Jamebrown0206 - INFO - Collected 20 forms
+[ 2024-04-19 05:20:26,259 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜05月02日(木) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96126
+[ 2024-04-19 05:20:26,279 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜05月02日(木) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96127
+[ 2024-04-19 05:20:26,298 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜05月02日(木) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96128
+[ 2024-04-19 05:20:26,316 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜05月02日(木) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96129
+[ 2024-04-19 05:20:26,336 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜05月02日(木) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月18日 07時30分, end_date: 2024年04月30日 12時00分, template_seq: 96130
+[ 2024-04-19 05:20:26,354 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜05月01日(水) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96088
+[ 2024-04-19 05:20:26,374 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜05月01日(水) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96089
+[ 2024-04-19 05:20:26,393 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜05月01日(水) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96090
+[ 2024-04-19 05:20:26,411 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜05月01日(水) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96091
+[ 2024-04-19 05:20:26,432 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜05月01日(水) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月17日 07時30分, end_date: 2024年04月26日 12時00分, template_seq: 96093
+[ 2024-04-19 05:20:26,450 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜04月30日(火) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95604
+[ 2024-04-19 05:20:26,471 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜04月30日(火) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95605
+[ 2024-04-19 05:20:26,490 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜04月30日(火) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95607
+[ 2024-04-19 05:20:26,508 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜04月30日(火) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95608
+[ 2024-04-19 05:20:26,526 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜04月30日(火) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月16日 07時30分, end_date: 2024年04月25日 12時00分, template_seq: 95609
+[ 2024-04-19 05:20:26,543 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜04月26日(金) 08:45～09:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95410
+[ 2024-04-19 05:20:26,561 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜04月26日(金) 09:30～10:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95411
+[ 2024-04-19 05:20:26,579 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜04月26日(金) 10:30～11:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95412
+[ 2024-04-19 05:20:26,597 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜04月26日(金) 12:45～13:30＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95413
+[ 2024-04-19 05:20:26,627 ] 94 Jamebrown0206 - INFO - Parsed data: title: ＜04月26日(金) 13:30～14:45＞[平針]外国免許切替審査 Hirabari Exchanging Foreign Driver's License, status: None, start_date: 2024年04月12日 07時30分, end_date: 2024年04月24日 12時00分, template_seq: 95414
+[ 2024-04-19 05:20:26,627 ] 94 Jamebrown0206 - INFO - Number of filtered forms left is: 0 form(s)
+[ 2024-04-19 05:20:26,627 ] 94 main_controller - INFO - Found 0 form(s)
+[ 2024-04-19 05:20:26,628 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-19 05:20:28,938 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-19 05:20:29,486 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-19 05:20:31,156 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-19 05:20:31,673 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-19 05:20:36,636 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-19 05:20:38,828 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-19 05:20:38,828 ] 94 root - INFO - All threads are done
+[ 2024-04-19 05:20:38,828 ] 94 root - INFO - All threads are done

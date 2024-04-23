@@ -1,0 +1,227 @@
+[ 2024-04-18 09:27:26,465 ] 94 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-18 09:27:26,465 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: Nickpown0411@gmail.com, Password: hoahong1234
+[ 2024-04-18 09:27:28,466 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-18 09:27:28,466 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-18 09:27:28,466 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: marjyamada040493@gmail.com, Password: Marj0409
+[ 2024-04-18 09:27:28,466 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: marjyamada040493@gmail.com, Password: Marj0409
+[ 2024-04-18 09:27:29,952 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-18 09:27:29,952 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-18 09:27:30,541 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-18 09:27:30,541 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-18 09:27:30,541 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-18 09:27:30,542 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: Jamebrown0206@gmail.com, Password: hoahong1234
+[ 2024-04-18 09:27:30,542 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: Jamebrown0206@gmail.com, Password: hoahong1234
+[ 2024-04-18 09:27:30,542 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: Jamebrown0206@gmail.com, Password: hoahong1234
+[ 2024-04-18 09:27:31,063 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-18 09:27:31,063 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-18 09:27:31,063 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-18 09:27:38,008 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-18 09:27:38,008 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-18 09:27:38,008 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-18 09:27:43,654 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-18 09:27:43,654 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-18 09:27:43,654 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-18 09:27:44,109 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_18\09_27_25\screenshot_marjyamada040493.png
+[ 2024-04-18 09:27:44,109 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_18\09_27_25\screenshot_marjyamada040493.png
+[ 2024-04-18 09:27:44,109 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_18\09_27_25\screenshot_marjyamada040493.png
+[ 2024-04-18 09:27:44,110 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-18 09:27:44,110 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-18 09:27:44,110 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-18 09:27:44,400 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-18 09:27:44,400 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-18 09:27:44,400 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-18 09:27:44,750 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_18\09_27_25\screenshot_Nickpown0411.png
+[ 2024-04-18 09:27:44,750 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_18\09_27_25\screenshot_Nickpown0411.png
+[ 2024-04-18 09:27:44,750 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_18\09_27_25\screenshot_Nickpown0411.png
+[ 2024-04-18 09:27:44,751 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-18 09:27:44,751 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-18 09:27:44,751 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-18 09:27:46,720 ] 94 main_controller - INFO - Found 8 form(s)
+[ 2024-04-18 09:27:46,720 ] 94 main_controller - INFO - Found 8 form(s)
+[ 2024-04-18 09:27:46,720 ] 94 main_controller - INFO - Found 8 form(s)
+[ 2024-04-18 09:27:47,567 ] 94 main_controller - INFO - Found 8 form(s)
+[ 2024-04-18 09:27:47,567 ] 94 main_controller - INFO - Found 8 form(s)
+[ 2024-04-18 09:27:47,567 ] 94 main_controller - INFO - Found 8 form(s)
+[ 2024-04-18 09:27:49,446 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-18 09:27:49,446 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-18 09:27:49,446 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-18 09:27:49,748 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_18\09_27_25\screenshot_Jamebrown0206.png
+[ 2024-04-18 09:27:49,748 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_18\09_27_25\screenshot_Jamebrown0206.png
+[ 2024-04-18 09:27:49,748 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_18\09_27_25\screenshot_Jamebrown0206.png
+[ 2024-04-18 09:27:49,748 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-18 09:27:49,748 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-18 09:27:49,748 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-18 09:27:52,133 ] 94 main_controller - INFO - Found 8 form(s)
+[ 2024-04-18 09:27:52,133 ] 94 main_controller - INFO - Found 8 form(s)
+[ 2024-04-18 09:27:52,133 ] 94 main_controller - INFO - Found 8 form(s)
+[ 2024-04-18 09:27:53,396 ] 94 main_controller - INFO - Form is closed, template sequence: 96127
+[ 2024-04-18 09:27:53,396 ] 94 main_controller - INFO - Form is closed, template sequence: 96127
+[ 2024-04-18 09:27:53,396 ] 94 main_controller - INFO - Form is closed, template sequence: 96127
+[ 2024-04-18 09:27:53,396 ] 94 main_controller - INFO - Remaining form(s): 7
+[ 2024-04-18 09:27:53,396 ] 94 main_controller - INFO - Remaining form(s): 7
+[ 2024-04-18 09:27:53,396 ] 94 main_controller - INFO - Remaining form(s): 7
+[ 2024-04-18 09:27:53,614 ] 94 main_controller - INFO - Form is closed, template sequence: 96336
+[ 2024-04-18 09:27:53,614 ] 94 main_controller - INFO - Form is closed, template sequence: 96336
+[ 2024-04-18 09:27:53,614 ] 94 main_controller - INFO - Form is closed, template sequence: 96336
+[ 2024-04-18 09:27:53,614 ] 94 main_controller - INFO - Remaining form(s): 7
+[ 2024-04-18 09:27:53,614 ] 94 main_controller - INFO - Remaining form(s): 7
+[ 2024-04-18 09:27:53,614 ] 94 main_controller - INFO - Remaining form(s): 7
+[ 2024-04-18 09:27:57,853 ] 94 main_controller - INFO - Form is closed, template sequence: 96337
+[ 2024-04-18 09:27:57,853 ] 94 main_controller - INFO - Form is closed, template sequence: 96337
+[ 2024-04-18 09:27:57,853 ] 94 main_controller - INFO - Form is closed, template sequence: 96337
+[ 2024-04-18 09:27:57,853 ] 94 main_controller - INFO - Remaining form(s): 7
+[ 2024-04-18 09:27:57,853 ] 94 main_controller - INFO - Remaining form(s): 7
+[ 2024-04-18 09:27:57,853 ] 94 main_controller - INFO - Remaining form(s): 7
+[ 2024-04-18 09:27:59,092 ] 94 main_controller - INFO - Form is closed, template sequence: 96126
+[ 2024-04-18 09:27:59,092 ] 94 main_controller - INFO - Form is closed, template sequence: 96126
+[ 2024-04-18 09:27:59,092 ] 94 main_controller - INFO - Form is closed, template sequence: 96126
+[ 2024-04-18 09:27:59,092 ] 94 main_controller - INFO - Remaining form(s): 6
+[ 2024-04-18 09:27:59,092 ] 94 main_controller - INFO - Remaining form(s): 6
+[ 2024-04-18 09:27:59,092 ] 94 main_controller - INFO - Remaining form(s): 6
+[ 2024-04-18 09:27:59,418 ] 94 main_controller - INFO - Form is closed, template sequence: 96128
+[ 2024-04-18 09:27:59,418 ] 94 main_controller - INFO - Form is closed, template sequence: 96128
+[ 2024-04-18 09:27:59,418 ] 94 main_controller - INFO - Form is closed, template sequence: 96128
+[ 2024-04-18 09:27:59,418 ] 94 main_controller - INFO - Remaining form(s): 6
+[ 2024-04-18 09:27:59,418 ] 94 main_controller - INFO - Remaining form(s): 6
+[ 2024-04-18 09:27:59,418 ] 94 main_controller - INFO - Remaining form(s): 6
+[ 2024-04-18 09:28:03,484 ] 94 main_controller - INFO - Form is closed, template sequence: 96338
+[ 2024-04-18 09:28:03,484 ] 94 main_controller - INFO - Form is closed, template sequence: 96338
+[ 2024-04-18 09:28:03,484 ] 94 main_controller - INFO - Form is closed, template sequence: 96338
+[ 2024-04-18 09:28:03,484 ] 94 main_controller - INFO - Remaining form(s): 6
+[ 2024-04-18 09:28:03,484 ] 94 main_controller - INFO - Remaining form(s): 6
+[ 2024-04-18 09:28:03,484 ] 94 main_controller - INFO - Remaining form(s): 6
+[ 2024-04-18 09:28:04,785 ] 94 main_controller - INFO - Form is closed, template sequence: 96128
+[ 2024-04-18 09:28:04,785 ] 94 main_controller - INFO - Form is closed, template sequence: 96128
+[ 2024-04-18 09:28:04,785 ] 94 main_controller - INFO - Form is closed, template sequence: 96128
+[ 2024-04-18 09:28:04,785 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-18 09:28:04,785 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-18 09:28:04,785 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-18 09:28:05,121 ] 94 main_controller - INFO - Form is closed, template sequence: 96127
+[ 2024-04-18 09:28:05,121 ] 94 main_controller - INFO - Form is closed, template sequence: 96127
+[ 2024-04-18 09:28:05,121 ] 94 main_controller - INFO - Form is closed, template sequence: 96127
+[ 2024-04-18 09:28:05,121 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-18 09:28:05,121 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-18 09:28:05,121 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-18 09:28:09,106 ] 94 main_controller - INFO - Form is closed, template sequence: 96127
+[ 2024-04-18 09:28:09,106 ] 94 main_controller - INFO - Form is closed, template sequence: 96127
+[ 2024-04-18 09:28:09,106 ] 94 main_controller - INFO - Form is closed, template sequence: 96127
+[ 2024-04-18 09:28:09,106 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-18 09:28:09,106 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-18 09:28:09,106 ] 94 main_controller - INFO - Remaining form(s): 5
+[ 2024-04-18 09:28:10,407 ] 94 main_controller - INFO - Form is closed, template sequence: 96129
+[ 2024-04-18 09:28:10,407 ] 94 main_controller - INFO - Form is closed, template sequence: 96129
+[ 2024-04-18 09:28:10,407 ] 94 main_controller - INFO - Form is closed, template sequence: 96129
+[ 2024-04-18 09:28:10,407 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-18 09:28:10,407 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-18 09:28:10,407 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-18 09:28:10,723 ] 94 main_controller - INFO - Form is closed, template sequence: 96337
+[ 2024-04-18 09:28:10,723 ] 94 main_controller - INFO - Form is closed, template sequence: 96337
+[ 2024-04-18 09:28:10,723 ] 94 main_controller - INFO - Form is closed, template sequence: 96337
+[ 2024-04-18 09:28:10,724 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-18 09:28:10,724 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-18 09:28:10,724 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-18 09:28:14,719 ] 94 main_controller - INFO - Form is closed, template sequence: 96130
+[ 2024-04-18 09:28:14,719 ] 94 main_controller - INFO - Form is closed, template sequence: 96130
+[ 2024-04-18 09:28:14,719 ] 94 main_controller - INFO - Form is closed, template sequence: 96130
+[ 2024-04-18 09:28:14,719 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-18 09:28:14,719 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-18 09:28:14,719 ] 94 main_controller - INFO - Remaining form(s): 4
+[ 2024-04-18 09:28:16,073 ] 94 main_controller - INFO - Form is closed, template sequence: 96337
+[ 2024-04-18 09:28:16,073 ] 94 main_controller - INFO - Form is closed, template sequence: 96337
+[ 2024-04-18 09:28:16,073 ] 94 main_controller - INFO - Form is closed, template sequence: 96337
+[ 2024-04-18 09:28:16,073 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-18 09:28:16,073 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-18 09:28:16,073 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-18 09:28:16,404 ] 94 main_controller - INFO - Form is closed, template sequence: 96126
+[ 2024-04-18 09:28:16,404 ] 94 main_controller - INFO - Form is closed, template sequence: 96126
+[ 2024-04-18 09:28:16,404 ] 94 main_controller - INFO - Form is closed, template sequence: 96126
+[ 2024-04-18 09:28:16,404 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-18 09:28:16,404 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-18 09:28:16,404 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-18 09:28:20,394 ] 94 main_controller - INFO - Form is closed, template sequence: 96126
+[ 2024-04-18 09:28:20,394 ] 94 main_controller - INFO - Form is closed, template sequence: 96126
+[ 2024-04-18 09:28:20,394 ] 94 main_controller - INFO - Form is closed, template sequence: 96126
+[ 2024-04-18 09:28:20,394 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-18 09:28:20,394 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-18 09:28:20,394 ] 94 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-18 09:28:21,802 ] 94 main_controller - INFO - Form is closed, template sequence: 96130
+[ 2024-04-18 09:28:21,802 ] 94 main_controller - INFO - Form is closed, template sequence: 96130
+[ 2024-04-18 09:28:21,802 ] 94 main_controller - INFO - Form is closed, template sequence: 96130
+[ 2024-04-18 09:28:21,802 ] 94 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-18 09:28:21,802 ] 94 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-18 09:28:21,802 ] 94 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-18 09:28:22,068 ] 94 main_controller - INFO - Form is closed, template sequence: 96130
+[ 2024-04-18 09:28:22,068 ] 94 main_controller - INFO - Form is closed, template sequence: 96130
+[ 2024-04-18 09:28:22,068 ] 94 main_controller - INFO - Form is closed, template sequence: 96130
+[ 2024-04-18 09:28:22,068 ] 94 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-18 09:28:22,068 ] 94 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-18 09:28:22,068 ] 94 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-18 09:28:26,065 ] 94 main_controller - INFO - Form is closed, template sequence: 96336
+[ 2024-04-18 09:28:26,065 ] 94 main_controller - INFO - Form is closed, template sequence: 96336
+[ 2024-04-18 09:28:26,065 ] 94 main_controller - INFO - Form is closed, template sequence: 96336
+[ 2024-04-18 09:28:26,065 ] 94 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-18 09:28:26,065 ] 94 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-18 09:28:26,065 ] 94 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-18 09:28:27,455 ] 94 main_controller - INFO - Form is closed, template sequence: 96336
+[ 2024-04-18 09:28:27,455 ] 94 main_controller - INFO - Form is closed, template sequence: 96336
+[ 2024-04-18 09:28:27,455 ] 94 main_controller - INFO - Form is closed, template sequence: 96336
+[ 2024-04-18 09:28:27,455 ] 94 main_controller - INFO - Remaining form(s): 1
+[ 2024-04-18 09:28:27,455 ] 94 main_controller - INFO - Remaining form(s): 1
+[ 2024-04-18 09:28:27,455 ] 94 main_controller - INFO - Remaining form(s): 1
+[ 2024-04-18 09:28:27,674 ] 94 main_controller - INFO - Form is closed, template sequence: 96338
+[ 2024-04-18 09:28:27,674 ] 94 main_controller - INFO - Form is closed, template sequence: 96338
+[ 2024-04-18 09:28:27,674 ] 94 main_controller - INFO - Form is closed, template sequence: 96338
+[ 2024-04-18 09:28:27,674 ] 94 main_controller - INFO - Remaining form(s): 1
+[ 2024-04-18 09:28:27,674 ] 94 main_controller - INFO - Remaining form(s): 1
+[ 2024-04-18 09:28:27,674 ] 94 main_controller - INFO - Remaining form(s): 1
+[ 2024-04-18 09:28:31,766 ] 94 main_controller - INFO - Form is closed, template sequence: 96129
+[ 2024-04-18 09:28:31,766 ] 94 main_controller - INFO - Form is closed, template sequence: 96129
+[ 2024-04-18 09:28:31,766 ] 94 main_controller - INFO - Form is closed, template sequence: 96129
+[ 2024-04-18 09:28:31,767 ] 94 main_controller - INFO - Remaining form(s): 1
+[ 2024-04-18 09:28:31,767 ] 94 main_controller - INFO - Remaining form(s): 1
+[ 2024-04-18 09:28:31,767 ] 94 main_controller - INFO - Remaining form(s): 1
+[ 2024-04-18 09:28:33,092 ] 94 main_controller - INFO - Form is closed, template sequence: 96338
+[ 2024-04-18 09:28:33,092 ] 94 main_controller - INFO - Form is closed, template sequence: 96338
+[ 2024-04-18 09:28:33,092 ] 94 main_controller - INFO - Form is closed, template sequence: 96338
+[ 2024-04-18 09:28:33,092 ] 94 main_controller - INFO - Remaining form(s): 0
+[ 2024-04-18 09:28:33,092 ] 94 main_controller - INFO - Remaining form(s): 0
+[ 2024-04-18 09:28:33,092 ] 94 main_controller - INFO - Remaining form(s): 0
+[ 2024-04-18 09:28:33,092 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-18 09:28:33,092 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-18 09:28:33,092 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-18 09:28:33,404 ] 94 main_controller - INFO - Form is closed, template sequence: 96129
+[ 2024-04-18 09:28:33,404 ] 94 main_controller - INFO - Form is closed, template sequence: 96129
+[ 2024-04-18 09:28:33,404 ] 94 main_controller - INFO - Form is closed, template sequence: 96129
+[ 2024-04-18 09:28:33,404 ] 94 main_controller - INFO - Remaining form(s): 0
+[ 2024-04-18 09:28:33,404 ] 94 main_controller - INFO - Remaining form(s): 0
+[ 2024-04-18 09:28:33,404 ] 94 main_controller - INFO - Remaining form(s): 0
+[ 2024-04-18 09:28:33,404 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-18 09:28:33,404 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-18 09:28:33,404 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-18 09:28:37,411 ] 94 main_controller - INFO - Form is closed, template sequence: 96128
+[ 2024-04-18 09:28:37,411 ] 94 main_controller - INFO - Form is closed, template sequence: 96128
+[ 2024-04-18 09:28:37,411 ] 94 main_controller - INFO - Form is closed, template sequence: 96128
+[ 2024-04-18 09:28:37,411 ] 94 main_controller - INFO - Remaining form(s): 0
+[ 2024-04-18 09:28:37,411 ] 94 main_controller - INFO - Remaining form(s): 0
+[ 2024-04-18 09:28:37,411 ] 94 main_controller - INFO - Remaining form(s): 0
+[ 2024-04-18 09:28:37,411 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-18 09:28:37,411 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-18 09:28:37,411 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-18 09:28:43,099 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-18 09:28:43,099 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-18 09:28:43,099 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-18 09:28:43,413 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-18 09:28:43,413 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-18 09:28:43,413 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-18 09:28:45,384 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-18 09:28:45,384 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-18 09:28:45,384 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-18 09:28:45,636 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-18 09:28:45,636 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-18 09:28:45,636 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-18 09:28:47,421 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-18 09:28:47,421 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-18 09:28:47,421 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-18 09:28:49,641 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-18 09:28:49,641 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-18 09:28:49,641 ] 94 main_controller - INFO - Browser closed

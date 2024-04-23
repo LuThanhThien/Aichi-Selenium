@@ -1,0 +1,139 @@
+[ 2024-04-23 22:40:43,977 ] 94 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-23 22:40:43,978 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: nihahi50@gmail.com, Password: hoahong1234
+[ 2024-04-23 22:40:53,106 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:41:02,088 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:41:02,471 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_40_43\screenshot_nihahi50.png
+[ 2024-04-23 22:41:02,472 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:41:04,951 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:41:04,952 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:41:04,952 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム'}
+[ 2024-04-23 22:41:04,953 ] 82 main_controller - ERROR - Caught exception: safe_load() missing 1 required positional argument: 'gender'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    customer = Customer.safe_load(**customer_info)
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+[ 2024-04-23 22:41:04,958 ] 94 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-23 22:41:04,958 ] 94 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-23 22:41:05,897 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:41:05,897 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:41:15,627 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:41:15,627 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:41:15,991 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_40_43\screenshot_nihahi50.png
+[ 2024-04-23 22:41:15,991 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_40_43\screenshot_nihahi50.png
+[ 2024-04-23 22:41:15,992 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:41:15,992 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:41:18,441 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:41:18,441 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:41:18,443 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:41:18,443 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:41:18,444 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム'}
+[ 2024-04-23 22:41:18,444 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム'}
+[ 2024-04-23 22:41:18,445 ] 82 main_controller - ERROR - Caught exception: safe_load() missing 1 required positional argument: 'gender'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    customer = Customer.safe_load(**customer_info)
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    customer = Customer.safe_load(**customer_info)
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+[ 2024-04-23 22:41:18,445 ] 82 main_controller - ERROR - Caught exception: safe_load() missing 1 required positional argument: 'gender'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    customer = Customer.safe_load(**customer_info)
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    customer = Customer.safe_load(**customer_info)
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+[ 2024-04-23 22:41:18,448 ] 94 main_controller - INFO - Subprocess 0 started with trial number 2
+[ 2024-04-23 22:41:18,448 ] 94 main_controller - INFO - Subprocess 0 started with trial number 2
+[ 2024-04-23 22:41:18,448 ] 94 main_controller - INFO - Subprocess 0 started with trial number 2
+[ 2024-04-23 22:41:19,965 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:41:19,965 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:41:19,965 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 22:41:29,647 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:41:29,647 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:41:29,647 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 22:41:30,099 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_40_43\screenshot_nihahi50.png
+[ 2024-04-23 22:41:30,099 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_40_43\screenshot_nihahi50.png
+[ 2024-04-23 22:41:30,099 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\22_40_43\screenshot_nihahi50.png
+[ 2024-04-23 22:41:30,100 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:41:30,100 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:41:30,100 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 22:41:32,180 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:41:32,180 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:41:32,180 ] 94 main_controller - INFO - Found 5 form(s)
+[ 2024-04-23 22:41:32,180 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:41:32,180 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:41:32,180 ] 94 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-23 22:41:32,181 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム'}
+[ 2024-04-23 22:41:32,181 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム'}
+[ 2024-04-23 22:41:32,181 ] 94 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム'}
+[ 2024-04-23 22:41:32,181 ] 82 main_controller - ERROR - Caught exception: safe_load() missing 1 required positional argument: 'gender'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    main_logger.info("Customer info index {}: {}".format(customer_index, customer_info))
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    main_logger.info("Customer info index {}: {}".format(customer_index, customer_info))
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    main_logger.info("Customer info index {}: {}".format(customer_index, customer_info))
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+[ 2024-04-23 22:41:32,181 ] 82 main_controller - ERROR - Caught exception: safe_load() missing 1 required positional argument: 'gender'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    main_logger.info("Customer info index {}: {}".format(customer_index, customer_info))
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    main_logger.info("Customer info index {}: {}".format(customer_index, customer_info))
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    main_logger.info("Customer info index {}: {}".format(customer_index, customer_info))
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+[ 2024-04-23 22:41:32,181 ] 82 main_controller - ERROR - Caught exception: safe_load() missing 1 required positional argument: 'gender'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    main_logger.info("Customer info index {}: {}".format(customer_index, customer_info))
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    main_logger.info("Customer info index {}: {}".format(customer_index, customer_info))
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 89, in subprocess
+    main_logger.info("Customer info index {}: {}".format(customer_index, customer_info))
+TypeError: safe_load() missing 1 required positional argument: 'gender'
+[ 2024-04-23 22:41:32,185 ] 94 main_controller - INFO - Subprocess 0 started with trial number 3
+[ 2024-04-23 22:41:32,185 ] 94 main_controller - INFO - Subprocess 0 started with trial number 3
+[ 2024-04-23 22:41:32,185 ] 94 main_controller - INFO - Subprocess 0 started with trial number 3
+[ 2024-04-23 22:41:32,185 ] 94 main_controller - INFO - Subprocess 0 started with trial number 3

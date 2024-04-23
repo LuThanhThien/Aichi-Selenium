@@ -1,4 +1,7 @@
 # APP VERSION: 1.0.01
+import sys
+sys.path.append("./")
+
 import time
 from threading import Thread
 

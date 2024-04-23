@@ -1,0 +1,90 @@
+[ 2024-04-23 23:02:48,010 ] 94 root - INFO - Starting all threads
+[ 2024-04-23 23:02:48,010 ] 94 root - INFO - Starting all threads
+[ 2024-04-23 23:02:48,010 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'Hirabari', 'test_mode': False, 'onlyday': False, 'max_num_retry': 5, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': False, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-23 23:02:48,010 ] 94 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': 'Hirabari', 'test_mode': False, 'onlyday': False, 'max_num_retry': 5, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': False, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-23 23:02:48,011 ] 94 root - INFO - Number of dev accounts: 3
+[ 2024-04-23 23:02:48,011 ] 94 root - INFO - Number of dev accounts: 3
+[ 2024-04-23 23:02:48,014 ] 94 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-23 23:02:48,015 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: nihahi50@gmail.com, Password: hoahong1234
+[ 2024-04-23 23:02:50,016 ] 94 root - INFO - Thread 0 started
+[ 2024-04-23 23:02:50,016 ] 94 root - INFO - Thread 0 started
+[ 2024-04-23 23:02:50,018 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-23 23:02:50,018 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-23 23:02:50,902 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 23:02:52,029 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 23:02:52,033 ] 94 root - INFO - Thread 1 started
+[ 2024-04-23 23:02:52,033 ] 94 root - INFO - Thread 1 started
+[ 2024-04-23 23:02:52,087 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-23 23:02:52,088 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-23 23:02:54,098 ] 94 root - INFO - Thread 2 started
+[ 2024-04-23 23:02:54,098 ] 94 root - INFO - Thread 2 started
+[ 2024-04-23 23:02:55,879 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-23 23:02:57,778 ] 94 nihahi50 - INFO - Opened login page
+[ 2024-04-23 23:02:59,054 ] 94 ble79037 - INFO - Opened login page
+[ 2024-04-23 23:03:02,863 ] 94 benemmai380 - INFO - Opened login page
+[ 2024-04-23 23:03:03,906 ] 82 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.61); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6471FF922+3045234]
+	(No symbol) [0x00007FF646EA3652]
+	(No symbol) [0x00007FF646D67564]
+	(No symbol) [0x00007FF646DB5F9D]
+	(No symbol) [0x00007FF646DB606C]
+	(No symbol) [0x00007FF646DFBDD7]
+	(No symbol) [0x00007FF646DD9DEF]
+	(No symbol) [0x00007FF646DF91C4]
+	(No symbol) [0x00007FF646DD9B53]
+	(No symbol) [0x00007FF646DA813C]
+	(No symbol) [0x00007FF646DA8D71]
+	GetHandleVerifier [0x00007FF64722E89D+3237613]
+	GetHandleVerifier [0x00007FF647270BA7+3508727]
+	GetHandleVerifier [0x00007FF64726976F+3478975]
+	GetHandleVerifier [0x00007FF646FDF1C6+815126]
+	(No symbol) [0x00007FF646EAED0F]
+	(No symbol) [0x00007FF646EA9854]
+	(No symbol) [0x00007FF646EA99E2]
+	(No symbol) [0x00007FF646E9A574]
+	BaseThreadInitThunk [0x00007FF92E12257D+29]
+	RtlUserThreadStart [0x00007FF93022AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 76, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 93, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-23 23:03:03,925 ] 94 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-04-23 23:03:04,558 ] 94 ble79037 - INFO - Logging in
+[ 2024-04-23 23:03:04,571 ] 94 ble79037 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 23:03:04,889 ] 94 ble79037 - INFO - Logged in finished
+[ 2024-04-23 23:03:04,889 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:04,999 ] 94 nihahi50 - INFO - Logging in
+[ 2024-04-23 23:03:05,008 ] 94 nihahi50 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-23 23:03:05,226 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_ble79037.png
+[ 2024-04-23 23:03:05,233 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:05,239 ] 94 ble79037 - INFO - On main page
+[ 2024-04-23 23:03:05,338 ] 94 nihahi50 - INFO - Logged in finished
+[ 2024-04-23 23:03:05,339 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-23 23:03:05,714 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_23\23_02_47\screenshot_nihahi50.png
+[ 2024-04-23 23:03:05,715 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-23 23:03:05,803 ] 94 nihahi50 - INFO - On main page
+[ 2024-04-23 23:03:06,337 ] 94 main_controller - INFO - Browser opened

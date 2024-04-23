@@ -31,6 +31,30 @@ class EndMessage:
    DEFENSE_ERROR = "整理番号・パスワードをメモなどにお控えいただくか"
    FALSE = None
 
+class FormInfoAttr:
+   TITLE = 'title'
+   STATUS = 'status'
+   START_DATE_STR = 'start_date_str'
+   END_DATE_STR = 'end_date_str'
+   TEMPLATE_SEQ = 'template_seq'
+   URL = 'url'
+   START_DATETIME = 'start_datetime'
+   END_DATETIME = 'end_datetime'
+   START_DATE = 'start_date'
+   END_DATE = 'end_date'
+   DATETIME_DIFF = 'datetime_diff'
+   DATE_DIFF = 'date_diff'
+   IS_PAST = 'is_past'
+   IS_PASSED_STATUS = 'is_passed_status'
+   IS_UPCOMING_STATUS = 'is_upcoming_status'
+   IS_ABOUT_TO_CLOSE_STATUS = 'is_about_to_close_status'
+   IS_ENDED_STATUS = 'is_ended_status'
+   IS_TODAY = 'is_today'
+   IS_NOT_TODAY = 'is_not_today'
+   IS_FILLED = 'is_filled'
+   IS_CLOSED = 'is_closed'
+
+
 class FormInfo:
    def __init__(self,
                title: str = DEFAULT_TITLE,
@@ -52,8 +76,8 @@ class FormInfo:
       self.end_date = du.string_to_date(end_date_str)
       self.datetime_diff = du.int_timedelta(du.get_jst_datetime(), self.start_datetime)
       self.date_diff = du.int_timedelta(du.get_jst_date(), self.start_date)
+      
       self._past = self.datetime_diff < 0
-
       self._filled = False
       self._closed = False
    
@@ -96,7 +120,7 @@ class FormInfo:
    @property
    def is_not_today(self):
       return not self.is_today
-   
+
    @property
    def is_filled(self):
       return self._filled

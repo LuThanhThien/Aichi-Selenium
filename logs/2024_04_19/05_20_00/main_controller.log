@@ -1,0 +1,83 @@
+[ 2024-04-19 05:20:01,670 ] 94 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-19 05:20:01,670 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: Nickpown0411@gmail.com, Password: hoahong1234
+[ 2024-04-19 05:20:03,684 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-19 05:20:03,684 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-19 05:20:03,685 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: marjyamada040493@gmail.com, Password: Marj0409
+[ 2024-04-19 05:20:03,685 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: marjyamada040493@gmail.com, Password: Marj0409
+[ 2024-04-19 05:20:04,954 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-19 05:20:04,954 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-19 05:20:05,699 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-19 05:20:05,699 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-19 05:20:05,699 ] 94 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-19 05:20:05,700 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: Jamebrown0206@gmail.com, Password: hoahong1234
+[ 2024-04-19 05:20:05,700 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: Jamebrown0206@gmail.com, Password: hoahong1234
+[ 2024-04-19 05:20:05,700 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: Jamebrown0206@gmail.com, Password: hoahong1234
+[ 2024-04-19 05:20:06,711 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-19 05:20:06,711 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-19 05:20:06,711 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-19 05:20:13,886 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-19 05:20:13,886 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-19 05:20:13,886 ] 94 main_controller - INFO - Browser opened
+[ 2024-04-19 05:20:16,131 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-19 05:20:16,131 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-19 05:20:16,131 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-19 05:20:16,501 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_19\05_20_00\screenshot_Nickpown0411.png
+[ 2024-04-19 05:20:16,501 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_19\05_20_00\screenshot_Nickpown0411.png
+[ 2024-04-19 05:20:16,501 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_19\05_20_00\screenshot_Nickpown0411.png
+[ 2024-04-19 05:20:16,502 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-19 05:20:16,502 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-19 05:20:16,502 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-19 05:20:16,788 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-19 05:20:16,788 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-19 05:20:16,788 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-19 05:20:17,090 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_19\05_20_00\screenshot_marjyamada040493.png
+[ 2024-04-19 05:20:17,090 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_19\05_20_00\screenshot_marjyamada040493.png
+[ 2024-04-19 05:20:17,090 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_19\05_20_00\screenshot_marjyamada040493.png
+[ 2024-04-19 05:20:17,090 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-19 05:20:17,090 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-19 05:20:17,090 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-19 05:20:18,931 ] 94 main_controller - INFO - Found 0 form(s)
+[ 2024-04-19 05:20:18,931 ] 94 main_controller - INFO - Found 0 form(s)
+[ 2024-04-19 05:20:18,931 ] 94 main_controller - INFO - Found 0 form(s)
+[ 2024-04-19 05:20:18,931 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-19 05:20:18,931 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-19 05:20:18,931 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-19 05:20:19,473 ] 94 main_controller - INFO - Found 0 form(s)
+[ 2024-04-19 05:20:19,473 ] 94 main_controller - INFO - Found 0 form(s)
+[ 2024-04-19 05:20:19,473 ] 94 main_controller - INFO - Found 0 form(s)
+[ 2024-04-19 05:20:19,474 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-19 05:20:19,474 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-19 05:20:19,474 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-19 05:20:23,886 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-19 05:20:23,886 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-19 05:20:23,886 ] 94 main_controller - INFO - Logged in successfully
+[ 2024-04-19 05:20:24,123 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_19\05_20_00\screenshot_Jamebrown0206.png
+[ 2024-04-19 05:20:24,123 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_19\05_20_00\screenshot_Jamebrown0206.png
+[ 2024-04-19 05:20:24,123 ] 94 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_19\05_20_00\screenshot_Jamebrown0206.png
+[ 2024-04-19 05:20:24,123 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-19 05:20:24,123 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-19 05:20:24,123 ] 94 main_controller - INFO - Finding forms
+[ 2024-04-19 05:20:26,627 ] 94 main_controller - INFO - Found 0 form(s)
+[ 2024-04-19 05:20:26,627 ] 94 main_controller - INFO - Found 0 form(s)
+[ 2024-04-19 05:20:26,627 ] 94 main_controller - INFO - Found 0 form(s)
+[ 2024-04-19 05:20:26,628 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-19 05:20:26,628 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-19 05:20:26,628 ] 94 main_controller - INFO - All forms passed
+[ 2024-04-19 05:20:28,938 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-19 05:20:28,938 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-19 05:20:28,938 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-19 05:20:29,486 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-19 05:20:29,486 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-19 05:20:29,486 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-19 05:20:31,156 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-19 05:20:31,156 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-19 05:20:31,156 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-19 05:20:31,673 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-19 05:20:31,673 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-19 05:20:31,673 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-19 05:20:36,636 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-19 05:20:36,636 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-19 05:20:36,636 ] 94 main_controller - INFO - Closing browser
+[ 2024-04-19 05:20:38,828 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-19 05:20:38,828 ] 94 main_controller - INFO - Browser closed
+[ 2024-04-19 05:20:38,828 ] 94 main_controller - INFO - Browser closed
