@@ -23,7 +23,7 @@ class MainController:
       main_logger = BaseLogger.get(Names.MAIN_CONTROLLER)
 
       if num_retry > Meta.max_num_retry:
-         main_logger.error("Max number of retry reached {}, return".format(Meta.max_num_retry))
+         main_logger.error("Return since max number of retry reached {}".format(Meta.max_num_retry))
          return
 
       main_logger.info("Subprocess {} started with trial number {}".format(index, num_retry))
@@ -85,7 +85,7 @@ class MainController:
                customer_info['phone_number'] = Meta.main_phone_number_dash
                customer_info['nation'] = 'ベトナム'
                customer_info['country'] = 'ベトナム'
-               customer_info['gender'] = 'M'
+               customer_info['gender'] = random.choice(['M', 'F'])
                main_logger.info("Customer info index {}: {}".format(customer_index, customer_info))
                customer = Customer.safe_load(**customer_info)
                main_logger.info("Customer index {}: {}".format(customer_index, customer))
@@ -109,13 +109,13 @@ class MainController:
 
             main_logger.info("Remaining form(s): {}".format(len(list_form_info)))
 
-
          main_logger.info("All forms passed")
-         time.sleep(10)
+         time.sleep(3)
 
       except Exception as e:
          BaseException.raise_exc(e)
          main_logger.exception("Caught exception: " + str(e))
+         browser.quit()
          # try to awake the browser
          MainController.subprocess(index, account, num_retry + 1)
       finally:

@@ -29,10 +29,8 @@ class BaseLogger:
       print(f"Log file path: {log_file_path}")
 
       # Create log folder if it does not exist
-      sm.create_dir(BaseLogger.parent_folder)
-      sm.create_dir(BaseLogger.child_folder)
-      sm.create_file(log_file_path)
-      sm.create_file(root_log_path)
+      sm.create_dirs(BaseLogger.parent_folder, BaseLogger.child_folder)
+      sm.create_files(log_file_path, root_log_path)
 
       # Logging configuration for this logger instance
       self.logger = logging.getLogger(log_name)
@@ -58,7 +56,6 @@ class BaseLogger:
       try:
          # Get a list of all log folders
          log_dirs = sm.list_dirs(log_folder)
-
          # If there are more than max_num log folders, delete the oldest ones
          if len(log_dirs) > max_num:
             sorted_dirs = sorted(log_dirs)
@@ -85,7 +82,7 @@ class BaseLogger:
 
    def ins(self, *msg:str) -> None:
       message = " ".join(msg)
-      print_text = f"0 root - {message}"
+      print_text = f"{self.log_name} - {message}"
       log_text = f"[ {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ] {print_text}"
       print(log_text)
 

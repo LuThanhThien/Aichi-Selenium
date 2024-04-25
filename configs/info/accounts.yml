@@ -21,11 +21,11 @@ test_accounts:
     password: aichi@5921
     
 dev_accounts:
-  - username: nihahi50@gmail.com
-    password: hoahong1234
+  # - username: nihahi50@gmail.com
+  #   password: hoahong1234
 
-  - username: ble79037@gmail.com
-    password: hoahong1234
+  # - username: ble79037@gmail.com
+  #   password: hoahong1234
 
   # - username: benemmai380@gmail.com
   #   password: hoahong1234

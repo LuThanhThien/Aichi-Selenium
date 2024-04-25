@@ -1,0 +1,47 @@
+[ 2024-04-25 23:20:01,080 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-25 23:20:01,081 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-25 23:20:03,095 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-25 23:20:03,095 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-25 23:20:03,095 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei1@gmail.com, Password: aichi@5921
+[ 2024-04-25 23:20:03,095 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei1@gmail.com, Password: aichi@5921
+[ 2024-04-25 23:20:04,244 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-25 23:20:04,244 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-25 23:20:05,178 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-25 23:20:05,178 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-25 23:20:05,178 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-25 23:20:05,180 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-04-25 23:20:05,180 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-04-25 23:20:05,180 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-04-25 23:20:05,430 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-25 23:20:05,430 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-25 23:20:05,430 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-25 23:20:12,171 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-25 23:20:12,171 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-25 23:20:12,171 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-25 23:20:20,108 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-25 23:20:20,108 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-25 23:20:20,108 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-25 23:20:20,423 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-25 23:20:20,423 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-25 23:20:20,423 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-25 23:20:20,468 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_25\23_20_00\screenshot_luthien5921.png
+[ 2024-04-25 23:20:20,468 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_25\23_20_00\screenshot_luthien5921.png
+[ 2024-04-25 23:20:20,468 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_25\23_20_00\screenshot_luthien5921.png
+[ 2024-04-25 23:20:20,472 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-25 23:20:20,472 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-25 23:20:20,472 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-25 23:20:20,783 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_25\23_20_00\screenshot_luthien5921+shinsei1.png
+[ 2024-04-25 23:20:20,783 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_25\23_20_00\screenshot_luthien5921+shinsei1.png
+[ 2024-04-25 23:20:20,783 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_25\23_20_00\screenshot_luthien5921+shinsei1.png
+[ 2024-04-25 23:20:20,785 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-25 23:20:20,785 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-25 23:20:20,785 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-25 23:20:27,304 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-25 23:20:27,304 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-25 23:20:27,304 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-25 23:20:27,660 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_25\23_20_00\screenshot_luthien5921+shinsei2.png
+[ 2024-04-25 23:20:27,660 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_25\23_20_00\screenshot_luthien5921+shinsei2.png
+[ 2024-04-25 23:20:27,660 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_25\23_20_00\screenshot_luthien5921+shinsei2.png
+[ 2024-04-25 23:20:27,662 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-25 23:20:27,662 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-25 23:20:27,662 ] 91 main_controller - INFO - Finding forms

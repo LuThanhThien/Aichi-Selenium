@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import Select
 from src.globals import URLs, Meta
 from src.models import Account, FormInfo, Customer, AccessMessage, EndMessage
 from .base_controller import BaseController
-from src.utils.html_utils import wait_until_presence, wait_until_clickable
+from src.utils.html_utils import wait_until_presence
 
 from src.models import FormInfo
 
@@ -75,7 +75,8 @@ class Filler(BaseController):
 
       # Check agree and click submit
       try:
-         self.click_checkbox(browser, By.XPATH, "/html/body/form/main/div/div[4]/dl[8]/dd/fieldset/p/label/span")
+         self.click_checkbox(browser, By.NAME, "item[6].choiceList[0].checkFlag")
+         # self.click_checkbox(browser, By.XPATH, "/html/body/form/main/div/div[4]/dl[7]/dd/fieldset/p/label/span")
          browser.find_element(By.XPATH, "/html/body/form/main/div/div[5]/div/input").click()
       except Exception as e:
          self.logger.exception("Failed to click submit: " + str(e))
@@ -90,7 +91,7 @@ class Filler(BaseController):
          return
       
       # Check if form is filled successfully
-      try:
+      try:  
          # check for success message
          page_src = browser.page_source
          self.logger.info("Get page source successfully")

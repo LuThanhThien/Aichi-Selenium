@@ -1,55 +1,47 @@
 last_name:
-  - Nguyen
-  - Tran
-  - Le
-  - Pham
-  - Hoang
-  - Vo
-  - Bui
-  - Dang
-  - Do
-  - Ho
-  - Ngo
-  - Duong
-  - Ly
-  - Quach
-  - Vuong
-  - Trinh
-  - Mai
-  - Luong
-  - Cao
-  - Phan
-  - Trieu
-  - Kim
-  - Chu
-  - Dinh
-  - Le
+  - Smith
+  - Johnson
+  - Williams
+  - Brown
+  - Jones
+  - Garcia
+  - Miller
+  - Davis
+  - Rodriguez
+  - Martinez
+  - Hernandez
+  - Lopez
+  - Gonzalez
+  - Wilson
+  - Anderson
+  - Thomas
+  - Taylor
+  - Moore
+  - Jackson
+  - Martin
+
 first_name:
-  - Vu
-  - Minh
-  - Tuan
-  - Hai
-  - Duy
-  - Quang
-  - Thanh
-  - Thang
-  - Anh
-  - Hoai
-  - Phong
-  - Duc
-  - Tam
-  - Hung
-  - Son
-  - Quoc
-  - Huu
-  - Tho
-  - Phuc
-  - Khanh
-  - Tuan
-  - Vinh
-  - Bao
-  - Gia
-  - Hao
+  - David
+  - Michael
+  - John
+  - James
+  - Robert
+  - Joseph
+  - William
+  - Matthew
+  - Daniel
+  - Andrew
+  - Richard
+  - Anthony
+  - Thomas
+  - Christopher
+  - Daniel
+  - Paul
+  - Mark
+  - Donald
+  - Brian
+  - George
+  
 date_birth:
   - '20010302'
   - '19940505'
@@ -71,9 +63,11 @@ date_birth:
   - '19950719'
   - '19931112'
   - '20011209'
+
 gender:
   - M
   - F
+
 phone_number:
   - '0801234567'
   - '0809876543'
@@ -90,7 +84,8 @@ phone_number:
   - '0809998888'
   - '0807774444'
   - '0808885555'
-phone_number_hash:
+
+phone_number_dash:
   - '080-1234-5673'
   - '080-9876-5435'
   - '080-5678-9121'

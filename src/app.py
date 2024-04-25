@@ -3,6 +3,7 @@ import sys
 sys.path.append("./")
 
 import time
+from typing import List
 from threading import Thread
 
 from src.logs import BaseLogger, Names
@@ -11,13 +12,16 @@ from src.globals import Meta, Accounts
 
 def run():
     logger = BaseLogger.get(Names.ROOT_LOG)
-    processes = []
+    processes: List[Thread] = []
     logger.info("Starting all threads")
     logger.info("Meta: {}".format(Meta.__dict__))
     logger.info("Number of dev accounts: {}".format(Accounts.num_dev_accounts))
+    if Meta.test_mode or Accounts.num_dev_accounts == 0:
+        logger.info("Test mode: {}".format(Meta.test_mode))
+        Meta.test_mode = True
     num_threads = Meta.default_num_threads if Meta.test_mode else Accounts.num_dev_accounts
     for index in range(num_threads):
-        account =  Accounts.get_test_account(index) if Meta.test_mode else Accounts.get_dev_account(index)
+        account = Accounts.get_test_account(index) if Meta.test_mode else Accounts.get_dev_account(index)
         p = Thread(name="Process {}".format(index), target=MainController.subprocess, args=(index, account,))
         p.start()
         time.sleep(2)

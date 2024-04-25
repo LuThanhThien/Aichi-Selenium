@@ -47,22 +47,22 @@ class Accounts(object):
     '''    Global accounts    '''
     test_accounts = Configs.accounts['test_accounts']
     dev_accounts = Configs.accounts['dev_accounts']
-    num_dev_accounts = len(dev_accounts)
-    num_test_accounts = len(test_accounts)
+    num_test_accounts = len(test_accounts) if test_accounts is not None else 0
+    num_dev_accounts = len(dev_accounts) if dev_accounts is not None else 0
     num_accounts = num_dev_accounts + num_test_accounts
 
     @staticmethod
-    def get_dev_account(index):
+    def get_dev_account(index: int = 0):
         return Configs.accounts['dev_accounts'][index]
     
     @staticmethod
-    def get_test_account(index):
+    def get_test_account(index: int = 0):
         return Configs.accounts['test_accounts'][index]
 
 class Customers(object):
     '''    Global customers    '''
-    customers = Configs.customers['customers']
-    num_customers = len(customers)
+    customers = Configs.customers['customers'] 
+    num_customers = len(customers) if customers is not None else 0
     
     @staticmethod
     def get_customer(index):
@@ -72,6 +72,7 @@ class Meta(object):
     '''        Meta configs        '''
     keyword = Configs.meta['keyword']
     test_mode = False if keyword in ['Tosan', 'Hirabari'] else True
+    debug_mode = Configs.meta['debug_mode']
     onlyday = Configs.meta['onlyday']
     max_num_retry = Configs.meta['max_num_retry']
     default_num_threads = min(Configs.meta['default_num_threads'], Accounts.num_test_accounts)
@@ -89,7 +90,7 @@ class Fake(object):
     date_birth = Configs.fake['date_birth']
     gender = Configs.fake['gender']
     phone_number = Configs.fake['phone_number']
-    phone_number_hash = Configs.fake['phone_number_hash']
+    phone_number_dash = Configs.fake['phone_number_dash']
     nation = Configs.fake['nation']
     country = Configs.fake['country']
     school_name = Configs.fake['school_name']

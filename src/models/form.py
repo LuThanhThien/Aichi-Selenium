@@ -1,10 +1,11 @@
 from src.utils import data_utils as du
 from src.globals import URLs
+import re
 
 DEFAULT_TITLE = 'title'
 DEFAULT_STATUS = 'status'
 DEFAULT_START_DATE_STR = '2000年1月1日 00時00分'
-DEFAULT_END_DATE_STR = '2000年1月1日 00時00分'
+DEFAULT_END_DATE_STR = '2100年1月1日 00時00分'
 DEFAULT_TEMPLATE_SEQ = 0
 DEFAULT_URL = URLs.form_prefix_url + str(DEFAULT_TEMPLATE_SEQ)
 DEFAULT_IS_OPEN = False
@@ -65,15 +66,15 @@ class FormInfo:
                ) -> None:
       self.title = title
       self.status = status
-      self.start_date_str = start_date_str
-      self.end_date_str = end_date_str
+      self.start_date_str = start_date_str if re.match(du.MATCH_DATETIME_FORMAT, start_date_str) else DEFAULT_START_DATE_STR
+      self.end_date_str = end_date_str if re.match(du.MATCH_DATETIME_FORMAT, end_date_str) else DEFAULT_END_DATE_STR
       self.template_seq = template_seq
 
-      self.url = FormInfo.get_url(template_seq)
-      self.start_datetime = du.string_to_datetime(start_date_str)
-      self.end_datetime = du.string_to_datetime(end_date_str)
-      self.start_date = du.string_to_date(start_date_str)
-      self.end_date = du.string_to_date(end_date_str)
+      self.url = FormInfo.get_url(self.template_seq)
+      self.start_datetime = du.string_to_datetime(self.start_date_str)
+      self.end_datetime = du.string_to_datetime(self.end_date_str)
+      self.start_date = du.string_to_date(self.start_date_str)
+      self.end_date = du.string_to_date(self.end_date_str)
       self.datetime_diff = du.int_timedelta(du.get_jst_datetime(), self.start_datetime)
       self.date_diff = du.int_timedelta(du.get_jst_date(), self.start_date)
       
@@ -84,6 +85,10 @@ class FormInfo:
    @staticmethod
    def get_url(temp_seq: int = DEFAULT_TEMPLATE_SEQ):
       return URLs.form_prefix_url + str(temp_seq)
+   
+   @staticmethod
+   def default_form():
+      return FormInfo()
 
    def set_filled(self):
       self._filled = True

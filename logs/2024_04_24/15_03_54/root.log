@@ -1,0 +1,224 @@
+[ 2024-04-24 15:03:54,407 ] 91 root - INFO - Starting all threads
+[ 2024-04-24 15:03:54,407 ] 91 root - INFO - Starting all threads
+[ 2024-04-24 15:03:54,408 ] 91 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': '行政', 'test_mode': True, 'debug_mode': True, 'onlyday': True, 'max_num_retry': 5, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': False, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-24 15:03:54,408 ] 91 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': '行政', 'test_mode': True, 'debug_mode': True, 'onlyday': True, 'max_num_retry': 5, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': False, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-24 15:03:54,408 ] 91 root - INFO - Number of dev accounts: 0
+[ 2024-04-24 15:03:54,408 ] 91 root - INFO - Number of dev accounts: 0
+[ 2024-04-24 15:03:54,408 ] 91 root - INFO - Test mode: True
+[ 2024-04-24 15:03:54,408 ] 91 root - INFO - Test mode: True
+[ 2024-04-24 15:03:54,411 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-24 15:03:54,412 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-24 15:03:56,434 ] 91 root - INFO - Thread 0 started
+[ 2024-04-24 15:03:56,434 ] 91 root - INFO - Thread 0 started
+[ 2024-04-24 15:03:56,745 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-24 15:04:02,556 ] 91 luthien5921 - INFO - Opened login page
+[ 2024-04-24 15:04:06,695 ] 91 luthien5921 - INFO - Logging in
+[ 2024-04-24 15:04:06,703 ] 91 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-24 15:04:07,013 ] 91 luthien5921 - INFO - Logged in finished
+[ 2024-04-24 15:04:07,014 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-24 15:04:07,237 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_24\15_03_54\screenshot_luthien5921.png
+[ 2024-04-24 15:04:07,237 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-24 15:04:07,244 ] 91 luthien5921 - INFO - On main page
+[ 2024-04-24 15:04:08,799 ] 91 luthien5921 - INFO - Search submitted
+[ 2024-04-24 15:04:08,820 ] 91 luthien5921 - INFO - Collected 2 forms
+[ 2024-04-24 15:04:08,853 ] 79 main_controller - ERROR - Caught exception: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 25, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 58, in _collect
+    form_info = self._parse_data(form_text)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 97, in _parse_data
+    form_info = FormInfo(title, status, start_date_str, end_date_str, template_seq)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\models\form.py", line 79, in __init__
+    self.end_date = du.string_to_date(end_date_str)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\data_utils.py", line 57, in string_to_datetime
+    year = int(match_date.group(1))
+AttributeError: 'NoneType' object has no attribute 'group'
+[ 2024-04-24 15:04:11,062 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-24 15:04:13,209 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-24 15:04:18,982 ] 91 luthien5921 - INFO - Opened login page
+[ 2024-04-24 15:04:23,074 ] 91 luthien5921 - INFO - Logging in
+[ 2024-04-24 15:04:23,080 ] 91 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-24 15:04:23,389 ] 91 luthien5921 - INFO - Logged in finished
+[ 2024-04-24 15:04:23,389 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-24 15:04:23,605 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_24\15_03_54\screenshot_luthien5921.png
+[ 2024-04-24 15:04:23,606 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-24 15:04:23,610 ] 91 luthien5921 - INFO - On main page
+[ 2024-04-24 15:04:25,424 ] 91 luthien5921 - INFO - Search submitted
+[ 2024-04-24 15:04:25,441 ] 91 luthien5921 - INFO - Collected 2 forms
+[ 2024-04-24 15:04:25,481 ] 79 main_controller - ERROR - Caught exception: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 25, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 58, in _collect
+    form_info = self._parse_data(form_text)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 97, in _parse_data
+    form_info = FormInfo(title, status, start_date_str, end_date_str, template_seq)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\models\form.py", line 79, in __init__
+    self.end_date = du.string_to_date(end_date_str)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\data_utils.py", line 57, in string_to_datetime
+    year = int(match_date.group(1))
+AttributeError: 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 25, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 58, in _collect
+    form_info = self._parse_data(form_text)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 97, in _parse_data
+    form_info = FormInfo(title, status, start_date_str, end_date_str, template_seq)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\models\form.py", line 79, in __init__
+    self.end_date = du.string_to_date(end_date_str)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\data_utils.py", line 57, in string_to_datetime
+    year = int(match_date.group(1))
+AttributeError: 'NoneType' object has no attribute 'group'
+[ 2024-04-24 15:04:27,697 ] 91 main_controller - INFO - Subprocess 0 started with trial number 2
+[ 2024-04-24 15:04:29,807 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-24 15:04:35,604 ] 91 luthien5921 - INFO - Opened login page
+[ 2024-04-24 15:04:39,480 ] 91 luthien5921 - INFO - Logging in
+[ 2024-04-24 15:04:39,486 ] 91 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-24 15:04:39,793 ] 91 luthien5921 - INFO - Logged in finished
+[ 2024-04-24 15:04:39,793 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-24 15:04:40,016 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_24\15_03_54\screenshot_luthien5921.png
+[ 2024-04-24 15:04:40,017 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-24 15:04:40,021 ] 91 luthien5921 - INFO - On main page
+[ 2024-04-24 15:04:41,833 ] 91 luthien5921 - INFO - Search submitted
+[ 2024-04-24 15:04:41,850 ] 91 luthien5921 - INFO - Collected 2 forms
+[ 2024-04-24 15:04:41,881 ] 79 main_controller - ERROR - Caught exception: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 25, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 58, in _collect
+    form_info = self._parse_data(form_text)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 97, in _parse_data
+    form_info = FormInfo(title, status, start_date_str, end_date_str, template_seq)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\models\form.py", line 79, in __init__
+    self.end_date = du.string_to_date(end_date_str)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\data_utils.py", line 57, in string_to_datetime
+    year = int(match_date.group(1))
+AttributeError: 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 25, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 58, in _collect
+    form_info = self._parse_data(form_text)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 97, in _parse_data
+    form_info = FormInfo(title, status, start_date_str, end_date_str, template_seq)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\models\form.py", line 79, in __init__
+    self.end_date = du.string_to_date(end_date_str)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\data_utils.py", line 57, in string_to_datetime
+    year = int(match_date.group(1))
+AttributeError: 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 25, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 58, in _collect
+    form_info = self._parse_data(form_text)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 97, in _parse_data
+    form_info = FormInfo(title, status, start_date_str, end_date_str, template_seq)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\models\form.py", line 79, in __init__
+    self.end_date = du.string_to_date(end_date_str)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\data_utils.py", line 57, in string_to_datetime
+    year = int(match_date.group(1))
+AttributeError: 'NoneType' object has no attribute 'group'
+[ 2024-04-24 15:04:44,096 ] 91 main_controller - INFO - Subprocess 0 started with trial number 3
+[ 2024-04-24 15:04:46,054 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-24 15:04:51,711 ] 91 luthien5921 - INFO - Opened login page
+[ 2024-04-24 15:04:55,609 ] 91 luthien5921 - INFO - Logging in
+[ 2024-04-24 15:04:55,615 ] 91 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-24 15:04:55,935 ] 91 luthien5921 - INFO - Logged in finished
+[ 2024-04-24 15:04:55,936 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-24 15:04:56,129 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_24\15_03_54\screenshot_luthien5921.png
+[ 2024-04-24 15:04:56,130 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-24 15:04:56,134 ] 91 luthien5921 - INFO - On main page
+[ 2024-04-24 15:04:57,578 ] 91 luthien5921 - INFO - Search submitted
+[ 2024-04-24 15:04:57,609 ] 91 luthien5921 - INFO - Collected 2 forms
+[ 2024-04-24 15:04:57,660 ] 79 main_controller - ERROR - Caught exception: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 25, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 58, in _collect
+    form_info = self._parse_data(form_text)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 97, in _parse_data
+    form_info = FormInfo(title, status, start_date_str, end_date_str, template_seq)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\models\form.py", line 79, in __init__
+    self.end_date = du.string_to_date(end_date_str)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\data_utils.py", line 57, in string_to_datetime
+    year = int(match_date.group(1))
+AttributeError: 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 25, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 58, in _collect
+    form_info = self._parse_data(form_text)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 97, in _parse_data
+    form_info = FormInfo(title, status, start_date_str, end_date_str, template_seq)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\models\form.py", line 79, in __init__
+    self.end_date = du.string_to_date(end_date_str)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\data_utils.py", line 57, in string_to_datetime
+    year = int(match_date.group(1))
+AttributeError: 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 25, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 58, in _collect
+    form_info = self._parse_data(form_text)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 97, in _parse_data
+    form_info = FormInfo(title, status, start_date_str, end_date_str, template_seq)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\models\form.py", line 79, in __init__
+    self.end_date = du.string_to_date(end_date_str)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\data_utils.py", line 57, in string_to_datetime
+    year = int(match_date.group(1))
+AttributeError: 'NoneType' object has no attribute 'group'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 25, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 58, in _collect
+    form_info = self._parse_data(form_text)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 97, in _parse_data
+    form_info = FormInfo(title, status, start_date_str, end_date_str, template_seq)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\models\form.py", line 79, in __init__
+    self.end_date = du.string_to_date(end_date_str)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\data_utils.py", line 57, in string_to_datetime
+    year = int(match_date.group(1))
+AttributeError: 'NoneType' object has no attribute 'group'
+[ 2024-04-24 15:04:59,876 ] 91 main_controller - INFO - Subprocess 0 started with trial number 4
+[ 2024-04-24 15:05:01,964 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-24 15:05:07,441 ] 91 luthien5921 - INFO - Opened login page

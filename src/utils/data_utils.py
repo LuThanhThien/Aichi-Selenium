@@ -4,7 +4,9 @@ from pytz import timezone
 
 JAPAN_TIMEZONE = timezone('Asia/Tokyo')
 DATETIME_FORMAT = r'%Y-%m-%d %H:%M:%S'
-MATCH_FORMAT = r'(\d{4})年(\d{1,2})月(\d{1,2})日 (\d{2})時(\d{2})分'
+MATCH_DATE = r'(\d{4})年(\d{1,2})月(\d{1,2})日'
+MATCH_TIME = r'(\d{2})時(\d{2})分'
+MATCH_DATETIME_FORMAT = r'(\d{4})年(\d{1,2})月(\d{1,2})日 (\d{2})時(\d{2})分'
 
 def dash_format(phone_number):
    # Ensure the phone number is a string
@@ -45,7 +47,7 @@ def only_alphabets(alpha_str):
 def only_alphabets_and_numbers(alpha_num_str):
    return re.sub(r'\W', '', alpha_num_str)
 
-def string_to_datetime(string_date=None, match_format=MATCH_FORMAT):
+def string_to_datetime(string_date=None, match_format=MATCH_DATETIME_FORMAT):
     # return None if no date string is provided
     if string_date is None:
         return None
@@ -63,7 +65,7 @@ def string_to_datetime(string_date=None, match_format=MATCH_FORMAT):
     
     return target_datetime
 
-def string_to_date(string_date=None, match_format=MATCH_FORMAT):
+def string_to_date(string_date=None, match_format=MATCH_DATETIME_FORMAT):
       # return None if no date string is provided
       if string_date is None:
          return None

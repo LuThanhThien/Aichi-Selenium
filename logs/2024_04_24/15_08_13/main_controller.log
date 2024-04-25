@@ -1,0 +1,14 @@
+[ 2024-04-24 15:08:13,744 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-24 15:08:13,745 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-24 15:08:15,771 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-24 15:08:25,956 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-24 15:08:26,211 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_24\15_08_13\screenshot_luthien5921.png
+[ 2024-04-24 15:08:26,212 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-24 15:08:27,870 ] 91 main_controller - INFO - Found 2 form(s)
+[ 2024-04-24 15:08:27,871 ] 91 main_controller - INFO - Customers: [{'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205'}, {'first_name': 'Thi Le Lai', 'last_name': 'Tran', 'date_birth': '19000101'}]
+[ 2024-04-24 15:08:27,871 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-24 15:08:27,872 ] 91 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム
+[ 2024-04-24 15:08:48,304 ] 91 main_controller - INFO - Failed to fill form, template sequence: 3895
+[ 2024-04-24 15:08:48,304 ] 91 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-24 15:08:48,304 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Van Long', 'last_name': 'Luong', 'date_birth': '19920205', 'phone_number': '080-1583-0891', 'nation': 'ベトナム', 'country': 'ベトナム', 'gender': 'M'}
+[ 2024-04-24 15:08:48,304 ] 91 main_controller - INFO - Customer index 0: Luong Van Long, M, 19920205, 080-1583-0891, ベトナム

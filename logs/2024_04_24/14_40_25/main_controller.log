@@ -1,0 +1,6 @@
+[ 2024-04-24 14:40:25,753 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-24 14:40:25,754 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-24 14:40:27,962 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-24 14:40:38,552 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-24 14:40:38,806 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_24\14_40_25\screenshot_luthien5921.png
+[ 2024-04-24 14:40:38,807 ] 91 main_controller - INFO - Finding forms

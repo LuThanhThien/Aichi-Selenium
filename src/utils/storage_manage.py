@@ -13,6 +13,11 @@ def create_dir(folder_path: str) -> None:
       print(f"Folder '{folder_path}' created.")
    else:
       print(f"Folder '{folder_path}' already exists.")
+
+def create_dirs(*folder_paths: list) -> None:
+   """Create multiple folders if they do not exist."""
+   for folder_path in folder_paths:
+      create_dir(folder_path)
       
 def create_file(file_path: str) -> None:
    """Create a file if it does not exist."""
@@ -21,6 +26,11 @@ def create_file(file_path: str) -> None:
       print(f"File '{file_path}' created.")
    else:
       print(f"File '{file_path}' already exists.")
+
+def create_files(*file_paths: list) -> None:
+   """Create multiple files if they do not exist."""
+   for file_path in file_paths:
+      create_file(file_path)
 
 def delete_dir(dir_path: str) -> None:
    """Delete a dir if it exists."""

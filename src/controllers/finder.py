@@ -1,12 +1,14 @@
 from typing import List
 import time
+import re
 
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.common.by import By
 
 from src.globals import URLs, Meta
 from .base_controller import BaseController
-from src.models import Account, FormInfo
+from src.models import Account, FormInfo, DateLabel
+from src.utils import data_utils as du
 
 
 class Finder(BaseController):
@@ -59,11 +61,11 @@ class Finder(BaseController):
          if any([form_info.is_passed_status and not Meta.test_mode, 
                  form_info.is_not_today and not Meta.test_mode,
                  form_info.is_ended_status,]):
-            # self.logger.info("Skip form with passed, ended, or not today status")
+            self.logger.debug("Skip form with passed, ended, or not today status") if Meta.debug_mode else None
             continue
          
          if Meta.onlyday and form_info.title.__contains__("＜"):
-            # self.logger.info("Skip form with ＜ in title for onlyday mode")
+            self.logger.debug("Skip form with ＜ in title for onlyday mode") if Meta.debug_mode else None
             continue
 
          # Append form info to list
@@ -78,14 +80,20 @@ class Finder(BaseController):
          self.logger.info("{}".format(form_info))
 
    def _parse_data(self, form_info_text: str) -> FormInfo:
-      # self.logger.info(form_info_text)
-      text_list = form_info_text.split("\n")
-      title = text_list[0]
-      status = text_list[1] if len(text_list) >= 8 else None
-      start_date_str = text_list[-6] + " " + text_list[-5]
-      end_date_str = text_list[-3] + " " + text_list[-2]
-      template_seq = text_list[-1]
-      # self.logger.info("Parsed data: title: {}, status: {}, start_date: {}, end_date: {}, template_seq: {}".format(title, status, start_date_str, end_date_str, template_seq))
+      self.logger.debug(form_info_text) if Meta.debug_mode else None
+      # Split text into list
+      title = form_info_text.split("\n")[0]
+      half_start = form_info_text.split(DateLabel.START_DATE)[0]
+      status = half_start.split("\n")[-1] if len(half_start.split("\n")) > 1 else None
+      # start date
+      start_date_str = form_info_text.split(DateLabel.START_DATE + "\n")[1]
+      start_date_str = " ".join(start_date_str.split("\n")[:2])
+      # end date
+      end_date_str = form_info_text.split(DateLabel.END_DATE + "\n")[1]
+      end_date_str = " ".join(end_date_str.split("\n")[:2])
+      # template sequence
+      template_seq = form_info_text.split("\n")[-1]
+      self.logger.debug("Parsed data: title: {}, status: {}, start_date: {}, end_date: {}, template_seq: {}".format(title, status, start_date_str, end_date_str, template_seq)) if Meta.debug_mode else None
       form_info = FormInfo(title, status, start_date_str, end_date_str, template_seq)
       return form_info
    

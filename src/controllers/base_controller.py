@@ -8,4 +8,4 @@ class BaseController:
          self.account = Account(**account)
       else:
          self.account = account
-      self.logger = BaseLogger.get(self.account.name)
+      self.logger : BaseLogger = BaseLogger.get(self.account.name)

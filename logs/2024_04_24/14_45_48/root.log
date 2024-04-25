@@ -1,0 +1,48 @@
+[ 2024-04-24 14:45:48,452 ] 91 root - INFO - Starting all threads
+[ 2024-04-24 14:45:48,452 ] 91 root - INFO - Starting all threads
+[ 2024-04-24 14:45:48,453 ] 91 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': '行政', 'test_mode': True, 'debug_mode': False, 'onlyday': True, 'max_num_retry': 5, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': False, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-24 14:45:48,453 ] 91 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': '行政', 'test_mode': True, 'debug_mode': False, 'onlyday': True, 'max_num_retry': 5, 'default_num_threads': 1, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': False, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-24 14:45:48,453 ] 91 root - INFO - Number of dev accounts: 0
+[ 2024-04-24 14:45:48,453 ] 91 root - INFO - Number of dev accounts: 0
+[ 2024-04-24 14:45:48,453 ] 91 root - INFO - Test mode: True
+[ 2024-04-24 14:45:48,453 ] 91 root - INFO - Test mode: True
+[ 2024-04-24 14:45:48,455 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-24 14:45:48,456 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-24 14:45:50,471 ] 91 root - INFO - Thread 0 started
+[ 2024-04-24 14:45:50,471 ] 91 root - INFO - Thread 0 started
+[ 2024-04-24 14:45:50,577 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-24 14:45:56,811 ] 91 luthien5921 - INFO - Opened login page
+[ 2024-04-24 14:46:00,611 ] 91 luthien5921 - INFO - Logging in
+[ 2024-04-24 14:46:00,615 ] 91 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-24 14:46:00,927 ] 91 luthien5921 - INFO - Logged in finished
+[ 2024-04-24 14:46:00,927 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-24 14:46:01,214 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_24\14_45_48\screenshot_luthien5921.png
+[ 2024-04-24 14:46:01,214 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-24 14:46:01,221 ] 91 luthien5921 - INFO - On main page
+[ 2024-04-24 14:46:03,138 ] 91 luthien5921 - INFO - Search submitted
+[ 2024-04-24 14:46:03,154 ] 91 luthien5921 - INFO - Collected 2 forms
+[ 2024-04-24 14:46:03,192 ] 79 main_controller - ERROR - Caught exception: 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 72, in subprocess
+    list_form_info = finder.find(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 23, in find
+    self._collect(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 56, in _collect
+    form_info = self._parse_data(form_text)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\finder.py", line 95, in _parse_data
+    form_info = FormInfo(title, status, start_date_str, end_date_str, template_seq)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\models\form.py", line 74, in __init__
+    self.end_datetime = du.string_to_datetime(end_date_str)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\data_utils.py", line 55, in string_to_datetime
+    year = int(match_date.group(1))
+AttributeError: 'NoneType' object has no attribute 'group'
+[ 2024-04-24 14:46:06,431 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-24 14:46:08,566 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-24 14:46:14,272 ] 91 luthien5921 - INFO - Opened login page
+[ 2024-04-24 14:46:17,535 ] 91 luthien5921 - INFO - Logging in
+[ 2024-04-24 14:46:17,539 ] 91 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-24 14:46:17,845 ] 91 luthien5921 - INFO - Logged in finished
+[ 2024-04-24 14:46:17,845 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-24 14:46:18,148 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_24\14_45_48\screenshot_luthien5921.png
+[ 2024-04-24 14:46:18,149 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-24 14:46:18,156 ] 91 luthien5921 - INFO - On main page
