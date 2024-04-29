@@ -83,8 +83,6 @@ class MainController:
                customer_index = index % Customers.num_customers
                customer_info = Customers.get_customer(customer_index)
                customer_info['phone_number'] = Meta.main_phone_number_dash
-               customer_info['nation'] = 'ベトナム'
-               customer_info['country'] = 'ベトナム'
                customer_info['gender'] = random.choice(['M', 'F'])
                main_logger.info("Customer info index {}: {}".format(customer_index, customer_info))
                customer = Customer.safe_load(**customer_info)

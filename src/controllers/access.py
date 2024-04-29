@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from src.globals import URLs
 from src.models import Account
 from .base_controller import BaseController
+from src.utils.html_utils import wait_until_presence
 
 class Access(BaseController):
    def __init__(self, account: Account = None) -> None:
@@ -25,6 +26,7 @@ class Access(BaseController):
             self.logger.info("Opened login page")
             count_to_login += 1
             time.sleep(1)
+            wait_until_presence(browser, By.ID, "userLoginForm.userId")
          
 
          count_login = 0
