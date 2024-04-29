@@ -1,9 +1,0 @@
-[ 2024-04-15 23:49:33,014 ] 97 main_controller - ERROR - Account is None, choose a random account: {'username': 'piechipiechipeach@gmail.com', 'password': 'aichi@5921'}
-[ 2024-04-15 23:49:34,023 ] 97 root - INFO - Thread 0 started
-[ 2024-04-15 23:49:34,023 ] 97 root - INFO - Thread 0 started
-[ 2024-04-15 23:49:35,436 ] 97 main_controller - INFO - Browser opened
-[ 2024-04-15 23:49:40,955 ] 97 piechipiechipeach@gmail.com - INFO - Opened login page
-[ 2024-04-15 23:49:43,787 ] 97 piechipiechipeach@gmail.com - INFO - Logged in successfully
-[ 2024-04-15 23:49:44,001 ] 97 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_15\23_49_32\screenshot_0.png
-[ 2024-04-15 23:49:54,016 ] 97 main_controller - INFO - Closing browser
-[ 2024-04-15 23:49:56,220 ] 97 main_controller - INFO - Browser closed

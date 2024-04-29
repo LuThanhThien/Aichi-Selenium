@@ -1,7 +1,0 @@
-[ 2024-04-15 23:39:01,734 ] 97 main_controller - ERROR - Account is None, choose a random account: {'username': 'piechipiechipeach@gmail.com', 'password': 'aichi@5921'}
-[ 2024-04-15 23:39:01,735 ] 85 main_controller - ERROR - Caught exception: '_GeneratorContextManager' object has no attribute 'maximize_window'
-Traceback (most recent call last):
-  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 26, in subprocess
-    browser.maximize_window()
-AttributeError: '_GeneratorContextManager' object has no attribute 'maximize_window'
-[ 2024-04-15 23:39:01,735 ] 97 main_controller - INFO - Closing browser
