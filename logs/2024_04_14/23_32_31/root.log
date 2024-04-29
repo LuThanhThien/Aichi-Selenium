@@ -1,2 +1,0 @@
-[ 2024-04-14 23:32:31,804 ] 85 main_app - INFO - This is an info message from the logger
-[ 2024-04-14 23:32:33,814 ] 85 filler - INFO - This is an info message from the filler logger

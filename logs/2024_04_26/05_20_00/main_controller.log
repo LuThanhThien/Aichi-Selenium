@@ -1,0 +1,304 @@
+[ 2024-04-26 05:20:01,732 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-26 05:20:01,733 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-26 05:20:03,739 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-26 05:20:03,739 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-26 05:20:03,741 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei1@gmail.com, Password: aichi@5921
+[ 2024-04-26 05:20:03,741 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei1@gmail.com, Password: aichi@5921
+[ 2024-04-26 05:20:05,197 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-26 05:20:05,197 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-26 05:20:05,749 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-26 05:20:05,749 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-26 05:20:05,749 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-26 05:20:05,749 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-04-26 05:20:05,749 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-04-26 05:20:05,749 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-04-26 05:20:07,042 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-26 05:20:07,042 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-26 05:20:07,042 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-26 05:20:13,971 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-26 05:20:13,971 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-26 05:20:13,971 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-26 05:20:19,849 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-26 05:20:19,849 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-26 05:20:19,849 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-26 05:20:20,201 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_26\05_20_00\screenshot_luthien5921.png
+[ 2024-04-26 05:20:20,201 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_26\05_20_00\screenshot_luthien5921.png
+[ 2024-04-26 05:20:20,201 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_26\05_20_00\screenshot_luthien5921.png
+[ 2024-04-26 05:20:20,203 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-26 05:20:20,203 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-26 05:20:20,203 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-26 05:20:20,854 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-26 05:20:20,854 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-26 05:20:20,854 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-26 05:20:20,916 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.62); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF653E9F922+3045234]
+	(No symbol) [0x00007FF653B43652]
+	(No symbol) [0x00007FF653A07564]
+	(No symbol) [0x00007FF653A55F9D]
+	(No symbol) [0x00007FF653A5606C]
+	(No symbol) [0x00007FF653A9BDD7]
+	(No symbol) [0x00007FF653A79DEF]
+	(No symbol) [0x00007FF653A991C4]
+	(No symbol) [0x00007FF653A79B53]
+	(No symbol) [0x00007FF653A4813C]
+	(No symbol) [0x00007FF653A48D71]
+	GetHandleVerifier [0x00007FF653ECE89D+3237613]
+	GetHandleVerifier [0x00007FF653F10BA7+3508727]
+	GetHandleVerifier [0x00007FF653F0976F+3478975]
+	GetHandleVerifier [0x00007FF653C7F1C6+815126]
+	(No symbol) [0x00007FF653B4ED0F]
+	(No symbol) [0x00007FF653B49854]
+	(No symbol) [0x00007FF653B499E2]
+	(No symbol) [0x00007FF653B3A574]
+	BaseThreadInitThunk [0x00007FFB6BC7257D+29]
+	RtlUserThreadStart [0x00007FFB6C70AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-26 05:20:20,916 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.62); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF653E9F922+3045234]
+	(No symbol) [0x00007FF653B43652]
+	(No symbol) [0x00007FF653A07564]
+	(No symbol) [0x00007FF653A55F9D]
+	(No symbol) [0x00007FF653A5606C]
+	(No symbol) [0x00007FF653A9BDD7]
+	(No symbol) [0x00007FF653A79DEF]
+	(No symbol) [0x00007FF653A991C4]
+	(No symbol) [0x00007FF653A79B53]
+	(No symbol) [0x00007FF653A4813C]
+	(No symbol) [0x00007FF653A48D71]
+	GetHandleVerifier [0x00007FF653ECE89D+3237613]
+	GetHandleVerifier [0x00007FF653F10BA7+3508727]
+	GetHandleVerifier [0x00007FF653F0976F+3478975]
+	GetHandleVerifier [0x00007FF653C7F1C6+815126]
+	(No symbol) [0x00007FF653B4ED0F]
+	(No symbol) [0x00007FF653B49854]
+	(No symbol) [0x00007FF653B499E2]
+	(No symbol) [0x00007FF653B3A574]
+	BaseThreadInitThunk [0x00007FFB6BC7257D+29]
+	RtlUserThreadStart [0x00007FFB6C70AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-26 05:20:20,916 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, NoSuchElementException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 38, in login
+    browser.find_element(By.ID, "userLoginForm.userId").send_keys(self.account.username)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="userLoginForm.userId"]"}
+  (Session info: chrome=124.0.6367.62); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF653E9F922+3045234]
+	(No symbol) [0x00007FF653B43652]
+	(No symbol) [0x00007FF653A07564]
+	(No symbol) [0x00007FF653A55F9D]
+	(No symbol) [0x00007FF653A5606C]
+	(No symbol) [0x00007FF653A9BDD7]
+	(No symbol) [0x00007FF653A79DEF]
+	(No symbol) [0x00007FF653A991C4]
+	(No symbol) [0x00007FF653A79B53]
+	(No symbol) [0x00007FF653A4813C]
+	(No symbol) [0x00007FF653A48D71]
+	GetHandleVerifier [0x00007FF653ECE89D+3237613]
+	GetHandleVerifier [0x00007FF653F10BA7+3508727]
+	GetHandleVerifier [0x00007FF653F0976F+3478975]
+	GetHandleVerifier [0x00007FF653C7F1C6+815126]
+	(No symbol) [0x00007FF653B4ED0F]
+	(No symbol) [0x00007FF653B49854]
+	(No symbol) [0x00007FF653B499E2]
+	(No symbol) [0x00007FF653B3A574]
+	BaseThreadInitThunk [0x00007FFB6BC7257D+29]
+	RtlUserThreadStart [0x00007FFB6C70AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 51, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, NoSuchElementException found
+[ 2024-04-26 05:20:21,137 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_26\05_20_00\screenshot_luthien5921+shinsei1.png
+[ 2024-04-26 05:20:21,137 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_26\05_20_00\screenshot_luthien5921+shinsei1.png
+[ 2024-04-26 05:20:21,137 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_26\05_20_00\screenshot_luthien5921+shinsei1.png
+[ 2024-04-26 05:20:21,138 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-26 05:20:21,138 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-26 05:20:21,138 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-26 05:20:23,126 ] 91 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-04-26 05:20:23,126 ] 91 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-04-26 05:20:23,126 ] 91 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-04-26 05:20:23,126 ] 91 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-04-26 05:20:24,678 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-26 05:20:24,678 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-26 05:20:24,678 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-26 05:20:24,678 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-26 05:20:34,416 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-26 05:20:34,416 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-26 05:20:34,416 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-26 05:20:34,416 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-26 05:20:34,652 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_26\05_20_00\screenshot_luthien5921+shinsei2.png
+[ 2024-04-26 05:20:34,652 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_26\05_20_00\screenshot_luthien5921+shinsei2.png
+[ 2024-04-26 05:20:34,652 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_26\05_20_00\screenshot_luthien5921+shinsei2.png
+[ 2024-04-26 05:20:34,652 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_04_26\05_20_00\screenshot_luthien5921+shinsei2.png
+[ 2024-04-26 05:20:34,652 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-26 05:20:34,652 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-26 05:20:34,652 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-26 05:20:34,652 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-26 05:30:03,892 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-26 05:30:03,892 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-26 05:30:03,892 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-26 05:30:03,892 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-26 05:30:03,895 ] 91 main_controller - INFO - Customers: None
+[ 2024-04-26 05:30:03,895 ] 91 main_controller - INFO - Customers: None
+[ 2024-04-26 05:30:03,895 ] 91 main_controller - INFO - Customers: None
+[ 2024-04-26 05:30:03,895 ] 91 main_controller - INFO - Customers: None
+[ 2024-04-26 05:30:07,473 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-26 05:30:07,473 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-26 05:30:07,473 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-26 05:30:07,473 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-26 05:30:07,473 ] 91 main_controller - INFO - Customers: None
+[ 2024-04-26 05:30:07,473 ] 91 main_controller - INFO - Customers: None
+[ 2024-04-26 05:30:07,473 ] 91 main_controller - INFO - Customers: None
+[ 2024-04-26 05:30:07,473 ] 91 main_controller - INFO - Customers: None
+[ 2024-04-26 05:30:08,143 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-26 05:30:08,143 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-26 05:30:08,143 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-26 05:30:08,143 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-26 05:30:08,143 ] 91 main_controller - INFO - Customers: None
+[ 2024-04-26 05:30:08,143 ] 91 main_controller - INFO - Customers: None
+[ 2024-04-26 05:30:08,143 ] 91 main_controller - INFO - Customers: None
+[ 2024-04-26 05:30:08,143 ] 91 main_controller - INFO - Customers: None
+[ 2024-04-26 05:30:28,212 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96823
+[ 2024-04-26 05:30:28,212 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96823
+[ 2024-04-26 05:30:28,212 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96823
+[ 2024-04-26 05:30:28,212 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96823
+[ 2024-04-26 05:30:28,212 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:30:28,212 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:30:28,212 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:30:28,212 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:30:33,488 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96823
+[ 2024-04-26 05:30:33,488 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96823
+[ 2024-04-26 05:30:33,488 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96823
+[ 2024-04-26 05:30:33,488 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96823
+[ 2024-04-26 05:30:33,488 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:30:33,488 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:30:33,488 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:30:33,488 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:30:34,067 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96822
+[ 2024-04-26 05:30:34,067 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96822
+[ 2024-04-26 05:30:34,067 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96822
+[ 2024-04-26 05:30:34,067 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96822
+[ 2024-04-26 05:30:34,067 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:30:34,067 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:30:34,067 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:30:34,067 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:31:34,747 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96821
+[ 2024-04-26 05:31:34,747 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96821
+[ 2024-04-26 05:31:34,747 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96821
+[ 2024-04-26 05:31:34,747 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96821
+[ 2024-04-26 05:31:34,747 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:31:34,747 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:31:34,747 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:31:34,747 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:31:40,086 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96822
+[ 2024-04-26 05:31:40,086 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96822
+[ 2024-04-26 05:31:40,086 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96822
+[ 2024-04-26 05:31:40,086 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96822
+[ 2024-04-26 05:31:40,086 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:31:40,086 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:31:40,086 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:31:40,086 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:31:40,678 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96821
+[ 2024-04-26 05:31:40,678 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96821
+[ 2024-04-26 05:31:40,678 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96821
+[ 2024-04-26 05:31:40,678 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96821
+[ 2024-04-26 05:31:40,678 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:31:40,678 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:31:40,678 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:31:40,678 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:32:41,397 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96822
+[ 2024-04-26 05:32:41,397 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96822
+[ 2024-04-26 05:32:41,397 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96822
+[ 2024-04-26 05:32:41,397 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96822
+[ 2024-04-26 05:32:41,397 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:32:41,397 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:32:41,397 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:32:41,397 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:32:46,708 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96821
+[ 2024-04-26 05:32:46,708 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96821
+[ 2024-04-26 05:32:46,708 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96821
+[ 2024-04-26 05:32:46,708 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96821
+[ 2024-04-26 05:32:46,709 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:32:46,709 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:32:46,709 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:32:46,709 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:32:47,222 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96823
+[ 2024-04-26 05:32:47,222 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96823
+[ 2024-04-26 05:32:47,222 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96823
+[ 2024-04-26 05:32:47,222 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96823
+[ 2024-04-26 05:32:47,222 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:32:47,222 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:32:47,222 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-26 05:32:47,222 ] 91 main_controller - INFO - Remaining form(s): 3
