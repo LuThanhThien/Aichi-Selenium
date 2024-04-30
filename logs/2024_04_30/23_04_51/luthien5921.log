@@ -1,0 +1,846 @@
+[ 2024-04-30 23:04:58,930 ] 91 luthien5921 - INFO - Opened login page
+[ 2024-04-30 23:04:58,930 ] 91 luthien5921 - INFO - Opened login page
+[ 2024-04-30 23:04:58,930 ] 91 luthien5921 - INFO - Opened login page
+[ 2024-04-30 23:05:04,845 ] 91 luthien5921 - INFO - Logging in
+[ 2024-04-30 23:05:04,845 ] 91 luthien5921 - INFO - Logging in
+[ 2024-04-30 23:05:04,845 ] 91 luthien5921 - INFO - Logging in
+[ 2024-04-30 23:05:04,847 ] 91 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-30 23:05:04,847 ] 91 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-30 23:05:04,847 ] 91 luthien5921 - INFO - Current url: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_initDisplay
+[ 2024-04-30 23:05:05,157 ] 91 luthien5921 - INFO - Logged in finished
+[ 2024-04-30 23:05:05,157 ] 91 luthien5921 - INFO - Logged in finished
+[ 2024-04-30 23:05:05,157 ] 91 luthien5921 - INFO - Logged in finished
+[ 2024-04-30 23:05:05,257 ] 91 luthien5921 - INFO - On main page
+[ 2024-04-30 23:05:05,257 ] 91 luthien5921 - INFO - On main page
+[ 2024-04-30 23:05:05,257 ] 91 luthien5921 - INFO - On main page
+[ 2024-04-30 23:05:07,061 ] 91 luthien5921 - INFO - Search submitted
+[ 2024-04-30 23:05:07,061 ] 91 luthien5921 - INFO - Search submitted
+[ 2024-04-30 23:05:07,061 ] 91 luthien5921 - INFO - Search submitted
+[ 2024-04-30 23:05:07,073 ] 91 luthien5921 - INFO - Collected 2 forms
+[ 2024-04-30 23:05:07,073 ] 91 luthien5921 - INFO - Collected 2 forms
+[ 2024-04-30 23:05:07,073 ] 91 luthien5921 - INFO - Collected 2 forms
+[ 2024-04-30 23:05:07,101 ] 91 luthien5921 - INFO - Number of filtered forms left is: 2 form(s)
+[ 2024-04-30 23:05:07,101 ] 91 luthien5921 - INFO - Number of filtered forms left is: 2 form(s)
+[ 2024-04-30 23:05:07,101 ] 91 luthien5921 - INFO - Number of filtered forms left is: 2 form(s)
+[ 2024-04-30 23:05:07,101 ] 91 luthien5921 - INFO - 行政文書任意開示申出書 -  - 2015年08月19日 09時00分 - 2100年1月1日 00時00分 - 3895 - https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3895 - False
+[ 2024-04-30 23:05:07,101 ] 91 luthien5921 - INFO - 行政文書任意開示申出書 -  - 2015年08月19日 09時00分 - 2100年1月1日 00時00分 - 3895 - https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3895 - False
+[ 2024-04-30 23:05:07,101 ] 91 luthien5921 - INFO - 行政文書任意開示申出書 -  - 2015年08月19日 09時00分 - 2100年1月1日 00時00分 - 3895 - https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3895 - False
+[ 2024-04-30 23:05:07,102 ] 91 luthien5921 - INFO - 行政文書開示請求書 -  - 2015年08月19日 09時00分 - 2100年1月1日 00時00分 - 3896 - https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3896 - False
+[ 2024-04-30 23:05:07,102 ] 91 luthien5921 - INFO - 行政文書開示請求書 -  - 2015年08月19日 09時00分 - 2100年1月1日 00時00分 - 3896 - https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3896 - False
+[ 2024-04-30 23:05:07,102 ] 91 luthien5921 - INFO - 行政文書開示請求書 -  - 2015年08月19日 09時00分 - 2100年1月1日 00時00分 - 3896 - https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3896 - False
+[ 2024-04-30 23:05:07,103 ] 91 luthien5921 - INFO - Accessing form, template sequence: 3895
+[ 2024-04-30 23:05:07,103 ] 91 luthien5921 - INFO - Accessing form, template sequence: 3895
+[ 2024-04-30 23:05:07,103 ] 91 luthien5921 - INFO - Accessing form, template sequence: 3895
+[ 2024-04-30 23:05:07,103 ] 91 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3895
+[ 2024-04-30 23:05:07,103 ] 91 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3895
+[ 2024-04-30 23:05:07,103 ] 91 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3895
+[ 2024-04-30 23:05:13,396 ] 91 luthien5921 - INFO - Accessed form successfully
+[ 2024-04-30 23:05:13,396 ] 91 luthien5921 - INFO - Accessed form successfully
+[ 2024-04-30 23:05:13,396 ] 91 luthien5921 - INFO - Accessed form successfully
+[ 2024-04-30 23:05:13,412 ] 79 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 120, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=124.0.6367.91); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7564]
+	(No symbol) [0x00007FF75FD35F9D]
+	(No symbol) [0x00007FF75FD3606C]
+	(No symbol) [0x00007FF75FD7BDD7]
+	(No symbol) [0x00007FF75FD59DEF]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:05:13,412 ] 79 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 120, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=124.0.6367.91); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7564]
+	(No symbol) [0x00007FF75FD35F9D]
+	(No symbol) [0x00007FF75FD3606C]
+	(No symbol) [0x00007FF75FD7BDD7]
+	(No symbol) [0x00007FF75FD59DEF]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:05:13,412 ] 79 luthien5921 - ERROR - Failed to get form message, maybe form is available
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 120, in get_form_message
+    message = browser.find_element(By.XPATH, "/html/body/main/div/form/div[3]/strong/ul/li/span/strong").text
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\sb_driver.py", line 20, in find_element
+    return self.driver.default_find_element(by=by, value=value)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 741, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/main/div/form/div[3]/strong/ul/li/span/strong"}
+  (Session info: chrome=124.0.6367.91); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7564]
+	(No symbol) [0x00007FF75FD35F9D]
+	(No symbol) [0x00007FF75FD3606C]
+	(No symbol) [0x00007FF75FD7BDD7]
+	(No symbol) [0x00007FF75FD59DEF]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:05:13,414 ] 91 luthien5921 - INFO - Form is available, template sequence: 3895
+[ 2024-04-30 23:05:13,414 ] 91 luthien5921 - INFO - Form is available, template sequence: 3895
+[ 2024-04-30 23:05:13,414 ] 91 luthien5921 - INFO - Form is available, template sequence: 3895
+[ 2024-04-30 23:05:13,414 ] 91 luthien5921 - INFO - Filling form, template sequence: 3895
+[ 2024-04-30 23:05:13,414 ] 91 luthien5921 - INFO - Filling form, template sequence: 3895
+[ 2024-04-30 23:05:13,414 ] 91 luthien5921 - INFO - Filling form, template sequence: 3895
+[ 2024-04-30 23:05:14,528 ] 91 luthien5921 - INFO - Clicked continue button
+[ 2024-04-30 23:05:14,528 ] 91 luthien5921 - INFO - Clicked continue button
+[ 2024-04-30 23:05:14,528 ] 91 luthien5921 - INFO - Clicked continue button
+[ 2024-04-30 23:05:14,551 ] 91 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[15]/dd/fieldset/p[1]/label/span by xpath
+[ 2024-04-30 23:05:14,551 ] 91 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[15]/dd/fieldset/p[1]/label/span by xpath
+[ 2024-04-30 23:05:14,551 ] 91 luthien5921 - INFO - Check checkbox: /html/body/form/main/div/div[4]/dl[15]/dd/fieldset/p[1]/label/span by xpath
+[ 2024-04-30 23:05:14,566 ] 79 luthien5921 - ERROR - Failed to check checkbox: Message: element not interactable
+  (Session info: chrome=124.0.6367.91)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD37292]
+	(No symbol) [0x00007FF75FD29FDB]
+	(No symbol) [0x00007FF75FD59DAA]
+	(No symbol) [0x00007FF75FD29916]
+	(No symbol) [0x00007FF75FD59FC0]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 172, in click_checkbox
+    checkbox_element.click()
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webelement.py", line 94, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=124.0.6367.91)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD37292]
+	(No symbol) [0x00007FF75FD29FDB]
+	(No symbol) [0x00007FF75FD59DAA]
+	(No symbol) [0x00007FF75FD29916]
+	(No symbol) [0x00007FF75FD59FC0]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:05:14,566 ] 79 luthien5921 - ERROR - Failed to check checkbox: Message: element not interactable
+  (Session info: chrome=124.0.6367.91)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD37292]
+	(No symbol) [0x00007FF75FD29FDB]
+	(No symbol) [0x00007FF75FD59DAA]
+	(No symbol) [0x00007FF75FD29916]
+	(No symbol) [0x00007FF75FD59FC0]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 172, in click_checkbox
+    checkbox_element.click()
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webelement.py", line 94, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=124.0.6367.91)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD37292]
+	(No symbol) [0x00007FF75FD29FDB]
+	(No symbol) [0x00007FF75FD59DAA]
+	(No symbol) [0x00007FF75FD29916]
+	(No symbol) [0x00007FF75FD59FC0]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:05:14,566 ] 79 luthien5921 - ERROR - Failed to check checkbox: Message: element not interactable
+  (Session info: chrome=124.0.6367.91)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD37292]
+	(No symbol) [0x00007FF75FD29FDB]
+	(No symbol) [0x00007FF75FD59DAA]
+	(No symbol) [0x00007FF75FD29916]
+	(No symbol) [0x00007FF75FD59FC0]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 172, in click_checkbox
+    checkbox_element.click()
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webelement.py", line 94, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=124.0.6367.91)
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD37292]
+	(No symbol) [0x00007FF75FD29FDB]
+	(No symbol) [0x00007FF75FD59DAA]
+	(No symbol) [0x00007FF75FD29916]
+	(No symbol) [0x00007FF75FD59FC0]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:05:26,499 ] 79 luthien5921 - ERROR - Failed to click confirm button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7564]
+	(No symbol) [0x00007FF75FD35F9D]
+	(No symbol) [0x00007FF75FD3606C]
+	(No symbol) [0x00007FF75FD7BDD7]
+	(No symbol) [0x00007FF75FD59DEF]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 91, in fill
+    wait_until_presence(browser, By.XPATH, "/html/body/form/main/div/div[3]/div[2]/div/div[2]/button")
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7564]
+	(No symbol) [0x00007FF75FD35F9D]
+	(No symbol) [0x00007FF75FD3606C]
+	(No symbol) [0x00007FF75FD7BDD7]
+	(No symbol) [0x00007FF75FD59DEF]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:05:26,499 ] 79 luthien5921 - ERROR - Failed to click confirm button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7564]
+	(No symbol) [0x00007FF75FD35F9D]
+	(No symbol) [0x00007FF75FD3606C]
+	(No symbol) [0x00007FF75FD7BDD7]
+	(No symbol) [0x00007FF75FD59DEF]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 91, in fill
+    wait_until_presence(browser, By.XPATH, "/html/body/form/main/div/div[3]/div[2]/div/div[2]/button")
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7564]
+	(No symbol) [0x00007FF75FD35F9D]
+	(No symbol) [0x00007FF75FD3606C]
+	(No symbol) [0x00007FF75FD7BDD7]
+	(No symbol) [0x00007FF75FD59DEF]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:05:26,499 ] 79 luthien5921 - ERROR - Failed to click confirm button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7564]
+	(No symbol) [0x00007FF75FD35F9D]
+	(No symbol) [0x00007FF75FD3606C]
+	(No symbol) [0x00007FF75FD7BDD7]
+	(No symbol) [0x00007FF75FD59DEF]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 91, in fill
+    wait_until_presence(browser, By.XPATH, "/html/body/form/main/div/div[3]/div[2]/div/div[2]/button")
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7564]
+	(No symbol) [0x00007FF75FD35F9D]
+	(No symbol) [0x00007FF75FD3606C]
+	(No symbol) [0x00007FF75FD7BDD7]
+	(No symbol) [0x00007FF75FD59DEF]
+	(No symbol) [0x00007FF75FD791C4]
+	(No symbol) [0x00007FF75FD59B53]
+	(No symbol) [0x00007FF75FD2813C]
+	(No symbol) [0x00007FF75FD28D71]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FE29854]
+	(No symbol) [0x00007FF75FE299E2]
+	(No symbol) [0x00007FF75FE1A574]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:05:26,501 ] 91 luthien5921 - INFO - Accessing form, template sequence: 3896
+[ 2024-04-30 23:05:26,501 ] 91 luthien5921 - INFO - Accessing form, template sequence: 3896
+[ 2024-04-30 23:05:26,501 ] 91 luthien5921 - INFO - Accessing form, template sequence: 3896
+[ 2024-04-30 23:05:26,502 ] 91 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3896
+[ 2024-04-30 23:05:26,502 ] 91 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3896
+[ 2024-04-30 23:05:26,502 ] 91 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3896
+[ 2024-04-30 23:06:32,987 ] 79 luthien5921 - ERROR - Failed to access form: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD274F7]
+	(No symbol) [0x00007FF75FD59C59]
+	(No symbol) [0x00007FF75FD53FEC]
+	(No symbol) [0x00007FF75FD53997]
+	(No symbol) [0x00007FF75FCB32A5]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FCB22DC]
+	GetHandleVerifier [0x00007FF760245158+3854248]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 24, in fill
+    browser.get(form_info.url)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 3739, in <lambda>
+    driver.get = lambda url: uc_special_open_if_cf(
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 396, in uc_special_open_if_cf
+    driver.switch_to.window(driver.window_handles[-1])
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 494, in window_handles
+    return self.execute(Command.W3C_GET_WINDOW_HANDLES)["value"]
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD274F7]
+	(No symbol) [0x00007FF75FD59C59]
+	(No symbol) [0x00007FF75FD53FEC]
+	(No symbol) [0x00007FF75FD53997]
+	(No symbol) [0x00007FF75FCB32A5]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FCB22DC]
+	GetHandleVerifier [0x00007FF760245158+3854248]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:06:32,987 ] 79 luthien5921 - ERROR - Failed to access form: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD274F7]
+	(No symbol) [0x00007FF75FD59C59]
+	(No symbol) [0x00007FF75FD53FEC]
+	(No symbol) [0x00007FF75FD53997]
+	(No symbol) [0x00007FF75FCB32A5]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FCB22DC]
+	GetHandleVerifier [0x00007FF760245158+3854248]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 24, in fill
+    browser.get(form_info.url)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 3739, in <lambda>
+    driver.get = lambda url: uc_special_open_if_cf(
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 396, in uc_special_open_if_cf
+    driver.switch_to.window(driver.window_handles[-1])
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 494, in window_handles
+    return self.execute(Command.W3C_GET_WINDOW_HANDLES)["value"]
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD274F7]
+	(No symbol) [0x00007FF75FD59C59]
+	(No symbol) [0x00007FF75FD53FEC]
+	(No symbol) [0x00007FF75FD53997]
+	(No symbol) [0x00007FF75FCB32A5]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FCB22DC]
+	GetHandleVerifier [0x00007FF760245158+3854248]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:06:32,987 ] 79 luthien5921 - ERROR - Failed to access form: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD274F7]
+	(No symbol) [0x00007FF75FD59C59]
+	(No symbol) [0x00007FF75FD53FEC]
+	(No symbol) [0x00007FF75FD53997]
+	(No symbol) [0x00007FF75FCB32A5]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FCB22DC]
+	GetHandleVerifier [0x00007FF760245158+3854248]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 24, in fill
+    browser.get(form_info.url)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 3739, in <lambda>
+    driver.get = lambda url: uc_special_open_if_cf(
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 396, in uc_special_open_if_cf
+    driver.switch_to.window(driver.window_handles[-1])
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\undetected\__init__.py", line 326, in __getattribute__
+    return super().__getattribute__(item)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 494, in window_handles
+    return self.execute(Command.W3C_GET_WINDOW_HANDLES)["value"]
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD274F7]
+	(No symbol) [0x00007FF75FD59C59]
+	(No symbol) [0x00007FF75FD53FEC]
+	(No symbol) [0x00007FF75FD53997]
+	(No symbol) [0x00007FF75FCB32A5]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FCB22DC]
+	GetHandleVerifier [0x00007FF760245158+3854248]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:06:32,991 ] 91 luthien5921 - INFO - Accessing form, template sequence: 3895
+[ 2024-04-30 23:06:32,991 ] 91 luthien5921 - INFO - Accessing form, template sequence: 3895
+[ 2024-04-30 23:06:32,991 ] 91 luthien5921 - INFO - Accessing form, template sequence: 3895
+[ 2024-04-30 23:06:32,991 ] 91 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3895
+[ 2024-04-30 23:06:32,991 ] 91 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3895
+[ 2024-04-30 23:06:32,991 ] 91 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3895
+[ 2024-04-30 23:07:39,429 ] 79 luthien5921 - ERROR - Failed to access form: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD274F7]
+	(No symbol) [0x00007FF75FD59C59]
+	(No symbol) [0x00007FF75FD53FEC]
+	(No symbol) [0x00007FF75FD53997]
+	(No symbol) [0x00007FF75FCB32A5]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FCB22DC]
+	GetHandleVerifier [0x00007FF760245158+3854248]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 24, in fill
+    browser.get(form_info.url)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 3739, in <lambda>
+    driver.get = lambda url: uc_special_open_if_cf(
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 363, in uc_special_open_if_cf
+    driver.execute_script('window.open("%s","_blank");' % url)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 407, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD274F7]
+	(No symbol) [0x00007FF75FD59C59]
+	(No symbol) [0x00007FF75FD53FEC]
+	(No symbol) [0x00007FF75FD53997]
+	(No symbol) [0x00007FF75FCB32A5]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FCB22DC]
+	GetHandleVerifier [0x00007FF760245158+3854248]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:07:39,429 ] 79 luthien5921 - ERROR - Failed to access form: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD274F7]
+	(No symbol) [0x00007FF75FD59C59]
+	(No symbol) [0x00007FF75FD53FEC]
+	(No symbol) [0x00007FF75FD53997]
+	(No symbol) [0x00007FF75FCB32A5]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FCB22DC]
+	GetHandleVerifier [0x00007FF760245158+3854248]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 24, in fill
+    browser.get(form_info.url)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 3739, in <lambda>
+    driver.get = lambda url: uc_special_open_if_cf(
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 363, in uc_special_open_if_cf
+    driver.execute_script('window.open("%s","_blank");' % url)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 407, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD274F7]
+	(No symbol) [0x00007FF75FD59C59]
+	(No symbol) [0x00007FF75FD53FEC]
+	(No symbol) [0x00007FF75FD53997]
+	(No symbol) [0x00007FF75FCB32A5]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FCB22DC]
+	GetHandleVerifier [0x00007FF760245158+3854248]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:07:39,429 ] 79 luthien5921 - ERROR - Failed to access form: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD274F7]
+	(No symbol) [0x00007FF75FD59C59]
+	(No symbol) [0x00007FF75FD53FEC]
+	(No symbol) [0x00007FF75FD53997]
+	(No symbol) [0x00007FF75FCB32A5]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FCB22DC]
+	GetHandleVerifier [0x00007FF760245158+3854248]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\filler.py", line 24, in fill
+    browser.get(form_info.url)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 3739, in <lambda>
+    driver.get = lambda url: uc_special_open_if_cf(
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\seleniumbase\core\browser_launcher.py", line 363, in uc_special_open_if_cf
+    driver.execute_script('window.open("%s","_blank");' % url)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 407, in execute_script
+    return self.execute(command, {"script": script, "args": converted_args})["value"]
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF76017F922+3045234]
+	(No symbol) [0x00007FF75FE23652]
+	(No symbol) [0x00007FF75FCE7393]
+	(No symbol) [0x00007FF75FD274F7]
+	(No symbol) [0x00007FF75FD59C59]
+	(No symbol) [0x00007FF75FD53FEC]
+	(No symbol) [0x00007FF75FD53997]
+	(No symbol) [0x00007FF75FCB32A5]
+	GetHandleVerifier [0x00007FF7601AE89D+3237613]
+	GetHandleVerifier [0x00007FF7601F0BA7+3508727]
+	GetHandleVerifier [0x00007FF7601E976F+3478975]
+	GetHandleVerifier [0x00007FF75FF5F1C6+815126]
+	(No symbol) [0x00007FF75FE2ED0F]
+	(No symbol) [0x00007FF75FCB22DC]
+	GetHandleVerifier [0x00007FF760245158+3854248]
+	BaseThreadInitThunk [0x00007FF83BAC257D+29]
+	RtlUserThreadStart [0x00007FF83C52AA48+40]
+
+[ 2024-04-30 23:07:39,435 ] 91 luthien5921 - INFO - Accessing form, template sequence: 3896
+[ 2024-04-30 23:07:39,435 ] 91 luthien5921 - INFO - Accessing form, template sequence: 3896
+[ 2024-04-30 23:07:39,435 ] 91 luthien5921 - INFO - Accessing form, template sequence: 3896
+[ 2024-04-30 23:07:39,436 ] 91 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3896
+[ 2024-04-30 23:07:39,436 ] 91 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3896
+[ 2024-04-30 23:07:39,436 ] 91 luthien5921 - INFO - Form URL: https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detailTop?tempSeq=3896

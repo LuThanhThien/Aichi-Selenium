@@ -77,10 +77,7 @@ class Filler(BaseController):
 
       # Check agree and click submit
       try:
-         if Meta.onlyday:
-            self.click_checkbox(browser, By.NAME, "item[6].choiceList[0].checkFlag")
-         else:
-            self.click_checkbox(browser, By.XPATH, "/html/body/form/main/div/div[4]/dl[7]/dd/fieldset/p/label/span")
+         self.click_checkbox(browser, By.XPATH, "/html/body/form/main/div/div[4]/dl[7]/dd/fieldset/p/label/span")
          browser.find_element(By.XPATH, "/html/body/form/main/div/div[5]/div/input").click()
       except Exception as e:
          self.logger.exception("Failed to click submit: " + str(e))
@@ -169,12 +166,11 @@ class Filler(BaseController):
    def click_checkbox(self, browser: WebDriver, by: str, html: str):
       try:
          checkbox_element = browser.find_element(by, html)
-         action = Ac
          checkbox_element.click()
          # ActionChains(browser).move_to_element(checkbox_element).click(checkbox_element).perform()
          self.logger.info("Check checkbox: {} by {}".format(html, by))
       except Exception as e:
-         self.logger.exception("Failed to check checkbox: " + str(e))
+         self.logger.exception("Failed to check checkbox by {} with {}: {}".format(by, html, str(e)))
 
    def click_button(self, browser: WebDriver, by: str, html: str):
       try:
