@@ -66,6 +66,11 @@ class Filler(BaseController):
 
       # Fill inputs
       result_fill = False
+      self.logger.info("Save page source to onlyday.html")
+      pg_source = browser.page_source()
+      file_save = open("onlyday.html", "w")
+      file_save.write(pg_source)
+      file_save.close()
       if Meta.keyword == "Tosan" or Meta.keyword == "Hirabari":
          result_fill = self.fill_Tosan_Hirabari(browser, customer)
       else:
@@ -77,10 +82,7 @@ class Filler(BaseController):
 
       # Check agree and click submit
       try:
-         if Meta.onlyday:
-            self.click_checkbox(browser, By.NAME, "item[6].choiceList[0].checkFlag")
-         else:
-            self.click_checkbox(browser, By.XPATH, "/html/body/form/main/div/div[4]/dl[7]/dd/fieldset/p/label/span")
+         self.click_checkbox(browser, By.XPATH, "/html/body/form/main/div/div[4]/dl[7]/dd/fieldset/p/label/span")
          browser.find_element(By.XPATH, "/html/body/form/main/div/div[5]/div/input").click()
       except Exception as e:
          self.logger.exception("Failed to click submit: " + str(e))
