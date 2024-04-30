@@ -1,0 +1,553 @@
+[ 2024-04-29 22:42:26,490 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-29 22:42:26,490 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: nihahi50@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:42:28,230 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:28,501 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-29 22:42:28,501 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-29 22:42:28,501 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:42:28,501 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:42:29,255 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:29,255 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:30,504 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-29 22:42:30,504 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-29 22:42:30,504 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-29 22:42:30,505 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:42:30,505 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:42:30,505 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:42:31,277 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:31,277 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:31,277 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:32,510 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-29 22:42:32,510 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-29 22:42:32,510 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-29 22:42:32,510 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-29 22:42:32,511 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:42:32,511 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:42:32,511 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:42:32,511 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:42:33,318 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:33,318 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:33,318 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:33,318 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:40,913 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:40,913 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:40,913 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:40,913 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:41,036 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_benemmai380.png
+[ 2024-04-29 22:42:41,036 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_benemmai380.png
+[ 2024-04-29 22:42:41,036 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_benemmai380.png
+[ 2024-04-29 22:42:41,036 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_benemmai380.png
+[ 2024-04-29 22:42:41,037 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:41,037 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:41,037 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:41,037 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:42,587 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:42,587 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:42,587 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:42,587 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:42,681 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:42:42,681 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:42:42,681 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:42:42,681 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:42:42,681 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:42:42,681 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:42:42,681 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:42:42,681 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:42:42,682 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:42:42,682 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:42:42,682 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:42:42,682 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:42:42,682 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:42:42,682 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:42:42,682 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:42:42,682 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:42:42,700 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_leongnardo12.png
+[ 2024-04-29 22:42:42,700 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_leongnardo12.png
+[ 2024-04-29 22:42:42,700 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_leongnardo12.png
+[ 2024-04-29 22:42:42,700 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_leongnardo12.png
+[ 2024-04-29 22:42:42,701 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:42,701 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:42,701 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:42,701 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:44,430 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:42:44,430 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:42:44,430 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:42:44,430 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:42:44,430 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:42:44,430 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:42:44,430 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:42:44,430 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:42:44,431 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-29 22:42:44,431 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-29 22:42:44,431 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-29 22:42:44,431 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-29 22:42:44,431 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:42:44,431 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:42:44,431 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:42:44,431 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:42:45,240 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, TimeoutException found
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 29, in login
+    wait_until_presence(browser, By.ID, "userLoginForm.userId")
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68FB0F922+3045234]
+	(No symbol) [0x00007FF68F7B3652]
+	(No symbol) [0x00007FF68F677564]
+	(No symbol) [0x00007FF68F6C5F9D]
+	(No symbol) [0x00007FF68F6C606C]
+	(No symbol) [0x00007FF68F70BDD7]
+	(No symbol) [0x00007FF68F6E9DEF]
+	(No symbol) [0x00007FF68F7091C4]
+	(No symbol) [0x00007FF68F6E9B53]
+	(No symbol) [0x00007FF68F6B813C]
+	(No symbol) [0x00007FF68F6B8D71]
+	GetHandleVerifier [0x00007FF68FB3E89D+3237613]
+	GetHandleVerifier [0x00007FF68FB80BA7+3508727]
+	GetHandleVerifier [0x00007FF68FB7976F+3478975]
+	GetHandleVerifier [0x00007FF68F8EF1C6+815126]
+	(No symbol) [0x00007FF68F7BED0F]
+	(No symbol) [0x00007FF68F7B9854]
+	(No symbol) [0x00007FF68F7B99E2]
+	(No symbol) [0x00007FF68F7AA574]
+	BaseThreadInitThunk [0x00007FFB6E9B257D+29]
+	RtlUserThreadStart [0x00007FFB6FD0AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 53, in login
+    self.logger.error("Failed to login", e)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, TimeoutException found
+[ 2024-04-29 22:42:45,240 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, TimeoutException found
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 29, in login
+    wait_until_presence(browser, By.ID, "userLoginForm.userId")
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68FB0F922+3045234]
+	(No symbol) [0x00007FF68F7B3652]
+	(No symbol) [0x00007FF68F677564]
+	(No symbol) [0x00007FF68F6C5F9D]
+	(No symbol) [0x00007FF68F6C606C]
+	(No symbol) [0x00007FF68F70BDD7]
+	(No symbol) [0x00007FF68F6E9DEF]
+	(No symbol) [0x00007FF68F7091C4]
+	(No symbol) [0x00007FF68F6E9B53]
+	(No symbol) [0x00007FF68F6B813C]
+	(No symbol) [0x00007FF68F6B8D71]
+	GetHandleVerifier [0x00007FF68FB3E89D+3237613]
+	GetHandleVerifier [0x00007FF68FB80BA7+3508727]
+	GetHandleVerifier [0x00007FF68FB7976F+3478975]
+	GetHandleVerifier [0x00007FF68F8EF1C6+815126]
+	(No symbol) [0x00007FF68F7BED0F]
+	(No symbol) [0x00007FF68F7B9854]
+	(No symbol) [0x00007FF68F7B99E2]
+	(No symbol) [0x00007FF68F7AA574]
+	BaseThreadInitThunk [0x00007FFB6E9B257D+29]
+	RtlUserThreadStart [0x00007FFB6FD0AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 53, in login
+    self.logger.error("Failed to login", e)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, TimeoutException found
+[ 2024-04-29 22:42:45,240 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, TimeoutException found
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 29, in login
+    wait_until_presence(browser, By.ID, "userLoginForm.userId")
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68FB0F922+3045234]
+	(No symbol) [0x00007FF68F7B3652]
+	(No symbol) [0x00007FF68F677564]
+	(No symbol) [0x00007FF68F6C5F9D]
+	(No symbol) [0x00007FF68F6C606C]
+	(No symbol) [0x00007FF68F70BDD7]
+	(No symbol) [0x00007FF68F6E9DEF]
+	(No symbol) [0x00007FF68F7091C4]
+	(No symbol) [0x00007FF68F6E9B53]
+	(No symbol) [0x00007FF68F6B813C]
+	(No symbol) [0x00007FF68F6B8D71]
+	GetHandleVerifier [0x00007FF68FB3E89D+3237613]
+	GetHandleVerifier [0x00007FF68FB80BA7+3508727]
+	GetHandleVerifier [0x00007FF68FB7976F+3478975]
+	GetHandleVerifier [0x00007FF68F8EF1C6+815126]
+	(No symbol) [0x00007FF68F7BED0F]
+	(No symbol) [0x00007FF68F7B9854]
+	(No symbol) [0x00007FF68F7B99E2]
+	(No symbol) [0x00007FF68F7AA574]
+	BaseThreadInitThunk [0x00007FFB6E9B257D+29]
+	RtlUserThreadStart [0x00007FFB6FD0AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 53, in login
+    self.logger.error("Failed to login", e)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, TimeoutException found
+[ 2024-04-29 22:42:45,240 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, TimeoutException found
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 29, in login
+    wait_until_presence(browser, By.ID, "userLoginForm.userId")
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68FB0F922+3045234]
+	(No symbol) [0x00007FF68F7B3652]
+	(No symbol) [0x00007FF68F677564]
+	(No symbol) [0x00007FF68F6C5F9D]
+	(No symbol) [0x00007FF68F6C606C]
+	(No symbol) [0x00007FF68F70BDD7]
+	(No symbol) [0x00007FF68F6E9DEF]
+	(No symbol) [0x00007FF68F7091C4]
+	(No symbol) [0x00007FF68F6E9B53]
+	(No symbol) [0x00007FF68F6B813C]
+	(No symbol) [0x00007FF68F6B8D71]
+	GetHandleVerifier [0x00007FF68FB3E89D+3237613]
+	GetHandleVerifier [0x00007FF68FB80BA7+3508727]
+	GetHandleVerifier [0x00007FF68FB7976F+3478975]
+	GetHandleVerifier [0x00007FF68F8EF1C6+815126]
+	(No symbol) [0x00007FF68F7BED0F]
+	(No symbol) [0x00007FF68F7B9854]
+	(No symbol) [0x00007FF68F7B99E2]
+	(No symbol) [0x00007FF68F7AA574]
+	BaseThreadInitThunk [0x00007FFB6E9B257D+29]
+	RtlUserThreadStart [0x00007FFB6FD0AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 53, in login
+    self.logger.error("Failed to login", e)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, TimeoutException found
+[ 2024-04-29 22:42:46,062 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, TimeoutException found
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 29, in login
+    wait_until_presence(browser, By.ID, "userLoginForm.userId")
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68FB0F922+3045234]
+	(No symbol) [0x00007FF68F7B3652]
+	(No symbol) [0x00007FF68F677564]
+	(No symbol) [0x00007FF68F6C5F9D]
+	(No symbol) [0x00007FF68F6C606C]
+	(No symbol) [0x00007FF68F70BDD7]
+	(No symbol) [0x00007FF68F6E9DEF]
+	(No symbol) [0x00007FF68F7091C4]
+	(No symbol) [0x00007FF68F6E9B53]
+	(No symbol) [0x00007FF68F6B813C]
+	(No symbol) [0x00007FF68F6B8D71]
+	GetHandleVerifier [0x00007FF68FB3E89D+3237613]
+	GetHandleVerifier [0x00007FF68FB80BA7+3508727]
+	GetHandleVerifier [0x00007FF68FB7976F+3478975]
+	GetHandleVerifier [0x00007FF68F8EF1C6+815126]
+	(No symbol) [0x00007FF68F7BED0F]
+	(No symbol) [0x00007FF68F7B9854]
+	(No symbol) [0x00007FF68F7B99E2]
+	(No symbol) [0x00007FF68F7AA574]
+	BaseThreadInitThunk [0x00007FFB6E9B257D+29]
+	RtlUserThreadStart [0x00007FFB6FD0AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 53, in login
+    self.logger.error("Failed to login", e)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, TimeoutException found
+[ 2024-04-29 22:42:46,062 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, TimeoutException found
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 29, in login
+    wait_until_presence(browser, By.ID, "userLoginForm.userId")
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68FB0F922+3045234]
+	(No symbol) [0x00007FF68F7B3652]
+	(No symbol) [0x00007FF68F677564]
+	(No symbol) [0x00007FF68F6C5F9D]
+	(No symbol) [0x00007FF68F6C606C]
+	(No symbol) [0x00007FF68F70BDD7]
+	(No symbol) [0x00007FF68F6E9DEF]
+	(No symbol) [0x00007FF68F7091C4]
+	(No symbol) [0x00007FF68F6E9B53]
+	(No symbol) [0x00007FF68F6B813C]
+	(No symbol) [0x00007FF68F6B8D71]
+	GetHandleVerifier [0x00007FF68FB3E89D+3237613]
+	GetHandleVerifier [0x00007FF68FB80BA7+3508727]
+	GetHandleVerifier [0x00007FF68FB7976F+3478975]
+	GetHandleVerifier [0x00007FF68F8EF1C6+815126]
+	(No symbol) [0x00007FF68F7BED0F]
+	(No symbol) [0x00007FF68F7B9854]
+	(No symbol) [0x00007FF68F7B99E2]
+	(No symbol) [0x00007FF68F7AA574]
+	BaseThreadInitThunk [0x00007FFB6E9B257D+29]
+	RtlUserThreadStart [0x00007FFB6FD0AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 53, in login
+    self.logger.error("Failed to login", e)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, TimeoutException found
+[ 2024-04-29 22:42:46,062 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, TimeoutException found
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 29, in login
+    wait_until_presence(browser, By.ID, "userLoginForm.userId")
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68FB0F922+3045234]
+	(No symbol) [0x00007FF68F7B3652]
+	(No symbol) [0x00007FF68F677564]
+	(No symbol) [0x00007FF68F6C5F9D]
+	(No symbol) [0x00007FF68F6C606C]
+	(No symbol) [0x00007FF68F70BDD7]
+	(No symbol) [0x00007FF68F6E9DEF]
+	(No symbol) [0x00007FF68F7091C4]
+	(No symbol) [0x00007FF68F6E9B53]
+	(No symbol) [0x00007FF68F6B813C]
+	(No symbol) [0x00007FF68F6B8D71]
+	GetHandleVerifier [0x00007FF68FB3E89D+3237613]
+	GetHandleVerifier [0x00007FF68FB80BA7+3508727]
+	GetHandleVerifier [0x00007FF68FB7976F+3478975]
+	GetHandleVerifier [0x00007FF68F8EF1C6+815126]
+	(No symbol) [0x00007FF68F7BED0F]
+	(No symbol) [0x00007FF68F7B9854]
+	(No symbol) [0x00007FF68F7B99E2]
+	(No symbol) [0x00007FF68F7AA574]
+	BaseThreadInitThunk [0x00007FFB6E9B257D+29]
+	RtlUserThreadStart [0x00007FFB6FD0AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 53, in login
+    self.logger.error("Failed to login", e)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, TimeoutException found
+[ 2024-04-29 22:42:46,062 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, TimeoutException found
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 29, in login
+    wait_until_presence(browser, By.ID, "userLoginForm.userId")
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\Admin\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF68FB0F922+3045234]
+	(No symbol) [0x00007FF68F7B3652]
+	(No symbol) [0x00007FF68F677564]
+	(No symbol) [0x00007FF68F6C5F9D]
+	(No symbol) [0x00007FF68F6C606C]
+	(No symbol) [0x00007FF68F70BDD7]
+	(No symbol) [0x00007FF68F6E9DEF]
+	(No symbol) [0x00007FF68F7091C4]
+	(No symbol) [0x00007FF68F6E9B53]
+	(No symbol) [0x00007FF68F6B813C]
+	(No symbol) [0x00007FF68F6B8D71]
+	GetHandleVerifier [0x00007FF68FB3E89D+3237613]
+	GetHandleVerifier [0x00007FF68FB80BA7+3508727]
+	GetHandleVerifier [0x00007FF68FB7976F+3478975]
+	GetHandleVerifier [0x00007FF68F8EF1C6+815126]
+	(No symbol) [0x00007FF68F7BED0F]
+	(No symbol) [0x00007FF68F7B9854]
+	(No symbol) [0x00007FF68F7B99E2]
+	(No symbol) [0x00007FF68F7AA574]
+	BaseThreadInitThunk [0x00007FFB6E9B257D+29]
+	RtlUserThreadStart [0x00007FFB6FD0AA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\controllers\access.py", line 53, in login
+    self.logger.error("Failed to login", e)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "D:\luthien\code\Achi.Tool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, TimeoutException found
+[ 2024-04-29 22:42:47,363 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-29 22:42:47,363 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-29 22:42:47,363 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-29 22:42:47,363 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-29 22:42:47,363 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-04-29 22:42:48,184 ] 91 main_controller - INFO - Subprocess 1 started with trial number 1
+[ 2024-04-29 22:42:48,184 ] 91 main_controller - INFO - Subprocess 1 started with trial number 1
+[ 2024-04-29 22:42:48,184 ] 91 main_controller - INFO - Subprocess 1 started with trial number 1
+[ 2024-04-29 22:42:48,184 ] 91 main_controller - INFO - Subprocess 1 started with trial number 1
+[ 2024-04-29 22:42:48,184 ] 91 main_controller - INFO - Subprocess 1 started with trial number 1
+[ 2024-04-29 22:42:48,184 ] 91 main_controller - INFO - Subprocess 1 started with trial number 1
+[ 2024-04-29 22:42:49,101 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:49,101 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:49,101 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:49,101 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:49,101 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:49,101 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:49,664 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:49,664 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:49,664 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:49,664 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:49,664 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:49,664 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:42:58,381 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:58,381 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:58,381 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:58,381 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:58,381 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:58,381 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:58,517 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_nihahi50.png
+[ 2024-04-29 22:42:58,517 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_nihahi50.png
+[ 2024-04-29 22:42:58,517 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_nihahi50.png
+[ 2024-04-29 22:42:58,517 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_nihahi50.png
+[ 2024-04-29 22:42:58,517 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_nihahi50.png
+[ 2024-04-29 22:42:58,517 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_nihahi50.png
+[ 2024-04-29 22:42:58,517 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:58,517 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:58,517 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:58,517 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:58,517 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:58,517 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:59,111 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:59,111 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:59,111 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:59,111 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:59,111 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:59,111 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:42:59,265 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_ble79037.png
+[ 2024-04-29 22:42:59,265 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_ble79037.png
+[ 2024-04-29 22:42:59,265 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_ble79037.png
+[ 2024-04-29 22:42:59,265 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_ble79037.png
+[ 2024-04-29 22:42:59,265 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_ble79037.png
+[ 2024-04-29 22:42:59,265 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_42_26\screenshot_ble79037.png
+[ 2024-04-29 22:42:59,265 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:59,265 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:59,265 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:59,265 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:59,265 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:42:59,265 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:43:00,266 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:43:00,266 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:43:00,266 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:43:00,266 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:43:00,266 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:43:00,266 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:43:00,266 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:43:00,266 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:43:00,266 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:43:00,266 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:43:00,266 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:43:00,266 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:43:00,267 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:43:00,267 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:43:00,267 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:43:00,267 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:43:00,267 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:43:00,267 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:43:00,267 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:43:00,267 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:43:00,267 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:43:00,267 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:43:00,267 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:43:00,267 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:43:01,105 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:43:01,105 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:43:01,105 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:43:01,105 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:43:01,105 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:43:01,105 ] 91 main_controller - INFO - Found 5 form(s)
+[ 2024-04-29 22:43:01,105 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:43:01,105 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:43:01,105 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:43:01,105 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:43:01,105 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:43:01,105 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-29 22:43:01,106 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:43:01,106 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:43:01,106 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:43:01,106 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:43:01,106 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:43:01,106 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-29 22:43:01,106 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:43:01,106 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:43:01,106 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:43:01,106 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:43:01,106 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-29 22:43:01,106 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム

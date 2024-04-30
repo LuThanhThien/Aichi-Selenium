@@ -1,0 +1,1295 @@
+[ 2024-04-30 05:20:01,160 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-30 05:20:01,161 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: nihahi50@gmail.com, Password: hoahong1234
+[ 2024-04-30 05:20:03,175 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-30 05:20:03,175 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-30 05:20:03,176 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-30 05:20:03,176 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-30 05:20:03,956 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 05:20:03,956 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 05:20:04,699 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 05:20:04,699 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 05:20:05,188 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-30 05:20:05,188 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-30 05:20:05,188 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-30 05:20:05,188 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-30 05:20:05,188 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-30 05:20:05,188 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-30 05:20:05,927 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 05:20:05,927 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 05:20:05,927 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 05:20:07,204 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-30 05:20:07,204 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-30 05:20:07,204 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-30 05:20:07,204 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-30 05:20:07,204 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-30 05:20:07,204 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-30 05:20:07,204 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-30 05:20:07,204 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-30 05:20:07,970 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 05:20:07,970 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 05:20:07,970 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 05:20:07,970 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 05:20:13,430 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:13,430 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:13,430 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:13,430 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:13,548 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_nihahi50.png
+[ 2024-04-30 05:20:13,548 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_nihahi50.png
+[ 2024-04-30 05:20:13,548 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_nihahi50.png
+[ 2024-04-30 05:20:13,548 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_nihahi50.png
+[ 2024-04-30 05:20:13,548 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:13,548 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:13,548 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:13,548 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:13,833 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:13,833 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:13,833 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:13,833 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:13,961 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_ble79037.png
+[ 2024-04-30 05:20:13,961 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_ble79037.png
+[ 2024-04-30 05:20:13,961 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_ble79037.png
+[ 2024-04-30 05:20:13,961 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_ble79037.png
+[ 2024-04-30 05:20:13,961 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:13,961 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:13,961 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:13,961 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:14,661 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:14,661 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:14,661 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:14,661 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:14,765 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_benemmai380.png
+[ 2024-04-30 05:20:14,765 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_benemmai380.png
+[ 2024-04-30 05:20:14,765 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_benemmai380.png
+[ 2024-04-30 05:20:14,765 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_benemmai380.png
+[ 2024-04-30 05:20:14,765 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:14,765 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:14,765 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:14,765 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:17,338 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:17,338 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:17,338 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:17,338 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 05:20:17,447 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_leongnardo12.png
+[ 2024-04-30 05:20:17,447 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_leongnardo12.png
+[ 2024-04-30 05:20:17,447 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_leongnardo12.png
+[ 2024-04-30 05:20:17,447 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\05_20_00\screenshot_leongnardo12.png
+[ 2024-04-30 05:20:17,447 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:17,447 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:17,447 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:20:17,447 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 05:29:58,531 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:58,531 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:58,531 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:58,531 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:58,531 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:58,531 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:58,531 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:58,531 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:58,531 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:29:58,531 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:29:58,531 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:29:58,531 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:29:58,532 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:58,532 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:58,532 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:58,532 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:59,317 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:59,317 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:59,317 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:59,317 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:59,317 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:59,317 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:59,317 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:59,317 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:59,318 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:29:59,318 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:29:59,318 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:29:59,318 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:29:59,318 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:59,318 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:59,318 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:59,318 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:59,359 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:59,359 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:59,359 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:59,359 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:59,359 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:59,359 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:59,359 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:59,359 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:59,359 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:29:59,359 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:29:59,359 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:29:59,359 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:29:59,360 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:59,360 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:59,360 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:59,360 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Found 3 form(s)
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Customers: [{'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}]
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:29:59,481 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:30,463 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:30:30,463 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:30:30,463 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:30:30,463 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:30:30,464 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:30,464 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:30,464 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:30,464 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:30,464 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:30:30,464 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:30:30,464 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:30:30,464 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:30:30,464 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:30,464 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:30,464 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:30,464 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:30,972 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:30:30,972 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:30:30,972 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:30:30,972 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:30:30,972 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:30,972 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:30,972 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:30,972 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:30,973 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:30:30,973 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:30:30,973 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:30:30,973 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:30:30,973 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:30,973 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:30,973 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:30,973 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:37,773 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:30:37,773 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:30:37,773 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:30:37,773 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:30:37,774 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:30:37,774 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:30:37,774 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:30:37,774 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:30:37,774 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:37,774 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:37,774 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:37,774 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:37,775 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:37,775 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:37,775 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:37,775 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:30:37,775 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:30:37,775 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:30:37,775 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:30:37,775 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:30:37,776 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:30:37,776 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:30:37,776 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:30:37,776 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:30:37,777 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:37,777 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:37,777 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:37,777 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:37,777 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:37,777 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:37,777 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:30:37,777 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:31:36,767 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:31:36,767 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:31:36,767 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:31:36,767 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:31:36,767 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:36,767 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:36,767 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:36,767 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:36,767 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:31:36,767 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:31:36,767 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:31:36,767 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:31:36,768 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:36,768 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:36,768 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:36,768 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:37,343 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:31:37,343 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:31:37,343 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:31:37,343 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:31:37,344 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:37,344 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:37,344 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:37,344 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:37,344 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:31:37,344 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:31:37,344 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:31:37,344 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:31:37,344 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:37,344 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:37,344 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:37,344 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:44,109 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:31:44,363 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:43,154 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:43,711 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:32:43,711 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:32:43,711 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:32:43,711 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:32:43,712 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:43,712 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:43,712 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:43,712 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:43,712 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:32:43,712 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:32:43,712 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:32:43,712 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:32:43,712 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:43,712 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:43,712 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:43,712 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:50,450 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:32:50,450 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:32:50,450 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:32:50,450 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:32:50,451 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:50,451 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:50,451 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:50,451 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:50,451 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:32:50,451 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:32:50,451 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:32:50,451 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:32:50,451 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, M, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:50,451 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, M, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:50,451 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, M, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:50,451 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, M, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, M, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, M, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, M, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:32:50,712 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, M, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:33:49,488 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:33:49,488 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:33:49,488 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:33:49,488 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:33:49,489 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:49,489 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:49,489 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:49,489 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:49,489 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:33:49,489 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:33:49,489 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:33:49,489 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:33:49,489 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:49,489 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:49,489 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:49,489 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:50,060 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:56,749 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:33:57,041 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:34:55,844 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:34:56,402 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:34:56,402 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:34:56,402 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:34:56,402 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:34:56,402 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:34:56,402 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:34:56,402 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:34:56,402 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:34:56,403 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:34:56,403 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:34:56,403 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:34:56,403 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:34:56,403 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:34:56,403 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:34:56,403 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:34:56,403 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:35:03,064 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:35:03,064 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:35:03,064 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:35:03,064 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:35:03,064 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:35:03,064 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:35:03,064 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:35:03,064 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:35:03,064 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:35:03,064 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:35:03,064 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:35:03,064 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:35:03,065 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:35:03,065 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:35:03,065 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:35:03,065 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:35:03,401 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:35:03,401 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:35:03,401 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:35:03,401 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:35:03,402 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:35:03,402 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:35:03,402 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:35:03,402 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:35:03,402 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:35:03,402 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:35:03,402 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:35:03,402 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:35:03,402 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:35:03,402 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:35:03,402 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:35:03,402 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, F, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, F, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, F, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:02,146 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, F, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:02,735 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:36:02,735 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:36:02,735 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:36:02,735 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:36:02,735 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:02,735 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:02,735 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:02,735 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:02,736 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:36:02,736 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:36:02,736 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:36:02,736 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:36:02,736 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:02,736 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:02,736 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:02,736 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:09,518 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:36:09,518 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:36:09,518 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:36:09,518 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:36:09,518 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:09,518 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:09,518 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:09,518 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:09,518 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:36:09,518 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:36:09,518 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:36:09,518 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:36:09,519 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:09,519 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:09,519 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:09,519 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:36:09,705 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:37:08,523 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:37:08,523 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:37:08,523 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:37:08,523 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:37:08,523 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:08,523 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:08,523 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:08,523 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:08,523 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:37:08,523 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:37:08,523 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:37:08,523 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:37:08,524 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:08,524 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:08,524 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:08,524 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:09,095 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:37:09,095 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:37:09,095 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:37:09,095 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:37:09,095 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:09,095 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:09,095 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:09,095 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:09,095 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:37:09,095 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:37:09,095 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:37:09,095 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:37:09,096 ] 91 main_controller - INFO - Customer index 7: Karan Lama, F, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:09,096 ] 91 main_controller - INFO - Customer index 7: Karan Lama, F, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:09,096 ] 91 main_controller - INFO - Customer index 7: Karan Lama, F, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:09,096 ] 91 main_controller - INFO - Customer index 7: Karan Lama, F, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:15,851 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:37:16,110 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, F, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, F, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, F, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:14,894 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, F, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:15,377 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:38:15,377 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:38:15,377 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:38:15,377 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:38:15,378 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:15,378 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:15,378 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:15,378 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:15,378 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:38:15,378 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:38:15,378 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:38:15,378 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:38:15,378 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:15,378 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:15,378 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:15,378 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:22,174 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:38:22,174 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:38:22,174 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:38:22,174 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:38:22,174 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:22,174 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:22,174 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:22,174 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:22,174 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:38:22,174 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:38:22,174 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:38:22,174 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:38:22,175 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:22,175 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:22,175 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:22,175 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, F, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, F, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, F, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:38:22,453 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, F, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:21,230 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:21,699 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:39:21,699 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:39:21,699 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:39:21,699 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:39:21,699 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:21,699 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:21,699 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:21,699 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:21,700 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:39:21,700 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:39:21,700 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:39:21,700 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:39:21,700 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:21,700 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:21,700 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:21,700 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:28,498 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:39:28,823 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:27,560 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:40:27,560 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:40:27,560 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:40:27,560 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:40:27,561 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:27,561 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:27,561 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:27,561 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:27,561 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:40:27,561 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:40:27,561 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:40:27,561 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:40:27,561 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:27,561 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:27,561 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:27,561 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:28,044 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:40:28,044 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:40:28,044 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:40:28,044 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:40:28,044 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:28,044 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:28,044 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:28,044 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:28,044 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:40:28,044 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:40:28,044 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:40:28,044 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:40:28,045 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:28,045 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:28,045 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:28,045 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:34,818 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, M, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:35,200 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:40:35,200 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:40:35,200 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:40:35,200 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:40:35,201 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:35,201 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:35,201 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:35,201 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:40:35,201 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:40:35,201 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:40:35,201 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:40:35,201 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:40:35,201 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:35,201 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:35,201 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:40:35,201 ] 91 main_controller - INFO - Customer index 1: Nguyen Van Thuc, F, 19941003, 080-1583-0891, ベトナム
+[ 2024-04-30 05:41:34,081 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:41:34,081 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:41:34,081 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:41:34,081 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:41:34,081 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:34,081 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:34,081 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:34,081 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:34,082 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:41:34,082 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:41:34,082 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:41:34,082 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:41:34,082 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:34,082 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:34,082 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:34,082 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, F, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:34,378 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:41:34,378 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:41:34,378 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:41:34,378 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:41:34,378 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:34,378 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:34,378 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:34,378 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:34,378 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:41:34,378 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:41:34,378 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:41:34,378 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:41:34,379 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:34,379 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:34,379 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:34,379 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:41,193 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:41,561 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:41:41,561 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:41:41,561 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:41:41,561 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:41:41,561 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:41,561 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:41,561 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:41,561 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:41:41,561 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:41:41,561 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:41:41,561 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:41:41,561 ] 91 main_controller - INFO - Customer info index 2: {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:41:41,562 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:41,562 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:41,562 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:41:41,562 ] 91 main_controller - INFO - Customer index 2: Sagyan Ghimire, M, 20020604, 080-1583-0891, ネパール
+[ 2024-04-30 05:42:40,423 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:42:40,423 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:42:40,423 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:42:40,423 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:42:40,423 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:40,423 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:40,423 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:40,423 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:40,423 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:40,423 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:40,423 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:40,423 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:40,424 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:40,424 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:40,424 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:40,424 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:40,755 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:47,554 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Customer info index 3: {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:42:47,896 ] 91 main_controller - INFO - Customer index 3: Obua Emmanuel, F, 19801225, 080-1583-0891, ウガンダ
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:46,814 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:47,138 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:53,881 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:54,268 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:43:54,268 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:43:54,268 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:43:54,268 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:43:54,268 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:54,268 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:54,268 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:54,268 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:43:54,269 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:43:54,269 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:43:54,269 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:43:54,269 ] 91 main_controller - INFO - Customer info index 4: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:43:54,269 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:54,269 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:54,269 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:43:54,269 ] 91 main_controller - INFO - Customer index 4: Vinicius Ritoshi Dos Santos Oyakawa, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:44:53,166 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, F, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:44:53,492 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:44:53,492 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:44:53,492 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:44:53,492 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:44:53,492 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:44:53,492 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:44:53,492 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:44:53,492 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:44:53,492 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:44:53,492 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:44:53,492 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:44:53,492 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:44:53,493 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:44:53,493 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:44:53,493 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:44:53,493 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:00,242 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:45:00,242 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:45:00,242 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:45:00,242 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:45:00,242 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:00,242 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:00,242 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:00,242 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:00,242 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:45:00,242 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:45:00,242 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:45:00,242 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:45:00,243 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:00,243 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:00,243 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:00,243 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Customer info index 5: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:00,649 ] 91 main_controller - INFO - Customer index 5: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:59,533 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:59,872 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:45:59,872 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:45:59,872 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:45:59,872 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:45:59,872 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:59,872 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:59,872 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:59,872 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:45:59,873 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:45:59,873 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:45:59,873 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:45:59,873 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:45:59,873 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, F, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:59,873 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, F, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:59,873 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, F, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:45:59,873 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, F, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:46:06,633 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, M, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:46:06,981 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:46:06,981 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:46:06,981 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:46:06,981 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:46:06,981 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:46:06,981 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:46:06,981 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:46:06,981 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:46:06,981 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:46:06,981 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:46:06,981 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:46:06,981 ] 91 main_controller - INFO - Customer info index 6: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:46:06,982 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, F, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:46:06,982 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, F, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:46:06,982 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, F, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:46:06,982 ] 91 main_controller - INFO - Customer index 6: Cristiane Ritoshi Dos Santos Oyakawa, F, 19680727, 080-1583-0891, ブラジル
+[ 2024-04-30 05:47:05,929 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:47:05,929 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:47:05,929 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:47:05,929 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:47:05,929 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:05,929 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:05,929 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:05,929 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:05,929 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:05,929 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:05,929 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:05,929 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:05,930 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:05,930 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:05,930 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:05,930 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:06,228 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:13,005 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:47:13,005 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:47:13,005 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:47:13,005 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:47:13,005 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:13,005 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:13,005 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:13,005 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:13,006 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:13,006 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:13,006 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:13,006 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:13,006 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:13,006 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:13,006 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:13,006 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:13,327 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:47:13,327 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:47:13,327 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:47:13,327 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:47:13,327 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:13,327 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:13,327 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:13,327 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:47:13,328 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:13,328 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:13,328 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:13,328 ] 91 main_controller - INFO - Customer info index 7: {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:47:13,328 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:13,328 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:13,328 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:47:13,328 ] 91 main_controller - INFO - Customer index 7: Karan Lama, M, 20010512, 080-1583-0891, ネパール
+[ 2024-04-30 05:48:12,248 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:48:12,248 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:48:12,248 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:48:12,248 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:48:12,249 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:12,249 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:12,249 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:12,249 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:12,249 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:12,249 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:12,249 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:12,249 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:12,249 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:12,249 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:12,249 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:12,249 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:12,537 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96974
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:19,365 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Customer info index 8: {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:48:19,644 ] 91 main_controller - INFO - Customer index 8: Muhammad Jan Hakim Jan, M, 19770101, 080-1583-0891, パキスタン
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96976
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:18,576 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:18,881 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, M, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:25,705 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:26,009 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:49:26,009 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:49:26,009 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:49:26,009 ] 91 main_controller - INFO - Failed to fill form, template sequence: 96975
+[ 2024-04-30 05:49:26,010 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:26,010 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:26,010 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:26,010 ] 91 main_controller - INFO - Remaining form(s): 3
+[ 2024-04-30 05:49:26,010 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:49:26,010 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:49:26,010 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:49:26,010 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-04-30 05:49:26,010 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:26,010 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:26,010 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム
+[ 2024-04-30 05:49:26,010 ] 91 main_controller - INFO - Customer index 0: Bui Thi Ngoc, F, 19930101, 080-1583-0891, ベトナム

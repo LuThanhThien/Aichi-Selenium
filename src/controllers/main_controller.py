@@ -76,17 +76,19 @@ class MainController:
          # Shuffle the list of form info
          list_form_info = random.sample(list_form_info, len(list_form_info))
          main_logger.info("Customers: {}".format(Customers.customers))
+         customer_index = 0
          while len(list_form_info) > 0:
             # Get customer
             customer = None
             if Customers.num_customers > 0:
-               customer_index = index % Customers.num_customers
+               customer_index = customer_index % Customers.num_customers
                customer_info = Customers.get_customer(customer_index)
                customer_info['phone_number'] = Meta.main_phone_number_dash
                customer_info['gender'] = random.choice(['M', 'F'])
                main_logger.info("Customer info index {}: {}".format(customer_index, customer_info))
                customer = Customer.safe_load(**customer_info)
                main_logger.info("Customer index {}: {}".format(customer_index, customer))
+               customer_index += 1
             else:
                customer = Customer.random_customer()
 
