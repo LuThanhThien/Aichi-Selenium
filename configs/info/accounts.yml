@@ -33,14 +33,14 @@ dev_accounts:
   # - username: leongnardo12@gmail.com
   #   password: hoahong1234
 
-  # - username: ngtrnghi123@gmail.com
-  #   password: hoahong1234
+  - username: ngtrnghi123@gmail.com
+    password: hoahong1234
 
-  # - username: thanhvanngoc30@gmail.com
-  #   password: hoahong1234
+  - username: thanhvanngoc30@gmail.com
+    password: hoahong1234
 
-  # - username: davidalaba00000@gmail.com
-  #   password: hoahong1234
+  - username: davidalaba00000@gmail.com
+    password: hoahong1234
 
   # - username: Nickpown0411@gmail.com
   #   password: hoahong1234

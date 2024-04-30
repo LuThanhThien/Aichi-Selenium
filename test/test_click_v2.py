@@ -8,8 +8,9 @@ from selenium import webdriver
 
 from src.utils.html_utils import wait_until_presence
 from src.models import FormInfo, Customer
-from src.globals import Accounts
+from src.globals import Accounts, Meta, URLs
 from src.controllers.filler import Filler
+from src.controllers.access import Access
 
 def click_checkbox(browser: WebDriver, by: str, html: str):
    try:
@@ -20,18 +21,23 @@ def click_checkbox(browser: WebDriver, by: str, html: str):
 
 if __name__=="__main__":
    account = Accounts.get_test_account(0)
+   access = Access(account)
    filler = Filler(account=account)
    
    browser = webdriver.Chrome()
-   form_info = FormInfo.default_form()   
-   form_info.url = r"c:\Users\USER\Projects\AichiTool\hhh.html"
-   customer = Customer.random_customer()
+   browser.get(URLs.login_url)
+   time.sleep(60)
 
-   wait_until_presence(browser, By.NAME, "item[6].choiceList[0].checkFlag")
-   filler.fill_Tosan_Hirabari(browser, customer)
-   # filler.click_checkbox(browser, By.NAME, "item[6].choiceList[0].checkFlag")
-   filler.click_checkbox(browser, By.XPATH, "/html/body/form/main/div/div[4]/dl[7]/dd/fieldset/p/label/span"
-   )
+   access.login(browser)
+   
+   form_info = FormInfo.default_form()   
+   # 30 April 2024
+   form_info.url = r"https://www.shinsei.e-aichi.jp/pref-aichi-police-u/offer/offerList_detail?tempSeq=3895&accessFrom=offerList"
+   browser.get(form_info.url)
+   
+   continue_button = browser.find_element(By.XPATH, r'//*[@id="ok"]')
+   continue_button.click()
+   filler.click_checkbox(browser, By.NAME, "item[6].choiceList[0].checkFlag")
    
    time.sleep(5)
    browser.quit()

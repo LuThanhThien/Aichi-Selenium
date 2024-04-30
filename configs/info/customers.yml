@@ -1,28 +1,4 @@
 customers:
-  - first_name: "Thi Ngoc"
-    last_name: "Bui"
-    date_birth: "19930101"
-    nation: "ベトナム"
-    country: "ベトナム"
-  
-  - first_name: "Van Thuc"
-    last_name: "Nguyen"
-    date_birth: "19941003"
-    nation: "ベトナム"
-    country: "ベトナム"
-
-  - first_name: "Ghimire"
-    last_name: "Sagyan"
-    date_birth: "20020604"
-    nation: "ネパール"
-    country: "ネパール"
-
-  - first_name: "Emmanuel"
-    last_name: "Obua"
-    date_birth: "19801225"
-    nation: "ウガンダ"
-    country: "ウガンダ"
-
   - first_name: "Ritoshi Dos Santos Oyakawa"
     last_name: "Vinicius"
     date_birth: "19990621"
@@ -52,6 +28,32 @@ customers:
     date_birth: "19770101"
     nation: "パキスタン"
     country: "パキスタン"
+
+  - first_name: "Thi Ngoc"
+    last_name: "Bui"
+    date_birth: "19930101"
+    nation: "ベトナム"
+    country: "ベトナム"
+  
+  - first_name: "Van Thuc"
+    last_name: "Nguyen"
+    date_birth: "19941003"
+    nation: "ベトナム"
+    country: "ベトナム"
+
+  - first_name: "Ghimire"
+    last_name: "Sagyan"
+    date_birth: "20020604"
+    nation: "ネパール"
+    country: "ネパール"
+
+  - first_name: "Emmanuel"
+    last_name: "Obua"
+    date_birth: "19801225"
+    nation: "ウガンダ"
+    country: "ウガンダ"
+
+  
 
 
 
