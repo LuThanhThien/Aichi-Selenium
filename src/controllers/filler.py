@@ -66,6 +66,11 @@ class Filler(BaseController):
 
       # Fill inputs
       result_fill = False
+      self.logger.info("Save page source to onlyday.html")
+      pg_source = browser.page_source()
+      file_save = open("onlyday.html", "w")
+      file_save.write(pg_source)
+      file_save.close()
       if Meta.keyword == "Tosan" or Meta.keyword == "Hirabari":
          result_fill = self.fill_Tosan_Hirabari(browser, customer)
       else:
