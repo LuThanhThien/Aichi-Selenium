@@ -144,7 +144,7 @@ class Filler(BaseController):
          # self.fill_input(browser, By.NAME, "item[2].textData", customer.date_birth)
          # self.fill_input(browser, By.NAME, "item[4].textData", customer.phone_number)
          # self.fill_input(browser, By.NAME, "item[5].textData", customer.school_name)
-         self.click_checkbox(browser, By.NAME, "item[16].choiceList[0].checkFlag")
+         self.click_checkbox(browser, By.XPATH, "/html/body/form/main/div/div[4]/dl[15]/dd/fieldset/p[1]/label/span")
          return True
       except Exception as e:
          self.logger.exception("Error occured during fill_else: " + str(e))
@@ -169,6 +169,7 @@ class Filler(BaseController):
    def click_checkbox(self, browser: WebDriver, by: str, html: str):
       try:
          checkbox_element = browser.find_element(by, html)
+         action = Ac
          checkbox_element.click()
          # ActionChains(browser).move_to_element(checkbox_element).click(checkbox_element).perform()
          self.logger.info("Check checkbox: {} by {}".format(html, by))
