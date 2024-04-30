@@ -139,11 +139,12 @@ class Filler(BaseController):
       
    def fill_else(self, browser: WebDriver, customer: Customer):
       try: 
-         self.fill_input(browser, By.NAME, "item[0].textData2", customer.first_name)
-         self.fill_input(browser, By.NAME, "item[0].textData", customer.last_name)
-         self.fill_input(browser, By.NAME, "item[2].textData", customer.date_birth)
-         self.fill_input(browser, By.NAME, "item[4].textData", customer.phone_number)
-         self.fill_input(browser, By.NAME, "item[5].textData", customer.school_name)
+         # self.fill_input(browser, By.NAME, "item[0].textData2", customer.first_name)
+         # self.fill_input(browser, By.NAME, "item[0].textData", customer.last_name)
+         # self.fill_input(browser, By.NAME, "item[2].textData", customer.date_birth)
+         # self.fill_input(browser, By.NAME, "item[4].textData", customer.phone_number)
+         # self.fill_input(browser, By.NAME, "item[5].textData", customer.school_name)
+         self.click_checkbox(browser, By.NAME, "item[16].choiceList[0].checkFlag")
          return True
       except Exception as e:
          self.logger.exception("Error occured during fill_else: " + str(e))
@@ -168,7 +169,8 @@ class Filler(BaseController):
    def click_checkbox(self, browser: WebDriver, by: str, html: str):
       try:
          checkbox_element = browser.find_element(by, html)
-         ActionChains(browser).move_to_element(checkbox_element).click(checkbox_element).perform()
+         checkbox_element.click()
+         # ActionChains(browser).move_to_element(checkbox_element).click(checkbox_element).perform()
          self.logger.info("Check checkbox: {} by {}".format(html, by))
       except Exception as e:
          self.logger.exception("Failed to check checkbox: " + str(e))
@@ -176,7 +178,8 @@ class Filler(BaseController):
    def click_button(self, browser: WebDriver, by: str, html: str):
       try:
          button_element = browser.find_element(by, html)
-         ActionChains(browser).move_to_element(button_element).click(button_element).perform()
+         button_element.click()
+         # ActionChains(browser).move_to_element(button_element).click(button_element).perform()
          self.logger.info("Clicked button: {} by {}".format(html, by))
       except Exception as e:
          self.logger.exception("Failed to click button: " + str(e))
