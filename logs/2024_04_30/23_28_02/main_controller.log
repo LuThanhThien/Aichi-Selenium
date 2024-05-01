@@ -1,0 +1,19 @@
+[ 2024-04-30 23:28:03,292 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-30 23:28:03,292 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-30 23:28:05,301 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-30 23:28:05,301 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-30 23:28:05,302 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei1@gmail.com, Password: aichi@5921
+[ 2024-04-30 23:28:05,302 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei1@gmail.com, Password: aichi@5921
+[ 2024-04-30 23:28:05,445 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:28:05,445 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:28:06,878 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:28:06,878 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:28:07,310 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-30 23:28:07,310 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-30 23:28:07,310 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-30 23:28:07,310 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-04-30 23:28:07,310 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-04-30 23:28:07,310 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-04-30 23:28:08,938 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:28:08,938 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:28:08,938 ] 91 main_controller - INFO - Browser opened

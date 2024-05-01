@@ -1,0 +1,167 @@
+[ 2024-05-01 09:33:28,203 ] 91 root - INFO - Starting all threads
+[ 2024-05-01 09:33:28,203 ] 91 root - INFO - Starting all threads
+[ 2024-05-01 09:33:28,204 ] 91 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': '行政', 'test_mode': True, 'debug_mode': True, 'onlyday': True, 'max_num_retry': 5, 'default_num_threads': 3, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': False, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-05-01 09:33:28,204 ] 91 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': '行政', 'test_mode': True, 'debug_mode': True, 'onlyday': True, 'max_num_retry': 5, 'default_num_threads': 3, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': False, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-05-01 09:33:28,205 ] 91 root - INFO - Number of dev accounts: 3
+[ 2024-05-01 09:33:28,205 ] 91 root - INFO - Number of dev accounts: 3
+[ 2024-05-01 09:33:28,206 ] 91 root - INFO - Test mode: True
+[ 2024-05-01 09:33:28,206 ] 91 root - INFO - Test mode: True
+[ 2024-05-01 09:33:28,263 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-05-01 09:33:28,264 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-05-01 09:33:30,212 ] 91 root - INFO - Thread 0 started
+[ 2024-05-01 09:33:30,212 ] 91 root - INFO - Thread 0 started
+[ 2024-05-01 09:33:30,215 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-05-01 09:33:30,216 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei1@gmail.com, Password: aichi@5921
+[ 2024-05-01 09:33:31,418 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 09:33:32,216 ] 91 root - INFO - Thread 1 started
+[ 2024-05-01 09:33:32,216 ] 91 root - INFO - Thread 1 started
+[ 2024-05-01 09:33:32,220 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-05-01 09:33:32,221 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-05-01 09:33:32,990 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 09:33:33,703 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 09:33:34,217 ] 91 root - INFO - Thread 2 started
+[ 2024-05-01 09:33:34,217 ] 91 root - INFO - Thread 2 started
+[ 2024-05-01 09:33:39,221 ] 91 luthien5921 - INFO - Opened login page
+[ 2024-05-01 09:33:39,486 ] 91 luthien5921+shinsei1 - INFO - Opened login page
+[ 2024-05-01 09:33:40,355 ] 91 luthien5921+shinsei2 - INFO - Opened login page
+[ 2024-05-01 09:33:50,616 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, TimeoutException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 29, in login
+    wait_until_presence(browser, By.ID, "userLoginForm.userId")
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF64F43F922+3045234]
+	(No symbol) [0x00007FF64F0E3652]
+	(No symbol) [0x00007FF64EFA7564]
+	(No symbol) [0x00007FF64EFF5F9D]
+	(No symbol) [0x00007FF64EFF606C]
+	(No symbol) [0x00007FF64F03BDD7]
+	(No symbol) [0x00007FF64F019DEF]
+	(No symbol) [0x00007FF64F0391C4]
+	(No symbol) [0x00007FF64F019B53]
+	(No symbol) [0x00007FF64EFE813C]
+	(No symbol) [0x00007FF64EFE8D71]
+	GetHandleVerifier [0x00007FF64F46E89D+3237613]
+	GetHandleVerifier [0x00007FF64F4B0BA7+3508727]
+	GetHandleVerifier [0x00007FF64F4A976F+3478975]
+	GetHandleVerifier [0x00007FF64F21F1C6+815126]
+	(No symbol) [0x00007FF64F0EED0F]
+	(No symbol) [0x00007FF64F0E9854]
+	(No symbol) [0x00007FF64F0E99E2]
+	(No symbol) [0x00007FF64F0DA574]
+	BaseThreadInitThunk [0x00007FFFFB45257D+29]
+	RtlUserThreadStart [0x00007FFFFCEEAA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 53, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, TimeoutException found
+[ 2024-05-01 09:33:50,896 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, TimeoutException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 29, in login
+    wait_until_presence(browser, By.ID, "userLoginForm.userId")
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF64F43F922+3045234]
+	(No symbol) [0x00007FF64F0E3652]
+	(No symbol) [0x00007FF64EFA7564]
+	(No symbol) [0x00007FF64EFF5F9D]
+	(No symbol) [0x00007FF64EFF606C]
+	(No symbol) [0x00007FF64F03BDD7]
+	(No symbol) [0x00007FF64F019DEF]
+	(No symbol) [0x00007FF64F0391C4]
+	(No symbol) [0x00007FF64F019B53]
+	(No symbol) [0x00007FF64EFE813C]
+	(No symbol) [0x00007FF64EFE8D71]
+	GetHandleVerifier [0x00007FF64F46E89D+3237613]
+	GetHandleVerifier [0x00007FF64F4B0BA7+3508727]
+	GetHandleVerifier [0x00007FF64F4A976F+3478975]
+	GetHandleVerifier [0x00007FF64F21F1C6+815126]
+	(No symbol) [0x00007FF64F0EED0F]
+	(No symbol) [0x00007FF64F0E9854]
+	(No symbol) [0x00007FF64F0E99E2]
+	(No symbol) [0x00007FF64F0DA574]
+	BaseThreadInitThunk [0x00007FFFFB45257D+29]
+	RtlUserThreadStart [0x00007FFFFCEEAA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 53, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, TimeoutException found
+[ 2024-05-01 09:33:51,707 ] 79 main_controller - ERROR - Caught exception: sequence item 1: expected str instance, TimeoutException found
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 29, in login
+    wait_until_presence(browser, By.ID, "userLoginForm.userId")
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\utils\html_utils.py", line 8, in wait_until_presence
+    WebDriverWait(browser, timeout).until(EC.presence_of_element_located((by, html)))
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF64F43F922+3045234]
+	(No symbol) [0x00007FF64F0E3652]
+	(No symbol) [0x00007FF64EFA7564]
+	(No symbol) [0x00007FF64EFF5F9D]
+	(No symbol) [0x00007FF64EFF606C]
+	(No symbol) [0x00007FF64F03BDD7]
+	(No symbol) [0x00007FF64F019DEF]
+	(No symbol) [0x00007FF64F0391C4]
+	(No symbol) [0x00007FF64F019B53]
+	(No symbol) [0x00007FF64EFE813C]
+	(No symbol) [0x00007FF64EFE8D71]
+	GetHandleVerifier [0x00007FF64F46E89D+3237613]
+	GetHandleVerifier [0x00007FF64F4B0BA7+3508727]
+	GetHandleVerifier [0x00007FF64F4A976F+3478975]
+	GetHandleVerifier [0x00007FF64F21F1C6+815126]
+	(No symbol) [0x00007FF64F0EED0F]
+	(No symbol) [0x00007FF64F0E9854]
+	(No symbol) [0x00007FF64F0E99E2]
+	(No symbol) [0x00007FF64F0DA574]
+	BaseThreadInitThunk [0x00007FFFFB45257D+29]
+	RtlUserThreadStart [0x00007FFFFCEEAA48+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 58, in subprocess
+    result = access.login(browser)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\access.py", line 53, in login
+    self.logger.error("Failed to login", e)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 73, in error
+    self._log(logging.ERROR, *msg)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\logs.py", line 90, in _log
+    message = " ".join(msg)
+TypeError: sequence item 1: expected str instance, TimeoutException found
+[ 2024-05-01 09:33:52,723 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-05-01 09:33:53,004 ] 91 main_controller - INFO - Subprocess 1 started with trial number 1
+[ 2024-05-01 09:33:53,806 ] 91 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-05-01 09:33:55,301 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 09:33:55,971 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 09:33:56,583 ] 91 main_controller - INFO - Browser opened

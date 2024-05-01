@@ -1,0 +1,25 @@
+[ 2024-04-30 23:28:03,288 ] 91 root - INFO - Starting all threads
+[ 2024-04-30 23:28:03,288 ] 91 root - INFO - Starting all threads
+[ 2024-04-30 23:28:03,289 ] 91 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': '行政', 'test_mode': True, 'debug_mode': True, 'onlyday': True, 'max_num_retry': 5, 'default_num_threads': 3, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': False, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-30 23:28:03,289 ] 91 root - INFO - Meta: {'__module__': 'src.globals', '__doc__': '        Meta configs        ', 'keyword': '行政', 'test_mode': True, 'debug_mode': True, 'onlyday': True, 'max_num_retry': 5, 'default_num_threads': 3, 'display_number': 50, 'main_phone_number_dash': '080-1583-0891', 'uc': True, 'headless': False, 'timeout': 900, '__dict__': <attribute '__dict__' of 'Meta' objects>, '__weakref__': <attribute '__weakref__' of 'Meta' objects>}
+[ 2024-04-30 23:28:03,289 ] 91 root - INFO - Number of dev accounts: 3
+[ 2024-04-30 23:28:03,289 ] 91 root - INFO - Number of dev accounts: 3
+[ 2024-04-30 23:28:03,289 ] 91 root - INFO - Test mode: True
+[ 2024-04-30 23:28:03,289 ] 91 root - INFO - Test mode: True
+[ 2024-04-30 23:28:03,292 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-30 23:28:03,292 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-30 23:28:05,296 ] 91 root - INFO - Thread 0 started
+[ 2024-04-30 23:28:05,296 ] 91 root - INFO - Thread 0 started
+[ 2024-04-30 23:28:05,301 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-30 23:28:05,302 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei1@gmail.com, Password: aichi@5921
+[ 2024-04-30 23:28:05,445 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:28:06,878 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:28:07,304 ] 91 root - INFO - Thread 1 started
+[ 2024-04-30 23:28:07,304 ] 91 root - INFO - Thread 1 started
+[ 2024-04-30 23:28:07,310 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-30 23:28:07,310 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-04-30 23:28:08,938 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:28:09,316 ] 91 root - INFO - Thread 2 started
+[ 2024-04-30 23:28:09,316 ] 91 root - INFO - Thread 2 started
+[ 2024-04-30 23:28:11,786 ] 91 luthien5921 - INFO - Opened login page
+[ 2024-04-30 23:28:13,478 ] 91 luthien5921+shinsei1 - INFO - Opened login page

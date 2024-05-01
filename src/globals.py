@@ -109,6 +109,11 @@ class URLs(object):
     inquery_url = Configs.urls['inquery_url']
     detail_base_url = Configs.urls['detail_base_url']
 
+class Keywords(object):
+    '''    Global keywords    '''
+    Tosan = 'Tosan'
+    Hirabari = 'Hirabari'
+
 class Variables(object):
     '''    Global variables    '''
     # instances

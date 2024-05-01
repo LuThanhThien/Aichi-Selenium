@@ -1,0 +1,23 @@
+[ 2024-05-01 10:16:30,871 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-05-01 10:16:30,871 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-05-01 10:16:33,229 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:16:43,555 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-05-01 10:16:43,880 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_05_01\10_16_30\screenshot_luthien5921.png
+[ 2024-05-01 10:16:43,881 ] 91 main_controller - INFO - Finding forms
+[ 2024-05-01 10:16:45,349 ] 91 main_controller - INFO - Found 2 form(s)
+[ 2024-05-01 10:16:45,349 ] 91 main_controller - INFO - Customers: [{'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Xuan Truong', 'last_name': 'Do', 'date_birth': '19921211', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Anh Ngoc', 'last_name': 'Chia', 'date_birth': '19961208', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Sang', 'last_name': 'Phan', 'date_birth': '19970228', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Hoai Phong', 'last_name': 'Vo', 'date_birth': '19981101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Tuan Anh', 'last_name': 'Huynh', 'date_birth': '19950106', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Han', 'last_name': 'Nguyen', 'date_birth': '19910525', 'nation': 'ベトナム', 'country': 'ベトナム'}]
+[ 2024-05-01 10:16:45,350 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-05-01 10:16:45,351 ] 91 main_controller - INFO - Customer index 0: Truong The Hieu, M, 19990506, 080-1583-0891, ベトナム
+[ 2024-05-01 10:16:52,465 ] 79 main_controller - ERROR - Caught exception: 'charmap' codec can't encode characters in position 781-785: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 97, in subprocess
+    filler.fill(browser, form_info, customer)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 72, in fill
+    file_save.write(pg_source)
+  File "C:\Users\USER\anaconda3\envs\aichi\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 781-785: character maps to <undefined>
+[ 2024-05-01 10:16:54,756 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-05-01 10:16:54,756 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-05-01 10:16:56,883 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:16:56,883 ] 91 main_controller - INFO - Browser opened

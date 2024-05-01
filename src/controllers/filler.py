@@ -5,8 +5,9 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.action_chains import ActionChains
 
 
-from src.globals import URLs, Meta
+from src.globals import Meta, Keywords, abs_path
 from src.models import Account, FormInfo, Customer, AccessMessage, EndMessage
+from src.logs import BaseLogger
 from .base_controller import BaseController
 from src.utils.html_utils import wait_until_presence
 
@@ -64,14 +65,18 @@ class Filler(BaseController):
          self.logger.exception("Failed to click continue button: " + str(e))
          return
 
+      # Save page source for debugging
+      if Meta.debug_mode:
+         pg_source = browser.page_source
+         file_path = abs_path(self.logger.child_folder, "form_{}.html".format(self.account.name))
+         self.logger.info("Save page source to {}".format(file_path))
+         file_save = open(file_path, "w", encoding="utf-8")
+         file_save.write(pg_source)
+         file_save.close()
+
       # Fill inputs
       result_fill = False
-      self.logger.info("Save page source to onlyday.html")
-      pg_source = browser.page_source()
-      file_save = open("onlyday.html", "w")
-      file_save.write(pg_source)
-      file_save.close()
-      if Meta.keyword == "Tosan" or Meta.keyword == "Hirabari":
+      if Meta.keyword in [Keywords.Tosan, Keywords.Hirabari]:
          result_fill = self.fill_Tosan_Hirabari(browser, customer)
       else:
          result_fill = self.fill_else(browser, customer)
@@ -171,7 +176,6 @@ class Filler(BaseController):
    def click_checkbox(self, browser: WebDriver, by: str, html: str):
       try:
          checkbox_element = browser.find_element(by, html)
-         action = Ac
          checkbox_element.click()
          # ActionChains(browser).move_to_element(checkbox_element).click(checkbox_element).perform()
          self.logger.info("Check checkbox: {} by {}".format(html, by))

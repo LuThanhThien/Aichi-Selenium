@@ -1,0 +1,124 @@
+[ 2024-05-01 10:14:16,888 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-05-01 10:14:16,889 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-05-01 10:14:18,900 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-05-01 10:14:18,900 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-05-01 10:14:18,901 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei1@gmail.com, Password: aichi@5921
+[ 2024-05-01 10:14:18,901 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei1@gmail.com, Password: aichi@5921
+[ 2024-05-01 10:14:19,869 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:19,869 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:20,922 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-05-01 10:14:20,922 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-05-01 10:14:20,922 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-05-01 10:14:20,923 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-05-01 10:14:20,923 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-05-01 10:14:20,923 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921+shinsei2@gmail.com, Password: aichi@5921
+[ 2024-05-01 10:14:22,635 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:22,635 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:22,635 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:33,102 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-05-01 10:14:33,102 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-05-01 10:14:33,102 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-05-01 10:14:33,164 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-05-01 10:14:33,164 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-05-01 10:14:33,164 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-05-01 10:14:33,480 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_05_01\10_14_15\screenshot_luthien5921+shinsei2.png
+[ 2024-05-01 10:14:33,480 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_05_01\10_14_15\screenshot_luthien5921+shinsei2.png
+[ 2024-05-01 10:14:33,480 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_05_01\10_14_15\screenshot_luthien5921+shinsei2.png
+[ 2024-05-01 10:14:33,481 ] 91 main_controller - INFO - Finding forms
+[ 2024-05-01 10:14:33,481 ] 91 main_controller - INFO - Finding forms
+[ 2024-05-01 10:14:33,481 ] 91 main_controller - INFO - Finding forms
+[ 2024-05-01 10:14:33,494 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_05_01\10_14_15\screenshot_luthien5921.png
+[ 2024-05-01 10:14:33,494 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_05_01\10_14_15\screenshot_luthien5921.png
+[ 2024-05-01 10:14:33,494 ] 91 main_controller - INFO - Screenshot saved to C:\Users\USER\Projects\AichiTool\AichiSelenium\logs\2024_05_01\10_14_15\screenshot_luthien5921.png
+[ 2024-05-01 10:14:33,495 ] 91 main_controller - INFO - Finding forms
+[ 2024-05-01 10:14:33,495 ] 91 main_controller - INFO - Finding forms
+[ 2024-05-01 10:14:33,495 ] 91 main_controller - INFO - Finding forms
+[ 2024-05-01 10:14:35,446 ] 91 main_controller - INFO - Found 2 form(s)
+[ 2024-05-01 10:14:35,446 ] 91 main_controller - INFO - Found 2 form(s)
+[ 2024-05-01 10:14:35,446 ] 91 main_controller - INFO - Found 2 form(s)
+[ 2024-05-01 10:14:35,447 ] 91 main_controller - INFO - Customers: [{'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Xuan Truong', 'last_name': 'Do', 'date_birth': '19921211', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Anh Ngoc', 'last_name': 'Chia', 'date_birth': '19961208', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Sang', 'last_name': 'Phan', 'date_birth': '19970228', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Hoai Phong', 'last_name': 'Vo', 'date_birth': '19981101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Tuan Anh', 'last_name': 'Huynh', 'date_birth': '19950106', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Han', 'last_name': 'Nguyen', 'date_birth': '19910525', 'nation': 'ベトナム', 'country': 'ベトナム'}]
+[ 2024-05-01 10:14:35,447 ] 91 main_controller - INFO - Customers: [{'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Xuan Truong', 'last_name': 'Do', 'date_birth': '19921211', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Anh Ngoc', 'last_name': 'Chia', 'date_birth': '19961208', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Sang', 'last_name': 'Phan', 'date_birth': '19970228', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Hoai Phong', 'last_name': 'Vo', 'date_birth': '19981101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Tuan Anh', 'last_name': 'Huynh', 'date_birth': '19950106', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Han', 'last_name': 'Nguyen', 'date_birth': '19910525', 'nation': 'ベトナム', 'country': 'ベトナム'}]
+[ 2024-05-01 10:14:35,447 ] 91 main_controller - INFO - Customers: [{'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Xuan Truong', 'last_name': 'Do', 'date_birth': '19921211', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Anh Ngoc', 'last_name': 'Chia', 'date_birth': '19961208', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Sang', 'last_name': 'Phan', 'date_birth': '19970228', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Hoai Phong', 'last_name': 'Vo', 'date_birth': '19981101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Tuan Anh', 'last_name': 'Huynh', 'date_birth': '19950106', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Han', 'last_name': 'Nguyen', 'date_birth': '19910525', 'nation': 'ベトナム', 'country': 'ベトナム'}]
+[ 2024-05-01 10:14:35,447 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-05-01 10:14:35,447 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-05-01 10:14:35,447 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-05-01 10:14:35,448 ] 91 main_controller - INFO - Customer index 0: Truong The Hieu, M, 19990506, 080-1583-0891, ベトナム
+[ 2024-05-01 10:14:35,448 ] 91 main_controller - INFO - Customer index 0: Truong The Hieu, M, 19990506, 080-1583-0891, ベトナム
+[ 2024-05-01 10:14:35,448 ] 91 main_controller - INFO - Customer index 0: Truong The Hieu, M, 19990506, 080-1583-0891, ベトナム
+[ 2024-05-01 10:14:35,597 ] 91 main_controller - INFO - Found 2 form(s)
+[ 2024-05-01 10:14:35,597 ] 91 main_controller - INFO - Found 2 form(s)
+[ 2024-05-01 10:14:35,597 ] 91 main_controller - INFO - Found 2 form(s)
+[ 2024-05-01 10:14:35,597 ] 91 main_controller - INFO - Customers: [{'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}, {'first_name': 'Xuan Truong', 'last_name': 'Do', 'date_birth': '19921211', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Anh Ngoc', 'last_name': 'Chia', 'date_birth': '19961208', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Sang', 'last_name': 'Phan', 'date_birth': '19970228', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Hoai Phong', 'last_name': 'Vo', 'date_birth': '19981101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Tuan Anh', 'last_name': 'Huynh', 'date_birth': '19950106', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Han', 'last_name': 'Nguyen', 'date_birth': '19910525', 'nation': 'ベトナム', 'country': 'ベトナム'}]
+[ 2024-05-01 10:14:35,597 ] 91 main_controller - INFO - Customers: [{'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}, {'first_name': 'Xuan Truong', 'last_name': 'Do', 'date_birth': '19921211', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Anh Ngoc', 'last_name': 'Chia', 'date_birth': '19961208', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Sang', 'last_name': 'Phan', 'date_birth': '19970228', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Hoai Phong', 'last_name': 'Vo', 'date_birth': '19981101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Tuan Anh', 'last_name': 'Huynh', 'date_birth': '19950106', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Han', 'last_name': 'Nguyen', 'date_birth': '19910525', 'nation': 'ベトナム', 'country': 'ベトナム'}]
+[ 2024-05-01 10:14:35,597 ] 91 main_controller - INFO - Customers: [{'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'M'}, {'first_name': 'Xuan Truong', 'last_name': 'Do', 'date_birth': '19921211', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Anh Ngoc', 'last_name': 'Chia', 'date_birth': '19961208', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Sang', 'last_name': 'Phan', 'date_birth': '19970228', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Hoai Phong', 'last_name': 'Vo', 'date_birth': '19981101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Tuan Anh', 'last_name': 'Huynh', 'date_birth': '19950106', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Han', 'last_name': 'Nguyen', 'date_birth': '19910525', 'nation': 'ベトナム', 'country': 'ベトナム'}]
+[ 2024-05-01 10:14:35,599 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-05-01 10:14:35,599 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-05-01 10:14:35,599 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'The Hieu', 'last_name': 'Truong', 'date_birth': '19990506', 'nation': 'ベトナム', 'country': 'ベトナム', 'phone_number': '080-1583-0891', 'gender': 'F'}
+[ 2024-05-01 10:14:35,600 ] 91 main_controller - INFO - Customer index 0: Truong The Hieu, F, 19990506, 080-1583-0891, ベトナム
+[ 2024-05-01 10:14:35,600 ] 91 main_controller - INFO - Customer index 0: Truong The Hieu, F, 19990506, 080-1583-0891, ベトナム
+[ 2024-05-01 10:14:35,600 ] 91 main_controller - INFO - Customer index 0: Truong The Hieu, F, 19990506, 080-1583-0891, ベトナム
+[ 2024-05-01 10:14:42,837 ] 79 main_controller - ERROR - Caught exception: 'str' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 97, in subprocess
+    filler.fill(browser, form_info, customer)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 70, in fill
+    pg_source = browser.page_source()
+TypeError: 'str' object is not callable
+[ 2024-05-01 10:14:42,837 ] 79 main_controller - ERROR - Caught exception: 'str' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 97, in subprocess
+    filler.fill(browser, form_info, customer)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 70, in fill
+    pg_source = browser.page_source()
+TypeError: 'str' object is not callable
+[ 2024-05-01 10:14:42,837 ] 79 main_controller - ERROR - Caught exception: 'str' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 97, in subprocess
+    filler.fill(browser, form_info, customer)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 70, in fill
+    pg_source = browser.page_source()
+TypeError: 'str' object is not callable
+[ 2024-05-01 10:14:43,261 ] 79 main_controller - ERROR - Caught exception: 'str' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 97, in subprocess
+    filler.fill(browser, form_info, customer)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 70, in fill
+    pg_source = browser.page_source()
+TypeError: 'str' object is not callable
+[ 2024-05-01 10:14:43,261 ] 79 main_controller - ERROR - Caught exception: 'str' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 97, in subprocess
+    filler.fill(browser, form_info, customer)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 70, in fill
+    pg_source = browser.page_source()
+TypeError: 'str' object is not callable
+[ 2024-05-01 10:14:43,261 ] 79 main_controller - ERROR - Caught exception: 'str' object is not callable
+Traceback (most recent call last):
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\main_controller.py", line 97, in subprocess
+    filler.fill(browser, form_info, customer)
+  File "C:\Users\USER\Projects\AichiTool\AichiSelenium\src\controllers\filler.py", line 70, in fill
+    pg_source = browser.page_source()
+TypeError: 'str' object is not callable
+[ 2024-05-01 10:14:45,259 ] 91 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-05-01 10:14:45,259 ] 91 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-05-01 10:14:45,259 ] 91 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-05-01 10:14:45,259 ] 91 main_controller - INFO - Subprocess 2 started with trial number 1
+[ 2024-05-01 10:14:45,737 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:45,737 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:45,737 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:45,737 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:46,094 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-05-01 10:14:46,094 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-05-01 10:14:46,094 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-05-01 10:14:46,094 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-05-01 10:14:46,094 ] 91 main_controller - INFO - Subprocess 0 started with trial number 1
+[ 2024-05-01 10:14:48,328 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:48,328 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:48,328 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:48,328 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:48,328 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:50,580 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:50,580 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:50,580 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:50,580 ] 91 main_controller - INFO - Browser opened
+[ 2024-05-01 10:14:50,580 ] 91 main_controller - INFO - Browser opened
