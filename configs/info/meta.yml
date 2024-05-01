@@ -1,5 +1,5 @@
-# keyword: 行政
-keyword: Hirabari
+keyword: 行政
+# keyword: Hirabari
 onlyday: true
 debug_mode: true
 max_num_retry: 5
