@@ -1,6 +1,0 @@
-[ 2024-04-22 08:26:06,171 ] 94 main_controller - INFO - Subprocess 0 started with trial number 0
-[ 2024-04-22 08:26:06,172 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: Nickpown0411@gmail.com, Password: hoahong1234
-[ 2024-04-22 08:26:08,171 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
-[ 2024-04-22 08:26:08,171 ] 94 main_controller - INFO - Subprocess 1 started with trial number 0
-[ 2024-04-22 08:26:08,172 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: marjyamada040493@gmail.com, Password: Marj0409
-[ 2024-04-22 08:26:08,172 ] 94 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: marjyamada040493@gmail.com, Password: Marj0409
