@@ -66,13 +66,16 @@ class Filler(BaseController):
          return
 
       # Save page source for debugging
-      if Meta.debug_mode:
-         pg_source = browser.page_source
-         file_path = abs_path(self.logger.child_folder, "form_{}.html".format(self.account.name))
-         self.logger.info("Save page source to {}".format(file_path))
-         file_save = open(file_path, "w", encoding="utf-8")
-         file_save.write(pg_source)
-         file_save.close()
+      try:
+         if Meta.debug_mode:
+            pg_source = browser.page_source
+            file_path = abs_path(self.logger.child_folder, "form_{}.html".format(self.account.name))
+            self.logger.info("Save page source to {}".format(file_path))
+            file_save = open(file_path, "w", encoding="utf-8")
+            file_save.write(pg_source)
+            file_save.close()
+      except Exception as e:
+         self.logger.exception("Failed to save page source: " + str(e))
 
       # Fill inputs
       result_fill = False
