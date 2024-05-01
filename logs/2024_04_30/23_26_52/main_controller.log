@@ -1,0 +1,30 @@
+[ 2024-04-30 23:26:52,887 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-30 23:26:52,887 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: nihahi50@gmail.com, Password: hoahong1234
+[ 2024-04-30 23:26:54,630 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:26:54,899 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-30 23:26:54,899 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-30 23:26:54,899 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-30 23:26:54,899 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-30 23:26:55,634 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:26:55,634 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:26:56,913 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-30 23:26:56,913 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-30 23:26:56,913 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-30 23:26:56,914 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-30 23:26:56,914 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-30 23:26:56,914 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-30 23:26:57,634 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:26:57,634 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:26:57,634 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:26:58,926 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-30 23:26:58,926 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-30 23:26:58,926 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-30 23:26:58,926 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-30 23:26:58,926 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-30 23:26:58,926 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-30 23:26:58,926 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-30 23:26:58,926 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-30 23:26:59,644 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:26:59,644 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:26:59,644 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 23:26:59,644 ] 91 main_controller - INFO - Browser opened

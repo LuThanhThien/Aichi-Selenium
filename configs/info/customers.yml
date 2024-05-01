@@ -1,21 +1,4 @@
 customers:
-  - first_name: "The Hieu"
-    last_name: "Truong"
-    date_birth: "19990506"
-    nation: "ベトナム"
-    country: "ベトナム"
-
-  - first_name: "Xuan Truong"
-    last_name: "Do"
-    date_birth: "19921211"
-    nation: "ベトナム"
-    country: "ベトナム"
-
-  - first_name: "Anh Ngoc"
-    last_name: "Chia"
-    date_birth: "19961208"
-    nation: "ベトナム"
-    country: "ベトナム"
   
   - first_name: "Van Sang"
     last_name: "Phan"
@@ -40,6 +23,25 @@ customers:
     date_birth: "19910525"
     nation: "ベトナム"
     country: "ベトナム"
+  - first_name: "The Hieu"
+    last_name: "Truong"
+    date_birth: "19990506"
+    nation: "ベトナム"
+    country: "ベトナム"
+
+  - first_name: "Xuan Truong"
+    last_name: "Do"
+    date_birth: "19921211"
+    nation: "ベトナム"
+    country: "ベトナム"
+
+  - first_name: "Anh Ngoc"
+    last_name: "Chia"
+    date_birth: "19961208"
+    nation: "ベトナム"
+    country: "ベトナム"
+  
+  
 
   
 
