@@ -161,9 +161,9 @@ cython_debug/
 
 
 # Ignore logs and configs
-./logs
-./configs/info/meta.yml
+logs/
+configs/info/meta.yml
 
 # Ignore downloading files
-./downloaded_files
-./drivers
+downloaded_files/
+drivers/
