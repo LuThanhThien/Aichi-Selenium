@@ -180,7 +180,7 @@ class Filler(BaseController):
          # ActionChains(browser).move_to_element(checkbox_element).click(checkbox_element).perform()
          self.logger.info("Check checkbox: {} by {}".format(html, by))
       except Exception as e:
-         self.logger.exception("Failed to check checkbox: " + str(e))
+         self.logger.exception("Failed to check checkbox by {} with {}: {}".format(by, html, str(e)))
 
    def click_button(self, browser: WebDriver, by: str, html: str):
       try:

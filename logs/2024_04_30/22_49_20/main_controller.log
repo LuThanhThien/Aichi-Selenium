@@ -1,0 +1,14 @@
+[ 2024-04-30 22:49:20,781 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-30 22:49:20,782 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: luthien5921@gmail.com, Password: aichi@5921
+[ 2024-04-30 22:49:22,705 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-30 22:49:32,006 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-30 22:49:32,112 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_30\22_49_20\screenshot_luthien5921.png
+[ 2024-04-30 22:49:32,113 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-30 22:49:33,834 ] 91 main_controller - INFO - Found 2 form(s)
+[ 2024-04-30 22:49:33,834 ] 91 main_controller - INFO - Customers: [{'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Cristiane', 'date_birth': '19680727', 'nation': 'ブラジル', 'country': 'ブラジル'}, {'first_name': 'Lama', 'last_name': 'Karan', 'date_birth': '20010512', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Jan Hakim Jan', 'last_name': 'Muhammad', 'date_birth': '19770101', 'nation': 'パキスタン', 'country': 'パキスタン'}, {'first_name': 'Thi Ngoc', 'last_name': 'Bui', 'date_birth': '19930101', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Van Thuc', 'last_name': 'Nguyen', 'date_birth': '19941003', 'nation': 'ベトナム', 'country': 'ベトナム'}, {'first_name': 'Ghimire', 'last_name': 'Sagyan', 'date_birth': '20020604', 'nation': 'ネパール', 'country': 'ネパール'}, {'first_name': 'Emmanuel', 'last_name': 'Obua', 'date_birth': '19801225', 'nation': 'ウガンダ', 'country': 'ウガンダ'}]
+[ 2024-04-30 22:49:33,835 ] 91 main_controller - INFO - Customer info index 0: {'first_name': 'Ritoshi Dos Santos Oyakawa', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 22:49:33,835 ] 91 main_controller - INFO - Customer index 0: Vinicius Ritoshi Dos Santos Oyakawa, M, 19990621, 080-1583-0891, ブラジル
+[ 2024-04-30 22:49:52,031 ] 91 main_controller - INFO - Failed to fill form, template sequence: 3896
+[ 2024-04-30 22:49:52,031 ] 91 main_controller - INFO - Remaining form(s): 2
+[ 2024-04-30 22:49:52,032 ] 91 main_controller - INFO - Customer info index 1: {'first_name': 'Raiz Sintani', 'last_name': 'Vinicius', 'date_birth': '19990621', 'nation': 'ブラジル', 'country': 'ブラジル', 'phone_number': '080-1583-0891', 'gender': 'M'}
+[ 2024-04-30 22:49:52,032 ] 91 main_controller - INFO - Customer index 1: Vinicius Raiz Sintani, M, 19990621, 080-1583-0891, ブラジル

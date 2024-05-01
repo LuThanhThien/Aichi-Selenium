@@ -1,0 +1,78 @@
+[ 2024-04-29 22:35:22,571 ] 91 main_controller - INFO - Subprocess 0 started with trial number 0
+[ 2024-04-29 22:35:22,571 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: nihahi50@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:35:24,503 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:35:24,582 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-29 22:35:24,582 ] 91 main_controller - INFO - Subprocess 1 started with trial number 0
+[ 2024-04-29 22:35:24,582 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:35:24,582 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: ble79037@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:35:25,370 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:35:25,370 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:35:26,588 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-29 22:35:26,588 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-29 22:35:26,588 ] 91 main_controller - INFO - Subprocess 2 started with trial number 0
+[ 2024-04-29 22:35:26,588 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:35:26,588 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:35:26,588 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: benemmai380@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:35:27,449 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:35:27,449 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:35:27,449 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:35:28,596 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-29 22:35:28,596 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-29 22:35:28,596 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-29 22:35:28,596 ] 91 main_controller - INFO - Subprocess 3 started with trial number 0
+[ 2024-04-29 22:35:28,596 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:35:28,596 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:35:28,596 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:35:28,596 ] 91 main_controller - ERROR - Account is a dictionary, convert to Account object: Username: leongnardo12@gmail.com, Password: hoahong1234
+[ 2024-04-29 22:35:29,334 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:35:29,334 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:35:29,334 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:35:29,334 ] 91 main_controller - INFO - Browser opened
+[ 2024-04-29 22:35:36,329 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:36,329 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:36,329 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:36,329 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:36,437 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_nihahi50.png
+[ 2024-04-29 22:35:36,437 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_nihahi50.png
+[ 2024-04-29 22:35:36,437 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_nihahi50.png
+[ 2024-04-29 22:35:36,437 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_nihahi50.png
+[ 2024-04-29 22:35:36,437 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:36,437 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:36,437 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:36,437 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:37,072 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:37,072 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:37,072 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:37,072 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:37,149 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:37,149 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:37,149 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:37,149 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:37,211 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_ble79037.png
+[ 2024-04-29 22:35:37,211 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_ble79037.png
+[ 2024-04-29 22:35:37,211 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_ble79037.png
+[ 2024-04-29 22:35:37,211 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_ble79037.png
+[ 2024-04-29 22:35:37,211 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:37,211 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:37,211 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:37,211 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:37,261 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_benemmai380.png
+[ 2024-04-29 22:35:37,261 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_benemmai380.png
+[ 2024-04-29 22:35:37,261 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_benemmai380.png
+[ 2024-04-29 22:35:37,261 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_benemmai380.png
+[ 2024-04-29 22:35:37,262 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:37,262 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:37,262 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:37,262 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:38,732 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:38,732 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:38,732 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:38,732 ] 91 main_controller - INFO - Logged in successfully
+[ 2024-04-29 22:35:38,852 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_leongnardo12.png
+[ 2024-04-29 22:35:38,852 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_leongnardo12.png
+[ 2024-04-29 22:35:38,852 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_leongnardo12.png
+[ 2024-04-29 22:35:38,852 ] 91 main_controller - INFO - Screenshot saved to D:\luthien\code\Achi.Tool\AichiSelenium\logs\2024_04_29\22_35_22\screenshot_leongnardo12.png
+[ 2024-04-29 22:35:38,852 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:38,852 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:38,852 ] 91 main_controller - INFO - Finding forms
+[ 2024-04-29 22:35:38,852 ] 91 main_controller - INFO - Finding forms
