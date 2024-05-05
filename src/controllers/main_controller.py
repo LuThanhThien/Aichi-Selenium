@@ -91,6 +91,7 @@ class MainController:
                customer_index += 1
             else:
                customer = Customer.random_customer()
+               main_logger.info("Random customer: {}".format(customer))
 
             # Get first form info and fill
             form_info = list_form_info.pop(0)

@@ -79,7 +79,7 @@ class Customer:
          gender=random.choice(Fake.gender),
          phone_number=random.choice(Fake.phone_number),
          nation=random.choice(Fake.nation),
-         country=random.choice(Fake.country),
+         country=random.choice(Fake.nation),
          school_name=random.choice(Fake.school_name),
          prefacture=random.choice(Fake.prefacture),
          examin_number=random.choice(Fake.examin_number)
@@ -124,7 +124,7 @@ class Customer:
       
 
    def __str__(self) -> str:
-      return f"{self.last_name} {self.first_name}, {self.gender}, {self.date_birth}, {self.phone_number_dash}, {self.nation}"
+      return f"{self.last_name} {self.first_name}, {self.gender}, {self.date_birth}, {self.phone_number_dash}, {self.nation} {self.country}"
 
 if __name__=="__main__":
    customer1 = Customer.random_customer()

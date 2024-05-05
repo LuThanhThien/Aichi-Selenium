@@ -2,8 +2,6 @@ import time
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
-from selenium.webdriver.common.action_chains import ActionChains
-
 
 from src.globals import Meta, Keywords, abs_path
 from src.models import Account, FormInfo, Customer, AccessMessage, EndMessage

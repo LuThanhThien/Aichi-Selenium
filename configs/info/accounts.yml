@@ -1,15 +1,15 @@
 test_accounts:
-  - username: luthien5921@gmail.com
-    password: aichi@5921
+  # - username: luthien5921@gmail.com
+  #   password: aichi@5921
 
-  - username: luthien5921+shinsei1@gmail.com
-    password: aichi@5921
+  # - username: luthien5921+shinsei1@gmail.com
+  #   password: aichi@5921
 
-  - username: luthien5921+shinsei2@gmail.com
-    password: aichi@5921
+  # - username: luthien5921+shinsei2@gmail.com
+  #   password: aichi@5921
 
-  - username: giathanh010101@gmail.com
-    password: aichi@5921
+  # - username: giathanh010101@gmail.com
+  #   password: aichi@5921
 
   - username: piechipiechipeach@gmail.com
     password: aichi@5921
@@ -30,8 +30,8 @@ dev_accounts:
   - username: benemmai380@gmail.com
     password: hoahong1234
 
-  - username: leongnardo12@gmail.com
-    password: hoahong1234
+  # - username: leongnardo12@gmail.com
+  #   password: hoahong1234
 
   # - username: ngtrnghi123@gmail.com
   #   password: hoahong1234
@@ -56,8 +56,6 @@ dev_accounts:
 
   # - username: tuanminhnguyen1508@gmail.com   # false
   #   password: hoahong1234
-
-
 
   # - username: haronalcr7@gmail.com   # false
   #   password: hoahong1234

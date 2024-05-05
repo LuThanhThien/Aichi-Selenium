@@ -10,7 +10,6 @@ from .base_controller import BaseController
 from src.models import Account, FormInfo, DateLabel
 from src.utils import data_utils as du
 
-
 class Finder(BaseController):
    def __init__(self, account: Account = None) -> None:
       super().__init__(account)
