@@ -72,14 +72,15 @@ class Customer:
 
    @staticmethod
    def random_customer():
+      nation = random.choice(Fake.nation)
       return Customer(
          last_name=random.choice(Fake.last_name),
          first_name=random.choice(Fake.first_name),
          date_birth=random.choice(Fake.date_birth),
          gender=random.choice(Fake.gender),
          phone_number=random.choice(Fake.phone_number),
-         nation=random.choice(Fake.nation),
-         country=random.choice(Fake.nation),
+         nation=nation,
+         country=nation,
          school_name=random.choice(Fake.school_name),
          prefacture=random.choice(Fake.prefacture),
          examin_number=random.choice(Fake.examin_number)

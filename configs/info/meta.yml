@@ -7,6 +7,6 @@ default_num_threads: 3
 display_number: 50
 main_phone_number_dash: 080-1583-0891
 uc: true
-headless: true
+headless: false
 timeout: 900
  

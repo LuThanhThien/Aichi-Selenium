@@ -88,7 +88,10 @@ class Filler(BaseController):
 
       # Check agree and click submit
       try:
-         self.click_checkbox(browser, By.XPATH, "/html/body/form/main/div/div[4]/dl[7]/dd/fieldset/p/label/span")
+         if Meta.keyword == Keywords.Hirabari:
+            self.click_checkbox(browser, By.XPATH, "/html/body/form/main/div/div[4]/dl[7]/dd/fieldset/p/label/span")
+         elif Meta.keyword == Keywords.Tosan:
+            self.click_checkbox(browser, By.NAME, "item[7].choiceList[0].checkFlag")
          browser.find_element(By.XPATH, "/html/body/form/main/div/div[5]/div/input").click()
       except Exception as e:
          self.logger.exception("Failed to click submit: " + str(e))

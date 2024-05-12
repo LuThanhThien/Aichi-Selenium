@@ -1,6 +1,6 @@
 test_accounts:
-  # - username: luthien5921@gmail.com
-  #   password: aichi@5921
+  - username: luthien5921@gmail.com
+    password: aichi@5921
 
   # - username: luthien5921+shinsei1@gmail.com
   #   password: aichi@5921
@@ -11,14 +11,14 @@ test_accounts:
   # - username: giathanh010101@gmail.com
   #   password: aichi@5921
 
-  - username: piechipiechipeach@gmail.com
-    password: aichi@5921
+  # - username: piechipiechipeach@gmail.com
+  #   password: aichi@5921
 
-  - username: piechipeach@gmail.com
-    password: aichi@5921
+  # - username: piechipeach@gmail.com
+  #   password: aichi@5921
 
-  - username: nqkhanhtoan@gmail.com
-    password: aichi@5921
+  # - username: nqkhanhtoan@gmail.com
+  #   password: aichi@5921
     
 dev_accounts:
   - username: nihahi50@gmail.com
